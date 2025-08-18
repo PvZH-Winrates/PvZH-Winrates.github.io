@@ -1,0 +1,80 @@
+2025-05-31 17:52:43|cascade|lolo|bf|bc|gargolith tech|Unknown
+2025-05-31 17:52:43|cascade|lolo|cc|zm|modded mosu|Unknown
+2025-05-31 17:52:43|cascade|lolo|gk|im|golden knight three musketeers mirror pump with ebarbs|Unknown
+2025-05-31 17:52:43|cascade|lolo|nc|rb|turles|Unknown
+2025-05-31 17:52:43|lolo|cascade|gk|nt|Unknown|gargolith control
+2025-05-31 23:03:56|aldogael|lang|ct|im|watertron|أجدين البوسني
+2025-05-31 23:03:56|aldogael|lang|sf|zm|flaming berries|4x3 king tempo 🧱
+2025-05-31 23:03:56|aldogael|lang|sm|bc|midgargs|control
+2025-05-31 23:03:56|lang|aldogael|hg|ro|telimps|no skilled heal control
+2025-05-31 23:03:56|lang|aldogael|ro|bf|hmr|ltb
+2025-05-31 23:03:56|lang|aldogael|sf|im|heal control|untrickaroar
+2025-05-31 23:03:56|lang|aldogael|sm|cz|pablo's nitrous|fruitzilla
+2025-06-01 03:09:33|diego|voof|hg|sp|telimps|jp therapy
+2025-06-01 03:09:33|diego|voof|sf|rb|latam control|bolt bolt
+2025-06-01 03:09:33|voof|diego|cc|zm|aggro tempo|pyro
+2025-06-01 03:09:33|voof|diego|im|cz|aggro|aggro
+2025-06-01 03:09:33|voof|diego|nc|rb|fb control|tricks
+2025-06-01 03:09:33|voof|diego|zm|gs|trickmech|rebound
+2025-06-01 20:29:27|slewer|valencia|cc|im|speedway|kaleidoscope
+2025-06-01 20:29:27|slewer|valencia|eb|cz|boogtrol|pilefruit
+2025-06-01 20:29:27|slewer|valencia|sm|cc|pablos yeezys|loggerrys
+2025-06-01 20:29:27|valencia|slewer|ct|bf|megamphitrión|boris locked me out
+2025-06-01 20:29:27|valencia|slewer|hg|wk|fatality|chemotherapy
+2025-06-01 20:29:27|valencia|slewer|if|sp|paintrolla|radiotherapy
+2025-06-01 20:29:27|valencia|slewer|sf|sb|flamerrys|telimps
+2025-06-02 02:10:46|baron|tomaselli|cc|nt|other|Unknown
+2025-06-02 02:10:46|baron|tomaselli|gk|bf|aggro|Unknown
+2025-06-02 02:10:46|baron|tomaselli|if|cc|graggro|Unknown
+2025-06-02 02:10:46|baron|tomaselli|pb|sf|trickstache|Unknown
+2025-06-02 02:10:46|tomaselli|baron|wk|bf|Unknown|grave boy
+2025-06-02 04:20:14|boing|tornillo|cc|eb|token aggro|Unknown
+2025-06-02 04:20:14|boing|tornillo|cz|rb|original deck|Unknown
+2025-06-02 04:20:14|boing|tornillo|rb|sf|pogger|Unknown
+2025-06-02 04:20:14|boing|tornillo|zm|gs|weekend trickmech|Unknown
+2025-06-03 20:50:20|fluke|hexada|if|bc|splash|watery graves
+2025-06-03 20:50:20|fluke|hexada|sp|nt|gk rip off|flag
+2025-06-03 20:50:20|hexada|fluke|hg|wk|gargolimps|chemo
+2025-06-03 20:50:20|hexada|fluke|rb|nc|unhexable|cyburn
+2025-06-03 20:50:20|hexada|fluke|sp|eb|suicide therapy|pile
+2025-06-03 20:50:20|hexada|fluke|wk|sm|latam meta|midgargs
+2025-06-04 16:50:59|diego|lang|im|gs|neutron|bosnibeans
+2025-06-04 16:50:59|diego|lang|ro|if|hmr|spacestars
+2025-06-04 16:50:59|diego|lang|sm|sp|gargs|dino berries
+2025-06-04 16:50:59|lang|diego|eb|gk|seacret|shitupdate
+2025-06-04 16:50:59|lang|diego|im|cc|أجدين البوسني|aggro
+2025-06-04 16:50:59|lang|diego|sf|hg|hmf|telimps
+2025-06-04 16:50:59|lang|diego|zm|sf|4x3 king tempo|control
+2025-06-04 17:31:13|lolo|mono|gk|zm|4 gaca|4 conman
+2025-06-04 17:31:13|lolo|mono|im|cc|quaterly bonus|speedway mono always going for that 1/3 lethal but they said it was 99.99/100 or something
+2025-06-04 17:31:13|lolo|mono|rb|nc|pogger|repeat
+2025-06-04 17:31:13|lolo|mono|zm|nc|arishem|turles
+2025-06-04 17:31:13|mono|lolo|eb|sf|janisarries|ramp
+2025-06-04 17:31:13|mono|lolo|if|bc|hokaistars|control
+2025-06-04 17:31:13|mono|lolo|nt|ro|slugged|hmramp
+2025-06-04 21:16:27|dericop|tcc|zm|ro|pyro|rcch 1.6 heal midrose v29
+2025-06-04 21:16:27|tcc|dericop|im|gk|vietnam combostaches v6|pile
+2025-06-04 21:16:27|tcc|dericop|nc|nt|tcc tqm jp transposition v9|piport
+2025-06-04 21:16:27|tcc|dericop|rb|ro|tryhard boris 1.6 bolt bolt v25|heal midrose modded
+2025-06-04 21:16:27|tcc|dericop|zm|ct|mono vortice starmech v14|pile
+2025-06-05 03:17:28|tornillo|voof|bc|zm|watertina|weekend trickmech
+2025-06-05 03:17:28|tornillo|voof|nc|sb|fig amphibian|gravestats
+2025-06-05 03:17:28|tornillo|voof|zm|cc|coffe aggro|tempo
+2025-06-05 03:17:28|voof|tornillo|bc|if|watertina|lapidary secrets
+2025-06-05 03:17:28|voof|tornillo|cz|im|valuezilla mod|environmental trouble
+2025-06-05 03:17:28|voof|tornillo|nc|hg|control|shit teleimps
+2025-06-05 03:17:28|voof|tornillo|rb|sf|boing-boris hybrid|michael control
+2025-06-07 19:36:30|cascade|j.s|cc|im|modded mosu|modded kaleidoscope
+2025-06-07 19:36:30|cascade|j.s|hg|gk|telimps|what is this deck
+2025-06-07 19:36:30|cascade|j.s|rb|cc|poggerazzi|unnamed
+2025-06-07 19:36:30|cascade|j.s|sm|nc|pablo's yeezys|figrange
+2025-06-07 19:36:30|j.s|cascade|bf|ro|neogenesis|modded hmr
+2025-06-07 19:36:30|j.s|cascade|gs|nt|midrange beans|gargolith control
+2025-06-07 19:36:30|j.s|cascade|if|bc|deadly splash|control
+2025-06-08 01:13:53|michael|slewer|ct|im|tronco|portal gun
+2025-06-08 01:13:53|michael|slewer|cz|sm|mid apo|pablos yeezys
+2025-06-08 01:13:53|michael|slewer|if|cc|spacestars|speedway
+2025-06-08 01:13:53|michael|slewer|sf|hg|destroy everything|telimps
+2025-06-08 01:13:53|slewer|michael|rb|ro|bolt bolt|ladder
+2025-06-08 01:13:53|slewer|michael|ro|bf|hmr|lockout
+2025-06-08 01:13:53|slewer|michael|sf|im|sunscreen|anti control

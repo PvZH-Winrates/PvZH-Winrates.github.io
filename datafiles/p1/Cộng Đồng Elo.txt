@@ -1,0 +1,192 @@
+2025-01-06 04:09:09|elio|huyn|ro|sm|freeze|plabo
+2025-01-06 04:09:09|elio|huyn|sf|im|figseedv2|brf
+2025-01-06 04:09:09|elio|huyn|wk|nt|flowers|trickimps
+2025-01-06 04:09:09|huyn|elio|bf|nc|petty|seedfig
+2025-01-06 04:09:09|huyn|elio|eb|cz|huynea|onion
+2025-01-22 04:15:33|fluke|alan|bc|if|watertina|deadly splash
+2025-01-22 04:15:33|fluke|alan|gk|eb|wappotk|mr feeeeeeeeast
+2025-01-22 04:15:33|fluke|alan|zm|cc|modded spellsteal|anti-trickstache
+2025-02-19 14:58:37|duymon|hung|zm|cc|garg burn|comboss
+2025-02-19 14:58:37|hung|duymon|hg|sf|youngwick|xui như chó
+2025-02-19 14:58:37|hung|duymon|if|ct|spacestar|elusive
+2025-02-19 14:58:37|hung|duymon|nc|pb|bounce|trickstache
+2025-02-24 03:56:42|ber|huyn|gk|im|mít nắc|borisreference
+2025-02-24 03:56:42|ber|huyn|sm|wk|mondo|modded chemo
+2025-02-24 03:56:42|huyn|ber|nc|im|get rekt|kaleidoscope
+2025-02-24 03:56:42|huyn|ber|sm|wk|temposmash|kaifuku jutsushi no yarinaoshi
+2025-02-24 03:56:42|huyn|ber|zm|nc|nổ hũ|huỳnh bằng cycle crab
+2025-02-24 09:51:22|huyn|caustix|gk|nt|pewknuck|megatronus prime
+2025-02-24 09:51:22|huyn|caustix|im|sf|borisreference|optimus prime
+2025-02-24 09:51:22|huyn|caustix|zm|cc|nổ hũ|sentinel prime
+2025-02-24 12:45:36|huyn|lnvanhh|eb|sp|huynea|radio
+2025-02-24 12:45:36|huyn|lnvanhh|gk|rb|pewknuck|brickster
+2025-02-24 12:45:36|lnvanhh|huyn|bf|gs|mindgame|temptrol
+2025-02-24 12:45:36|lnvanhh|huyn|im|nc|kaido|get rekt
+2025-02-24 12:45:36|lnvanhh|huyn|nc|hg|midmole|t3 lethal
+2025-02-24 14:56:21|huyn|lnvanhh|cc|if|perfect macro|spacestars
+2025-02-24 14:56:21|huyn|lnvanhh|pb|sf|stachesplash|yo mama
+2025-02-24 14:56:21|lnvanhh|huyn|nt|cz|mindgame|testing
+2025-02-24 14:56:21|lnvanhh|huyn|rb|ct|trickbolt|brick
+2025-02-24 14:56:21|lnvanhh|huyn|wk|sm|chemo|tempo smash
+2025-02-25 07:55:07|huyn|padboy|cc|im|perfect macro|garg pile?
+2025-02-25 07:55:07|huyn|padboy|gk|zm|pewknuck|slow pile
+2025-02-25 07:55:07|huyn|padboy|if|cz|modstar|heal pile
+2025-02-25 07:55:07|huyn|padboy|sp|eb|cswarn|dance pile
+2025-02-25 07:55:07|padboy|huyn|gs|zm|techbeans|nổ hũ
+2025-02-25 07:55:07|padboy|huyn|wk|im|chemo?|borisreference
+2025-02-25 09:18:36|padboy|nguyen|bc|sb|amphiburn|pile
+2025-02-25 09:18:36|padboy|nguyen|gs|rb|pile|pile
+2025-02-25 09:18:36|padboy|nguyen|pb|ro|trickstache 2.0|pile
+2025-02-26 04:10:30|fluke|huyn|cc|im|dfl|lorisreference
+2025-02-26 04:10:30|fluke|huyn|sp|eb|ultrapile|huynea
+2025-02-26 04:10:30|huyn|fluke|cc|bf|perfect macro|midrange
+2025-02-26 04:10:30|huyn|fluke|ct|if|the great end|pro semitism
+2025-02-26 04:10:30|huyn|fluke|gk|im|pewknuck|bosnian mode
+2025-02-26 04:10:30|huyn|fluke|if|gk|modstar|pile
+2025-02-26 10:55:35|lnvanhh|padboy|im|ro|Unknown|Unknown
+2025-02-26 10:55:35|lnvanhh|padboy|nc|hg|Unknown|Unknown
+2025-02-26 10:55:35|padboy|lnvanhh|eb|gk|Unknown|Unknown
+2025-02-26 10:55:35|padboy|lnvanhh|gs|zm|Unknown|Unknown
+2025-02-26 10:55:35|padboy|lnvanhh|if|sf|Unknown|Unknown
+2025-02-26 15:17:06|huyn|nguyen|cc|if|Unknown|Unknown
+2025-02-26 15:17:06|huyn|nguyen|eb|sf|Unknown|Unknown
+2025-02-26 15:17:06|nguyen|huyn|cc|zm|Unknown|Unknown
+2025-02-26 15:17:06|nguyen|huyn|rb|gk|Unknown|Unknown
+2025-02-26 15:17:06|nguyen|huyn|zm|sp|Unknown|Unknown
+2025-02-28 14:31:33|huyn|duymon|bc|sm|amphimid|midgargs
+2025-02-28 14:31:33|huyn|duymon|eb|gs|huynea|starfruit
+2025-02-28 14:31:33|huyn|duymon|zm|wk|nổ hũ|stinger out-meta
+2025-02-28 15:41:24|caustix|lnvanhh|hg|ro|unlimited value|hmr
+2025-02-28 15:41:24|caustix|lnvanhh|sf|pb|boo|valkster
+2025-02-28 15:41:24|lnvanhh|caustix|bf|ro|otk|aggrose
+2025-02-28 15:41:24|lnvanhh|caustix|sb|gk|miracle run|wnb
+2025-02-28 15:41:24|lnvanhh|caustix|wk|sm|chemo|otk
+2025-03-01 05:56:57|huyn|padboy|if|wk|midgrave|control
+2025-03-01 05:56:57|padboy|huyn|eb|nc|bait22|get rekt
+2025-03-01 05:56:57|padboy|huyn|gk|sm|padknuck 3.2|garg
+2025-03-01 05:56:57|padboy|huyn|rb|cz|brainrot|pea
+2025-03-01 07:33:36|huyn|lnvanhh|hg|sf|teleimps|testing pile
+2025-03-01 07:33:36|huyn|lnvanhh|im|wk|newborisreference|testing pile
+2025-03-01 07:33:36|huyn|lnvanhh|sp|if|cswarn|testing pile
+2025-03-01 07:52:16|lnvanhh|padboy|nt|gs|grave|techbean
+2025-03-01 07:52:16|lnvanhh|padboy|sp|if|radio|slowstar
+2025-03-01 07:52:16|padboy|lnvanhh|gk|im|padknuck 3.2|otkt
+2025-03-01 07:52:16|padboy|lnvanhh|zm|ro|modded hecatomb|hmr
+2025-03-02 06:25:10|diego|padboy|hg|sp|telimps alts|control
+2025-03-02 06:25:10|diego|padboy|im|cc|diego's control|polpotpot
+2025-03-02 06:25:10|diego|padboy|sp|if|latam control|spacestar
+2025-03-03 10:15:10|huyn|padboy|cc|nt|Unknown|Unknown
+2025-03-03 10:15:10|huyn|padboy|cz|rb|Unknown|Unknown
+2025-03-03 10:15:10|huyn|padboy|hg|sp|Unknown|Unknown
+2025-03-03 10:15:10|padboy|huyn|cz|if|Unknown|Unknown
+2025-03-03 10:15:10|padboy|huyn|sf|nt|Unknown|Unknown
+2025-03-03 10:15:10|padboy|huyn|sm|sf|Unknown|Unknown
+2025-03-03 10:15:10|padboy|huyn|wk|zm|Unknown|Unknown
+2025-03-04 05:29:43|huyn|lnvanhh|hg|wk|longshot|chemo
+2025-03-04 05:29:43|huyn|lnvanhh|ro|rb|nmh|vát bôn?
+2025-03-06 14:18:23|payone|nguyen|ct|zm|Unknown|Unknown
+2025-03-07 13:27:56|huyn|nguyen|cz|rb|apostrike|pile
+2025-03-07 13:27:56|huyn|nguyen|nt|cc|tgraves|pile
+2025-03-07 13:27:56|huyn|nguyen|pb|sf|shitstache|pile
+2025-03-07 13:27:56|huyn|nguyen|sm|ro|plabo|pile
+2025-03-07 13:27:56|nguyen|huyn|if|sp|aggro|cswarn
+2025-03-08 15:30:42|huyn|lnvanhh|cc|zm|perfect aggro|test
+2025-03-08 15:30:42|huyn|lnvanhh|cz|im|apostrike|test
+2025-03-08 15:30:42|huyn|lnvanhh|nt|cc|peakfiction|test
+2025-03-09 13:31:18|senko|nguyen|bf|cc|lockin|otk
+2025-03-09 13:31:18|senko|nguyen|cz|sm|heallatezilla|pile
+2025-03-09 13:31:18|senko|nguyen|im|gs|midrange|beans
+2025-03-09 13:31:18|senko|nguyen|sp|hg|lottery|bmr
+2025-03-09 15:01:49|payone|senko|ro|im|hmr|chicken sink
+2025-03-14 04:40:21|huyn|lnvanhh|gk|zm|reliabe package|a-hecatomb
+2025-03-14 04:40:21|huyn|lnvanhh|sm|nc|plabo nutritional|mid
+2025-03-14 04:40:21|huyn|lnvanhh|zm|gs|plotters|sexbean
+2025-03-14 04:40:21|lnvanhh|huyn|cc|nt|cant rely|peakjure
+2025-03-14 04:40:21|lnvanhh|huyn|im|ct|vikster|s-end
+2025-03-14 09:25:28|huyn|lnvanhh|bf|bc|yuko yunk|ctrl
+2025-03-14 09:25:28|huyn|lnvanhh|cc|zm|pmoping|swarm
+2025-03-14 09:25:28|huyn|lnvanhh|if|gs|converging|tpo
+2025-03-18 08:54:15|payone|senko|eb|bc|burn|control
+2025-03-18 08:54:15|payone|senko|zm|bc|hts|control
+2025-03-20 07:24:32|diego|senko|eb|bc|diegotroll|control
+2025-03-20 07:24:32|diego|senko|gs|bf|beans rebound|lockin
+2025-03-20 07:24:32|diego|senko|sf|im|latam control|midrange
+2025-03-20 07:24:32|diego|senko|zm|bc|tbonemech|control
+2025-03-20 07:24:32|senko|diego|rb|cz|stompster|heal
+2025-03-20 07:24:32|senko|diego|sp|eb|control|mid
+2025-03-23 08:34:07|huyn|hung|nc|if|Unknown|Unknown
+2025-03-23 08:34:07|huyn|hung|nt|nc|Unknown|Unknown
+2025-03-23 08:34:07|huyn|hung|sm|cc|Unknown|Unknown
+2025-03-23 12:41:47|lnvanhh|payone|im|gs|term of service|techbean
+2025-03-23 12:41:47|lnvanhh|payone|sm|ro|yo mama|rmr
+2025-03-23 12:41:47|lnvanhh|payone|sp|zm|radio|hts
+2025-03-23 12:41:47|payone|lnvanhh|cz|pb|ahu|fake trickster
+2025-03-23 12:41:47|payone|lnvanhh|hg|gk|telimp|pknuck
+2025-03-23 13:41:32|payone|senko|cz|pb|ahu|starster
+2025-03-23 13:41:32|payone|senko|if|sp|pirate|control
+2025-03-23 13:41:32|payone|senko|rb|sp|atk header|control
+2025-03-23 13:41:32|senko|payone|bf|bc|lockin|bean bounce
+2025-03-23 13:41:32|senko|payone|gk|im|padknuck mod|science
+2025-03-23 13:41:32|senko|payone|im|bc|anti elo|bean bounce
+2025-03-23 13:41:32|senko|payone|pb|sf|starster|fig
+2025-03-24 09:28:53|padboy|senko|eb|cc|pile|aggro
+2025-03-24 09:28:53|padboy|senko|ro|if|pile|gargolith
+2025-03-24 09:28:53|padboy|senko|zm|gk|pile|control
+2025-03-24 09:28:53|senko|padboy|cc|if|aggro|pile
+2025-03-24 09:28:53|senko|padboy|gs|rb|techbeans|pile
+2025-03-24 09:28:53|senko|padboy|hg|bc|anti elo|pile
+2025-03-24 09:28:53|senko|padboy|im|cz|anti elo|pile
+2025-03-25 11:19:54|senko|snake eyes|bc|bf|mono reference|Unknown
+2025-03-25 11:19:54|senko|snake eyes|cc|rb|mossless|Unknown
+2025-03-25 11:19:54|senko|snake eyes|hg|sf|anti elo|Unknown
+2025-03-25 11:19:54|senko|snake eyes|if|gs|gargolith|Unknown
+2025-03-25 13:00:00|padboy|senko|gk|im|padknuck 4.1|soraticia
+2025-03-25 13:00:00|padboy|senko|gs|hg|pile|telimps
+2025-03-25 13:00:00|padboy|senko|sm|sp|garg|trashpudow
+2025-03-25 13:00:00|padboy|senko|wk|im|control|soraticia
+2025-03-25 13:00:00|senko|padboy|cc|sb|midrange|brainrot
+2025-03-25 13:00:00|senko|padboy|nc|bf|toyota|lunchbuoi
+2025-03-27 12:59:59|huyn|padboy|cc|im|Unknown|Unknown
+2025-03-27 12:59:59|huyn|padboy|if|sf|Unknown|Unknown
+2025-03-27 12:59:59|huyn|padboy|nt|gs|Unknown|Unknown
+2025-03-27 12:59:59|padboy|huyn|bf|gk|Unknown|Unknown
+2025-03-27 12:59:59|padboy|huyn|nc|zm|Unknown|Unknown
+2025-03-28 14:44:27|truong|snake eyes|gs|rb|Unknown|Unknown
+2025-03-28 14:44:27|truong|snake eyes|nc|zm|Unknown|Unknown
+2025-03-28 14:44:27|truong|snake eyes|nt|sp|Unknown|Unknown
+2025-03-28 14:44:27|truong|snake eyes|zm|gs|Unknown|Unknown
+2025-03-28 15:38:29|padboy|snake eyes|eb|sf|Unknown|Unknown
+2025-03-28 15:38:29|padboy|snake eyes|nc|sm|Unknown|Unknown
+2025-03-28 15:38:29|padboy|snake eyes|ro|if|Unknown|Unknown
+2025-03-28 15:38:29|snake eyes|padboy|cc|if|Unknown|Unknown
+2025-04-02 09:46:17|lnvanhh|padboy|gs|bf|Unknown|Unknown
+2025-04-02 09:46:17|padboy|lnvanhh|cz|im|Unknown|Unknown
+2025-04-02 09:46:17|padboy|lnvanhh|if|sf|Unknown|Unknown
+2025-04-02 09:46:17|padboy|lnvanhh|ro|nt|Unknown|Unknown
+2025-04-25 09:13:05|huyn|lnvanhh|cz|rb|Unknown|Unknown
+2025-04-25 09:13:05|huyn|lnvanhh|gs|if|Unknown|Unknown
+2025-04-25 09:13:05|huyn|lnvanhh|im|sf|Unknown|Unknown
+2025-04-25 09:13:05|lnvanhh|huyn|im|cc|Unknown|Unknown
+2025-04-25 09:13:05|lnvanhh|huyn|ro|if|Unknown|Unknown
+2025-04-25 09:56:20|padboy|huyn|gs|im|Unknown|Unknown
+2025-04-25 09:56:20|padboy|huyn|if|gk|Unknown|Unknown
+2025-04-25 09:56:20|padboy|huyn|ro|sm|Unknown|Unknown
+2025-04-25 09:56:20|padboy|huyn|zm|cc|Unknown|Unknown
+2025-04-26 10:26:41|huyn|padboy|if|nc|Unknown|Unknown
+2025-04-26 10:26:41|huyn|padboy|nt|ro|Unknown|Unknown
+2025-04-26 10:26:41|huyn|padboy|sp|rb|Unknown|Unknown
+2025-04-26 10:26:41|padboy|huyn|eb|gs|Unknown|Unknown
+2025-04-26 10:26:41|padboy|huyn|zm|cz|Unknown|Unknown
+2025-04-27 13:45:24|padboy|sheep|cc|if|Unknown|Unknown
+2025-04-27 13:45:24|padboy|sheep|eb|nc|Unknown|Unknown
+2025-04-27 13:45:24|padboy|sheep|nc|rb|Unknown|Unknown
+2025-04-27 13:45:24|padboy|sheep|zm|bc|Unknown|Unknown
+2025-04-28 15:20:13|lnvanhh|sheep|cz|bf|Unknown|Unknown
+2025-04-28 15:20:13|sheep|lnvanhh|nc|eb|Unknown|Unknown
+2025-04-28 15:20:13|sheep|lnvanhh|ro|bf|Unknown|Unknown
+2025-04-28 15:20:13|sheep|lnvanhh|sp|sb|Unknown|Unknown
+2025-05-16 13:05:59|sheep|snake eyes|im|bc|Unknown|Unknown
+2025-05-16 13:05:59|sheep|snake eyes|sm|gs|Unknown|Unknown
+2025-05-16 13:05:59|sheep|snake eyes|sp|rb|Unknown|Unknown
+2025-05-16 13:05:59|snake eyes|sheep|bf|sf|Unknown|Unknown
+2025-05-16 13:05:59|snake eyes|sheep|zm|nc|Unknown|Unknown
