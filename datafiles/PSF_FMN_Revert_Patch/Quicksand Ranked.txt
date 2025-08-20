@@ -1,0 +1,1954 @@
+2025-06-23 05:02:27|fluke|tornillo|eb|sp|4th of july|dino roots
+2025-06-23 05:02:27|fluke|tornillo|gk|im|flow|boing gang
+2025-06-23 05:02:27|fluke|tornillo|if|gs|spacestars|savage but without mayflower
+2025-06-23 05:02:27|fluke|tornillo|sf|nt|ramp with seedling|piport
+2025-06-23 10:38:55|huyn|michael|im|cc|inhumane|plantmop
+2025-06-23 10:38:55|huyn|michael|nc|eb|get rekt v6.9|burner
+2025-06-23 10:38:55|huyn|michael|nt|gk|gravephobia|primetempogk
+2025-06-23 10:38:55|michael|huyn|sm|gk|plabohospital|leafy meta trust
+2025-06-23 10:38:55|michael|huyn|sp|zm|bartinrework|t4g
+2025-06-23 10:45:18|bass|tbone|im|cz|Unknown|apotk
+2025-06-23 10:45:18|bass|tbone|nt|sf|Unknown|flowers
+2025-06-23 10:45:18|bass|tbone|ro|rb|Unknown|bolt bolt
+2025-06-23 13:56:52|tbone|tqm|im|cz|otk mecha|Unknown
+2025-06-23 13:56:52|tbone|tqm|nc|nt|turles|Unknown
+2025-06-23 13:56:52|tbone|tqm|sf|sm|flowers|Unknown
+2025-06-23 13:56:52|tbone|tqm|sm|nc|whaleorah|Unknown
+2025-06-23 13:56:52|tqm|tbone|sf|nt|Unknown|flag swarm
+2025-06-23 15:21:29|tbone|wild|bc|rb|sham control|hmr
+2025-06-23 15:21:29|tbone|wild|gk|if|espresso aggro|alphacadaver
+2025-06-23 15:21:29|wild|tbone|bc|im|cosmic|otk mecha
+2025-06-23 15:21:29|wild|tbone|bf|cz|aggro|apotk
+2025-06-23 15:21:29|wild|tbone|cz|nt|lor angela|tanktuna
+2025-06-23 15:21:29|wild|tbone|gs|sm|midppea|whaleorah
+2025-06-23 17:19:39|sheep|tbone|bf|sf|Unknown|Unknown
+2025-06-23 17:19:39|sheep|tbone|ct|sm|Unknown|Unknown
+2025-06-23 17:19:39|sheep|tbone|cz|nt|Unknown|Unknown
+2025-06-23 17:19:39|sheep|tbone|rb|cz|Unknown|Unknown
+2025-06-23 17:19:39|tbone|sheep|eb|gk|Unknown|Unknown
+2025-06-23 19:23:14|craquinho|bass|cz|if|briar midrange|Unknown
+2025-06-23 19:23:14|craquinho|bass|im|ro|toaster|Unknown
+2025-06-23 19:23:14|craquinho|bass|sm|cc|gargs|Unknown
+2025-06-23 19:23:14|craquinho|bass|sp|rb|radiotherapy|Unknown
+2025-06-23 21:24:29|bayoyo|jackmartin|bc|hg|jerrapy|funnyganticus
+2025-06-23 21:24:29|bayoyo|jackmartin|gk|im|pawn|science pile
+2025-06-23 21:24:29|bayoyo|jackmartin|sm|bc|midgargs|control
+2025-06-23 21:24:29|jackmartin|bayoyo|cz|eb|brotk|ingea
+2025-06-24 01:59:51|jackmartin|jaytrap|cz|bf|brotk|freeze control
+2025-06-24 01:59:51|jackmartin|jaytrap|gk|eb|petrol|otk binary flamenco
+2025-06-24 01:59:51|jackmartin|jaytrap|rb|gs|bolt bolt|the definitive shadow
+2025-06-24 01:59:51|jaytrap|jackmartin|nt|gk|grinch|petrol
+2025-06-24 01:59:51|jaytrap|jackmartin|sp|hg|midrange|pile
+2025-06-24 02:00:03|craquinho|tbone|bc|nt|sham control|tanktuna
+2025-06-24 02:00:03|craquinho|tbone|cz|eb|briar midrange|hunt gargs
+2025-06-24 02:00:03|craquinho|tbone|nt|nc|tanktuna|turles
+2025-06-24 02:00:03|craquinho|tbone|sm|cz|gargs|apotk
+2025-06-24 02:00:03|tbone|craquinho|im|bc|otkmecha|sham control
+2025-06-24 02:00:03|tbone|craquinho|sm|nc|whaleorah|boris controlcap mod
+2025-06-24 02:00:03|tbone|craquinho|sp|bf|radiptherapy|graves
+2025-06-24 16:42:46|sheep|thatonestar|bf|cz|ddt|refresher
+2025-06-24 16:42:46|thatonestar|sheep|bf|ct|resurgence|watertron tech
+2025-06-24 16:42:46|thatonestar|sheep|eb|cz|faceblaster 9000|ambidextrous
+2025-06-24 16:42:46|thatonestar|sheep|sf|if|heatdeath|stardust
+2025-06-25 00:43:10|jackmartin|tqm|cc|sm|ramona|soss
+2025-06-25 00:43:10|jackmartin|tqm|im|ct|science pile|nuttron
+2025-06-25 00:43:10|jackmartin|tqm|sf|zm|freight|zmoss
+2025-06-25 01:04:51|michael|tbone|cz|hg|Unknown|gps
+2025-06-25 01:04:51|michael|tbone|im|cz|Unknown|apotk
+2025-06-25 01:04:51|tbone|michael|bc|sm|sham control|gargs
+2025-06-25 01:04:51|tbone|michael|gs|sm|nuthouse|gargs
+2025-06-25 01:04:51|tbone|michael|im|sf|otk mecha|Unknown
+2025-06-25 01:04:51|tbone|michael|sm|gs|whaleorah|Unknown
+2025-06-25 02:05:12|michael|tbone|bc|if|aggro|midraiser
+2025-06-25 02:05:12|michael|tbone|sf|nt|aggro|tanktuna
+2025-06-25 02:05:12|tbone|michael|bc|if|sham control|no honkai stars
+2025-06-25 02:05:12|tbone|michael|gs|im|nuthouse|mustaches
+2025-06-25 02:05:12|tbone|michael|hg|cz|gps|Unknown
+2025-06-25 02:05:12|tbone|michael|sf|im|flowers|mustaches
+2025-06-25 02:30:37|jackmartin|thatonestar|cz|sm|brotk|kabloomphobia
+2025-06-25 02:30:37|jackmartin|thatonestar|im|cz|science pile|refresher
+2025-06-25 02:30:37|jackmartin|thatonestar|rb|gk|boltbolt|fuckles
+2025-06-25 03:12:33|jackmartin|tbone|cc|sm|ramona|whaleorah
+2025-06-25 03:12:33|jackmartin|tbone|im|cc|science pile|logbait
+2025-06-25 03:12:33|tbone|jackmartin|bc|rb|sham control|boltbolt
+2025-06-25 03:12:33|tbone|jackmartin|eb|sf|hunt gargs|freight
+2025-06-25 03:12:33|tbone|jackmartin|im|cc|otk mecha|ramona
+2025-06-25 14:02:48|tqm|tbone|nc|sm|Unknown|Unknown
+2025-06-25 14:02:48|tqm|tbone|sf|im|Unknown|Unknown
+2025-06-25 14:02:48|tqm|tbone|zm|sf|Unknown|Unknown
+2025-06-25 16:22:56|bass|michael|hg|bc|Unknown|Unknown
+2025-06-25 16:22:56|bass|michael|im|gs|Unknown|Unknown
+2025-06-25 16:22:56|bass|michael|ro|eb|Unknown|Unknown
+2025-06-25 16:22:56|bass|michael|zm|sf|Unknown|Unknown
+2025-06-25 16:22:56|michael|bass|sm|cz|Unknown|Unknown
+2025-06-25 21:07:39|jackmartin|michael|im|bc|science pile|aggrotina
+2025-06-25 21:07:39|michael|jackmartin|eb|cc|dance aggro|ramona
+2025-06-25 21:07:39|michael|jackmartin|gs|eb|mind blower|fuck you alan
+2025-06-25 21:07:39|michael|jackmartin|im|sf|musticia|freight
+2025-06-25 21:07:39|michael|jackmartin|zm|sf|garg mech|freight
+2025-06-25 21:48:28|jackmartin|slewer|cc|im|ramona|portal gun
+2025-06-25 21:48:28|jackmartin|slewer|cz|rb|brotk|bolt bolt
+2025-06-25 21:48:28|jackmartin|slewer|im|gk|death|control
+2025-06-25 21:48:28|jackmartin|slewer|rb|sf|boltbolt|sunscreen
+2025-06-25 22:26:53|jackmartin|tqm|im|gk|science pile|amongustherapy
+2025-06-25 22:26:53|jackmartin|tqm|nc|sm|toyota controlla modded|midgargs
+2025-06-25 22:26:53|tqm|jackmartin|sf|rb|fig gambling|boltbolt
+2025-06-25 22:26:53|tqm|jackmartin|sp|rb|radiotherapy|boltbolt
+2025-06-25 22:26:53|tqm|jackmartin|zm|cz|garg mech|brotk
+2025-06-26 00:21:31|jackmartin|tqm|cz|zm|Unknown|Unknown
+2025-06-26 00:21:31|jackmartin|tqm|nc|sm|Unknown|Unknown
+2025-06-26 00:21:31|tqm|jackmartin|gk|sm|Unknown|Unknown
+2025-06-26 00:21:31|tqm|jackmartin|nc|zm|Unknown|Unknown
+2025-06-26 00:21:31|tqm|jackmartin|sf|rb|Unknown|Unknown
+2025-06-26 01:03:21|alan|jaytrap|gk|rb|1.6 trying to tempo|poggerazzi
+2025-06-26 01:03:21|alan|jaytrap|sf|im|1.6 rng control|cryo mecha
+2025-06-26 01:03:21|alan|jaytrap|zm|cz|1.6 flamecho|laser rings
+2025-06-26 01:03:21|jaytrap|alan|gk|nt|pot otk|1.6 gravest sport
+2025-06-26 01:03:21|jaytrap|alan|if|cc|burn|1.6 hate nibble
+2025-06-26 03:43:53|huyn|jackmartin|cc|im|mosspike|science pile
+2025-06-26 03:43:53|huyn|jackmartin|nc|rb|get rekt v6.9|boltbolt,
+2025-06-26 03:43:53|huyn|jackmartin|nt|gk|gravephobia|petrol,
+2025-06-26 03:43:53|jackmartin|huyn|cz|im|brotk,|inhumane
+2025-06-26 13:47:53|sheep|tqm|hg|sf|telimps|fig gambling
+2025-06-26 13:47:53|sheep|tqm|nc|rb|cody cutter|uncrackabolt
+2025-06-26 13:47:53|sheep|tqm|rb|gk|bolt bolt|amongustherapy
+2025-06-26 13:47:53|tqm|sheep|sm|cz|midgargs|trash
+2025-06-26 14:15:19|michael|tbone|gk|nt|aggro|piport mod
+2025-06-26 14:15:19|michael|tbone|sf|sm|aggro|whaleorah
+2025-06-26 14:15:19|tbone|michael|bc|im|sham control|duckticia
+2025-06-26 14:15:19|tbone|michael|cc|eb|logbait|aggro
+2025-06-26 14:15:19|tbone|michael|gk|im|espresso aggro|control
+2025-06-26 14:15:19|tbone|michael|zm|gk|pyro|aggro
+2025-06-26 14:24:15|maker|jaytrap|gk|im|trying to espresso|cryo mecha
+2025-06-26 14:24:15|maker|jaytrap|gs|hg|dark sanctuary|ykm
+2025-06-26 14:24:15|maker|jaytrap|hg|cc|quarterimps|modernized comboss
+2025-06-26 14:24:15|maker|jaytrap|nt|cc|heavy weapons control|modernized comboss
+2025-06-26 18:14:57|alan|tqm|sb|sf|1.6 aggro pile|fig gambling
+2025-06-26 18:14:57|alan|tqm|sf|rb|1.6 rng control|uncrackabolt
+2025-06-26 18:14:57|alan|tqm|sm|gk|1.6 mid-heal|amongustherapy
+2025-06-26 18:14:57|tqm|alan|im|cc|otk trickster|1.6 hate nibble
+2025-06-26 21:42:05|fluke|michael|cz|zm|buff zm|gargburn
+2025-06-26 21:42:05|fluke|michael|gs|hg|nuevo comienzo|gps
+2025-06-26 21:42:05|fluke|michael|ro|zm|hmr|gargburn
+2025-06-26 21:42:05|fluke|michael|zm|sf|furstmech|aggro
+2025-06-26 21:42:05|michael|fluke|gk|rb|aggro|cardsbolt
+2025-06-26 21:42:05|michael|fluke|im|bc|control|watertina
+2025-06-26 21:42:05|michael|fluke|sf|hg|aggro|blobfish wrappers
+2025-06-26 22:58:14|fluke|craquinho|cc|im|aggro|control
+2025-06-26 22:58:14|fluke|craquinho|sm|cz|deri gang|briar midrange
+2025-06-26 22:58:14|fluke|craquinho|sp|im|control|control
+2025-06-26 23:54:40|craquinho|jackmartin|bc|if|sham control|Unknown
+2025-06-26 23:54:40|craquinho|jackmartin|ro|rb|hmr|Unknown
+2025-06-26 23:54:40|craquinho|jackmartin|zm|cc|gargs|Unknown
+2025-06-26 23:54:40|jackmartin|craquinho|cz|bf|Unknown|graves
+2025-06-26 23:54:40|jackmartin|craquinho|im|gk|Unknown|tempo
+2025-06-27 02:11:32|tbone|tqm|bc|rb|sham control|Unknown
+2025-06-27 02:11:32|tbone|tqm|eb|sf|hunt gargs|Unknown
+2025-06-27 02:11:32|tbone|tqm|im|cc|otk mecha|Unknown
+2025-06-27 02:11:32|tbone|tqm|zm|ct|pyro mod|Unknown
+2025-06-27 02:11:32|tqm|tbone|bf|nc|Unknown|powercap
+2025-06-27 02:11:32|tqm|tbone|nc|im|Unknown|otk mecha
+2025-06-27 02:11:32|tqm|tbone|zm|sf|Unknown|flowers
+2025-06-27 08:53:36|snake eyes|valentinian|cc|rb|logbait|uncrackabolt
+2025-06-27 08:53:36|snake eyes|valentinian|eb|sf|aggro|trollerflare
+2025-06-27 08:53:36|snake eyes|valentinian|gs|hg|Unknown|telimps
+2025-06-27 14:12:10|michael|tqm|gk|sm|aggro|midgargs
+2025-06-27 14:12:10|michael|tqm|im|sf|control|fig gambling
+2025-06-27 14:12:10|michael|tqm|sf|bf|tempo|lock boris out
+2025-06-27 14:12:10|tqm|michael|gk|sm|amongustherapy|midgargs
+2025-06-27 15:33:03|jackmartin|jaytrap|cz|zm|brotk|garg burn
+2025-06-27 15:33:03|jackmartin|jaytrap|gk|sm|pile|horts
+2025-06-27 15:33:03|jaytrap|jackmartin|bc|rb|carroot|boltbolt
+2025-06-27 15:33:03|jaytrap|jackmartin|cc|bf|comboss|alchemic
+2025-06-27 15:33:03|jaytrap|jackmartin|eb|cc|mr.feast|ramona
+2025-06-27 16:31:54|jackmartin|tbone|cz|rb|brotk|Unknown
+2025-06-27 16:31:54|jackmartin|tbone|gk|zm|pile|Unknown
+2025-06-27 16:31:54|jackmartin|tbone|rb|cc|boltbolt|Unknown
+2025-06-27 16:31:54|tbone|jackmartin|gk|im|Unknown|Unknown
+2025-06-27 16:31:54|tbone|jackmartin|im|cc|Unknown|ramona
+2025-06-27 23:47:24|jackmartin|tqm|cz|sm|brotk|soss
+2025-06-27 23:47:24|jackmartin|tqm|im|sp|science pile|radiotherapy
+2025-06-27 23:47:24|jackmartin|tqm|rb|nc|boltbolt|transposition
+2025-06-27 23:47:24|tqm|jackmartin|bf|cc|lock boris out|ramona
+2025-06-27 23:47:24|tqm|jackmartin|sf|rb|fig gambling|boltbolt
+2025-06-28 00:35:47|craquinho|jackmartin|bf|cz|lockout|Unknown
+2025-06-28 00:35:47|craquinho|jackmartin|ct|im|amphibious aggro|Unknown
+2025-06-28 00:35:47|craquinho|jackmartin|sf|rb|midrange|Unknown
+2025-06-28 02:39:23|tbone|tqm|gk|im|fruits|Unknown
+2025-06-28 02:39:23|tbone|tqm|hg|cz|conjure leap|Unknown
+2025-06-28 02:39:23|tbone|tqm|rb|sf|king leap|Unknown
+2025-06-28 02:39:23|tbone|tqm|zm|cc|trickmech|Unknown
+2025-06-28 02:39:23|tqm|tbone|zm|bc|Unknown|sham control
+2025-06-28 07:37:22|michael|valentinian|eb|cz|seacret|stallzilla
+2025-06-28 07:37:22|michael|valentinian|if|bc|spacestars|sham control
+2025-06-28 07:37:22|michael|valentinian|sf|rb|Unknown|uncracabolt
+2025-06-28 07:37:22|valentinian|michael|hg|cz|telimps|Unknown
+2025-06-28 07:37:22|valentinian|michael|im|sf|otk trickster|Unknown
+2025-06-28 07:37:22|valentinian|michael|rb|cz|uncracabolt|Unknown
+2025-06-28 07:37:22|valentinian|michael|ro|eb|hmr|seacret
+2025-06-28 08:50:26|michael|valentinian|cc|eb|Unknown|Unknown
+2025-06-28 08:50:26|michael|valentinian|cz|hg|Unknown|Unknown
+2025-06-28 08:50:26|michael|valentinian|sf|eb|Unknown|Unknown
+2025-06-28 08:50:26|michael|valentinian|zm|gk|Unknown|Unknown
+2025-06-28 08:50:26|valentinian|michael|bc|if|Unknown|Unknown
+2025-06-28 12:38:43|tbone|valentinian|bc|nt|sham control|plank control
+2025-06-28 12:38:43|tbone|valentinian|hg|cz|conjure leap|rings
+2025-06-28 12:38:43|tbone|valentinian|rb|cc|king leap|logbait
+2025-06-28 12:38:43|tbone|valentinian|sp|eb|roots|feast control
+2025-06-28 12:38:43|valentinian|tbone|ro|zm|hmr|trickmech
+2025-06-28 13:25:18|tqm|vector|zm|cc|garg mech|slogbait
+2025-06-28 13:25:18|vector|tqm|bf|gk|lock the bathroom|amongustherapy
+2025-06-28 13:25:18|vector|tqm|gs|im|savage may|otk trickster
+2025-06-28 13:25:18|vector|tqm|nt|sf|piport|fig gambling
+2025-06-28 13:25:18|vector|tqm|sm|cz|midgargs|thingy
+2025-06-28 15:01:58|alan|tqm|bc|im|1.6 trolltina|kaleidoscope
+2025-06-28 15:01:58|alan|tqm|gs|zm|1.61 pile|garg mech
+2025-06-28 15:01:58|tqm|alan|ct|eb|wettron|1.6 explosive area
+2025-06-28 15:01:58|tqm|alan|if|cz|spacestars|1.6 apollination
+2025-06-28 15:01:58|tqm|alan|nc|im|transposition|1.6 unsynchronized
+2025-06-28 15:01:58|tqm|alan|sf|nt|fig gambling|1.6 gravest sport
+2025-06-28 17:39:45|valentinian|tbone|bc|hg|Unknown|Unknown
+2025-06-28 17:39:45|valentinian|tbone|hg|bc|Unknown|Unknown
+2025-06-28 17:39:45|valentinian|tbone|im|sf|Unknown|Unknown
+2025-06-28 18:56:31|div|valentinian|cc|im|aggro|pets
+2025-06-28 18:56:31|div|valentinian|ct|im|amphibious|busticia?
+2025-06-28 18:56:31|div|valentinian|eb|bc|midrange|control
+2025-06-28 18:56:31|div|valentinian|zm|ro|pyro|modded hmr
+2025-06-28 19:44:51|div|michael|cc|im|Unknown|Unknown
+2025-06-28 19:44:51|div|michael|zm|sf|Unknown|Unknown
+2025-06-28 19:50:47|craquinho|valentinian|sm|bc|midgargs|sham control
+2025-06-28 19:50:47|valentinian|craquinho|bc|bf|sham control|lockout
+2025-06-28 19:50:47|valentinian|craquinho|if|ct|spacestars|amphibious aggro
+2025-06-28 19:50:47|valentinian|craquinho|im|sp|otk trickster|radiotherapy
+2025-06-28 21:09:26|hexada|michael|gk|nt|dino|tanktuna
+2025-06-28 21:09:26|hexada|michael|rb|cz|unhexable|valuezilla
+2025-06-28 21:09:26|hexada|michael|sf|eb|flowerman|secreate
+2025-06-28 21:09:26|hexada|michael|zm|cc|gargs metch|lily of the valley
+2025-06-28 21:09:26|michael|hexada|if|ct|spacestars|control
+2025-06-28 21:09:26|michael|hexada|sf|hg|tempo|broth
+2025-06-28 22:27:56|tqm|valentinian|nc|rb|transposition|biiiiiiiiiiiiiiiiiiigbolt
+2025-06-28 22:27:56|tqm|valentinian|sm|bc|midgargs|sham control
+2025-06-28 22:27:56|valentinian|tqm|cz|bf|otk apotato|lock boris out
+2025-06-28 22:27:56|valentinian|tqm|hg|gk|modded ykm|amongustherapy
+2025-06-28 22:27:56|valentinian|tqm|im|sf|otk trickster|fig gambling
+2025-06-28 22:27:56|valentinian|tqm|ro|if|hmr|spacestars
+2025-06-29 08:18:45|div|tornillo|bc|nt|no wnb control|midgraves
+2025-06-29 08:18:45|div|tornillo|eb|nc|midrange|control
+2025-06-29 08:18:45|div|tornillo|zm|gk|pyro|midrange
+2025-06-29 12:04:02|tbone|vector|cz|nt|mopzilla|piport
+2025-06-29 12:04:02|vector|tbone|bf|gs|ltb|nuthouse
+2025-06-29 12:04:02|vector|tbone|cc|if|slogbait|gravemid
+2025-06-29 12:04:02|vector|tbone|gk|rb|espresso aggro|king leap
+2025-06-29 12:04:02|vector|tbone|nc|eb|corolla|gargs
+2025-06-29 13:29:31|michael|valentinian|gk|im|aggro|otk trickster
+2025-06-29 13:29:31|valentinian|michael|bf|ct|modded lockout|gourdtron
+2025-06-29 13:29:31|valentinian|michael|gs|rb|modded abeans|boltbolt
+2025-06-29 13:29:31|valentinian|michael|hg|gk|modded ykm|aggro
+2025-06-29 13:29:31|valentinian|michael|ro|rb|hmr|boltbolt
+2025-06-29 14:33:03|michael|valentinian|cc|hg|log bait|conjures
+2025-06-29 14:33:03|michael|valentinian|gk|hg|aggro|conjures
+2025-06-29 14:33:03|michael|valentinian|rb|ct|bustbolt|amphitron
+2025-06-29 14:33:03|michael|valentinian|sf|hg|tempo|conjures
+2025-06-29 14:33:03|valentinian|michael|bc|if|control|spacestars
+2025-06-29 14:33:48|michael|craquinho|gk|sm|aggro|midgargs
+2025-06-29 14:33:48|michael|craquinho|rb|ro|bustbolt|hmr
+2025-06-29 14:33:48|michael|craquinho|sf|zm|tempo|pyro
+2025-06-29 18:27:57|div|michael|bc|im|Unknown|control
+2025-06-29 18:27:57|michael|div|cc|zm|aggro|Unknown
+2025-06-29 18:27:57|michael|div|gk|sm|aggro|Unknown
+2025-06-29 18:27:57|michael|div|if|cc|spacestars|Unknown
+2025-06-29 18:27:57|michael|div|sf|nt|tempo|Unknown
+2025-06-29 19:33:52|div|valentinian|sm|ro|midgargs|hmr
+2025-06-29 19:33:52|div|valentinian|zm|cz|pyromania|stallzilla
+2025-06-29 19:33:52|valentinian|div|cz|eb|stallzilla|aggro
+2025-06-29 19:33:52|valentinian|div|if|sf|spacestars|trollflare
+2025-06-29 19:33:52|valentinian|div|im|bc|otk trickster|sham control
+2025-06-29 19:33:52|valentinian|div|zm|cc|pyromania|aggro
+2025-06-29 19:46:00|jackmartin|div|cz|eb|brotk|Unknown
+2025-06-29 19:46:00|jackmartin|div|im|bc|science pile|Unknown
+2025-06-29 19:46:00|jackmartin|div|sf|zm|freight|Unknown
+2025-06-29 20:36:45|craquinho|tbone|zm|sf|pyro modded|flowers
+2025-06-29 20:36:45|tbone|craquinho|bc|bf|sham control|lockout
+2025-06-29 20:36:45|tbone|craquinho|eb|bc|hunt gargs|sham control
+2025-06-29 20:36:45|tbone|craquinho|rb|ro|king leap|hmr modded
+2025-06-29 21:24:56|jackmartin|valentinian|sf|bf|Unknown|Unknown
+2025-06-29 21:24:56|jackmartin|valentinian|sm|nc|Unknown|Unknown
+2025-06-29 21:24:56|jackmartin|valentinian|sp|rb|Unknown|Unknown
+2025-06-29 21:24:56|valentinian|jackmartin|bf|bc|Unknown|Unknown
+2025-06-29 21:24:56|valentinian|jackmartin|ct|rb|Unknown|Unknown
+2025-06-29 21:24:56|valentinian|jackmartin|gk|rb|Unknown|Unknown
+2025-06-29 21:24:56|valentinian|jackmartin|if|gs|Unknown|Unknown
+2025-06-29 23:33:12|jaytrap|tbone|gk|hg|osomsis|conjure leap
+2025-06-29 23:33:12|tbone|jaytrap|cz|sm|mopzilla|fossil solo
+2025-06-29 23:33:12|tbone|jaytrap|gs|eb|pbeans|flamenco otk
+2025-06-29 23:33:12|tbone|jaytrap|rb|gs|king leap|pbeans
+2025-06-30 02:32:38|senti|tbone|gk|rb|bbp|king leap
+2025-06-30 02:32:38|tbone|senti|bc|hg|sham control|quimps
+2025-06-30 02:32:38|tbone|senti|gk|bf|fruits|sigma boy
+2025-06-30 02:32:38|tbone|senti|im|cc|otk mecha|other
+2025-06-30 13:26:05|first hero|tqm|nt|nc|Unknown|Unknown
+2025-06-30 13:26:05|first hero|tqm|ro|im|Unknown|Unknown
+2025-06-30 13:26:05|first hero|tqm|zm|cz|Unknown|Unknown
+2025-06-30 13:26:05|tqm|first hero|if|sf|Unknown|Unknown
+2025-06-30 13:29:47|div|tbone|bc|if|Unknown|midraiser
+2025-06-30 13:29:47|div|tbone|cc|im|Unknown|otk mecha
+2025-06-30 13:29:47|div|tbone|eb|cc|Unknown|logbait mod
+2025-06-30 13:29:47|tbone|div|bc|sm|sham control|Unknown
+2025-06-30 13:29:47|tbone|div|ct|zm|amph aggro|Unknown
+2025-06-30 13:29:47|tbone|div|eb|sf|midgargs|Unknown
+2025-06-30 13:29:47|tbone|div|nt|ro|tanktuna|Unknown
+2025-06-30 13:52:56|first hero|adil|hg|cz|Unknown|Unknown
+2025-06-30 13:52:56|first hero|adil|rb|sf|Unknown|Unknown
+2025-06-30 13:52:56|first hero|adil|sf|zm|Unknown|Unknown
+2025-06-30 14:05:15|valentinian|div|if|cc|spacestars|Unknown
+2025-06-30 14:05:15|valentinian|div|im|bc|Unknown|Unknown
+2025-06-30 14:05:15|valentinian|div|ro|zm|hmr|Unknown
+2025-06-30 14:31:27|valentinian|div|cz|zm|apotk|Unknown
+2025-06-30 14:31:27|valentinian|div|im|sf|otk trickster|Unknown
+2025-06-30 14:31:27|valentinian|div|rb|cc|mecha control|Unknown
+2025-06-30 15:27:31|div|maker|cc|rb|Unknown|pilester
+2025-06-30 15:27:31|div|maker|im|sf|Unknown|tempo
+2025-06-30 15:27:31|maker|div|gk|bf|trying to espresso|Unknown
+2025-06-30 15:27:31|maker|div|im|bc|bigticia|Unknown
+2025-06-30 15:27:31|maker|div|nt|ct|heavy weapons control|Unknown
+2025-06-30 15:27:31|maker|div|sf|rb|tempo|Unknown
+2025-06-30 17:29:57|first hero|maker|eb|gs|Unknown|dark sanctuary
+2025-06-30 17:29:57|first hero|maker|ro|rb|Unknown|mecha control
+2025-06-30 17:29:57|maker|first hero|cz|hg|asriel legacy|Unknown
+2025-06-30 17:29:57|maker|first hero|nt|gk|heavy weapons control|Unknown
+2025-06-30 17:29:57|maker|first hero|sf|zm|tempo|Unknown
+2025-06-30 18:50:22|div|jackmartin|cc|im|pod aggro|Unknown
+2025-06-30 18:50:22|div|jackmartin|im|cz|busticia|Unknown
+2025-06-30 18:50:22|div|jackmartin|nc|rb|good|bolt bolt
+2025-06-30 18:50:22|jackmartin|div|gk|sm|Unknown|garg pile
+2025-06-30 22:26:36|first hero|tbone|sf|im|soft and wet|otk mecha
+2025-06-30 22:26:36|tbone|first hero|gk|hg|fruits|ykm
+2025-06-30 22:26:36|tbone|first hero|sm|ro|whaleorah|lmao good luck winning
+2025-06-30 22:26:36|tbone|first hero|sp|zm|roots|lawnmower
+2025-07-01 00:14:55|tbone|valentinian|eb|ro|hunt gargs|hmr
+2025-07-01 00:14:55|tbone|valentinian|zm|cz|pyro|ringzilla
+2025-07-01 00:14:55|valentinian|tbone|bc|hg|sham control|Unknown
+2025-07-01 00:14:55|valentinian|tbone|im|sp|otk trickster|roots
+2025-07-01 00:14:55|valentinian|tbone|zm|sp|pyro|roots
+2025-07-01 13:31:28|mono|tqm|cc|if|Unknown|Unknown
+2025-07-01 13:31:28|mono|tqm|im|nc|Unknown|Unknown
+2025-07-01 13:31:28|mono|tqm|ro|im|Unknown|Unknown
+2025-07-01 13:31:28|tqm|mono|cz|hg|Unknown|Unknown
+2025-07-01 13:31:28|tqm|mono|gk|bf|Unknown|Unknown
+2025-07-01 13:31:28|tqm|mono|sf|eb|Unknown|Unknown
+2025-07-01 13:31:28|tqm|mono|sm|nc|Unknown|Unknown
+2025-07-01 14:05:14|maker|first hero|if|ro|deadly tempo|Unknown
+2025-07-01 14:05:14|maker|first hero|nc|sm|cyboil|Unknown
+2025-07-01 14:05:14|maker|first hero|sp|sm|dino roots|Unknown
+2025-07-01 14:05:14|maker|first hero|zm|cz|pyro|Unknown
+2025-07-02 02:58:56|slewer|tbone|rb|bc|bolt bolt|sham control
+2025-07-02 02:58:56|slewer|tbone|sb|sp|telimps|roots
+2025-07-02 02:58:56|tbone|slewer|hg|gk|conjure leap|control
+2025-07-02 02:58:56|tbone|slewer|im|sf|otk mecha|sunscreen
+2025-07-02 02:58:56|tbone|slewer|rb|sf|king leap|sunscreen
+2025-07-02 02:58:56|tbone|slewer|sf|sm|jp|pablos yeezys
+2025-07-02 14:24:19|sheep|tbone|cc|if|Unknown|Unknown
+2025-07-02 14:24:19|sheep|tbone|gk|zm|Unknown|Unknown
+2025-07-02 14:24:19|sheep|tbone|hg|bc|Unknown|Unknown
+2025-07-02 14:24:19|sheep|tbone|nc|im|Unknown|Unknown
+2025-07-02 14:24:19|tbone|sheep|gk|hg|Unknown|Unknown
+2025-07-02 14:24:19|tbone|sheep|sf|im|Unknown|Unknown
+2025-07-02 18:58:40|jackmartin|tqm|sf|sm|Unknown|Unknown
+2025-07-02 18:58:40|jackmartin|tqm|sm|nc|Unknown|Unknown
+2025-07-02 18:58:40|tqm|jackmartin|gk|rb|Unknown|Unknown
+2025-07-02 18:58:40|tqm|jackmartin|im|cz|Unknown|Unknown
+2025-07-02 18:58:40|tqm|jackmartin|sf|zm|Unknown|Unknown
+2025-07-02 18:58:40|tqm|jackmartin|zm|nc|Unknown|Unknown
+2025-07-03 05:01:23|senti|tornillo|cc|rb|Unknown|Unknown
+2025-07-03 05:01:23|senti|tornillo|gk|im|Unknown|Unknown
+2025-07-03 05:01:23|senti|tornillo|hg|cc|Unknown|Unknown
+2025-07-03 05:01:23|tornillo|senti|bc|im|Unknown|Unknown
+2025-07-03 05:01:23|tornillo|senti|nt|ct|Unknown|Unknown
+2025-07-03 16:09:44|tbone|valentinian|cz|rb|Unknown|mecha control
+2025-07-03 16:09:44|tbone|valentinian|hg|sf|Unknown|trollflare
+2025-07-03 16:09:44|tbone|valentinian|if|ro|Unknown|hmr
+2025-07-03 16:09:44|valentinian|tbone|bc|nt|sham control|Unknown
+2025-07-03 16:09:44|valentinian|tbone|hg|bc|ykm|Unknown
+2025-07-03 16:09:44|valentinian|tbone|im|sp|otk trickster|roots
+2025-07-03 16:09:44|valentinian|tbone|ro|eb|hmr|hunt gargs
+2025-07-03 17:15:27|valentinian|craquinho|im|cz|Unknown|Unknown
+2025-07-03 17:15:27|valentinian|craquinho|rb|nc|Unknown|Unknown
+2025-07-03 17:15:27|valentinian|craquinho|ro|zm|Unknown|Unknown
+2025-07-04 02:11:04|fluke|tqm|bc|im|Unknown|Unknown
+2025-07-04 02:11:04|fluke|tqm|sb|gk|Unknown|Unknown
+2025-07-04 02:11:04|fluke|tqm|sf|zm|Unknown|Unknown
+2025-07-04 02:11:04|fluke|tqm|sm|nc|Unknown|Unknown
+2025-07-04 02:38:53|tbone|tornillo|bc|im|Unknown|Unknown
+2025-07-04 02:38:53|tbone|tornillo|rb|sf|Unknown|Unknown
+2025-07-04 02:38:53|tornillo|tbone|bc|hg|Unknown|Unknown
+2025-07-04 02:38:53|tornillo|tbone|cc|eb|Unknown|Unknown
+2025-07-04 02:38:53|tornillo|tbone|if|gk|Unknown|Unknown
+2025-07-04 02:38:53|tornillo|tbone|zm|cz|Unknown|Unknown
+2025-07-04 12:15:53|padboy|tbone|bc|hg|Unknown|conjure
+2025-07-04 12:15:53|padboy|tbone|ro|im|Unknown|otk mecha
+2025-07-04 12:15:53|tbone|padboy|bc|if|sham control|Unknown
+2025-07-04 12:15:53|tbone|padboy|eb|gk|hunt gargs|Unknown
+2025-07-04 12:15:53|tbone|padboy|sf|zm|jp|Unknown
+2025-07-04 12:15:53|tbone|padboy|sp|nt|roots|Unknown
+2025-07-04 13:19:27|mono|tqm|cz|bf|Unknown|Unknown
+2025-07-04 13:19:27|mono|tqm|eb|nc|Unknown|Unknown
+2025-07-04 13:19:27|mono|tqm|gk|im|Unknown|Unknown
+2025-07-04 13:19:27|mono|tqm|im|cz|Unknown|Unknown
+2025-07-04 13:19:27|tqm|mono|sm|gs|Unknown|Unknown
+2025-07-05 00:26:42|michael|tqm|cc|sm|pea aggro|Unknown
+2025-07-05 00:26:42|michael|tqm|gk|im|pea aggro|Unknown
+2025-07-05 00:26:42|michael|tqm|gs|hg|pea aggro|Unknown
+2025-07-05 00:26:42|michael|tqm|sf|bf|tempo|Unknown
+2025-07-05 00:26:42|tqm|michael|gs|rb|Unknown|bolt bolt
+2025-07-05 00:26:42|tqm|michael|nc|rb|Unknown|bolt bolt
+2025-07-05 00:26:42|tqm|michael|sf|rb|Unknown|bolt bolt
+2025-07-05 01:01:14|michael|tbone|eb|cz|aerodynamic|apotk
+2025-07-05 01:01:14|michael|tbone|gk|eb|pea aggro|hunt gargs
+2025-07-05 01:01:14|michael|tbone|sf|rb|tempo|king leap
+2025-07-05 01:01:14|michael|tbone|zm|sf|pyro|jp flate
+2025-07-05 01:01:14|tbone|michael|hg|gk|conjure|pea aggro
+2025-07-05 01:37:49|michael|valentinian|eb|ct|aerodynamic|midrange
+2025-07-05 01:37:49|michael|valentinian|gk|hg|pea aggro|telimps
+2025-07-05 01:37:49|michael|valentinian|sf|im|tempo|control
+2025-07-05 01:37:49|michael|valentinian|zm|ct|pyro|midrange
+2025-07-05 01:54:32|huyn|valentinian|if|sp|kutompeak|radio
+2025-07-05 01:54:32|huyn|valentinian|nc|rb|get rekt v6.9|pottrickster
+2025-07-05 01:54:32|huyn|valentinian|zm|bc|t4g|control?
+2025-07-05 05:16:34|jyn|sheep|bf|sp|Unknown|Unknown
+2025-07-05 05:16:34|jyn|sheep|gk|eb|Unknown|Unknown
+2025-07-05 05:16:34|jyn|sheep|if|cc|Unknown|Unknown
+2025-07-05 05:16:34|jyn|sheep|nt|ct|Unknown|Unknown
+2025-07-05 05:16:34|sheep|jyn|nc|rb|Unknown|Unknown
+2025-07-05 05:16:34|sheep|jyn|rb|bc|Unknown|Unknown
+2025-07-05 05:16:34|sheep|jyn|sb|cz|Unknown|Unknown
+2025-07-05 05:41:03|gabegalaxy|snake eyes|bc|sm|beta controllatina|Unknown
+2025-07-05 05:41:03|gabegalaxy|snake eyes|bf|ct|locked in the bathroom|Unknown
+2025-07-05 05:41:03|gabegalaxy|snake eyes|cc|rb|lnbait|Unknown
+2025-07-05 05:41:03|snake eyes|gabegalaxy|hg|cz|Unknown|gurtzilla
+2025-07-05 05:41:03|snake eyes|gabegalaxy|nc|nt|Unknown|conjure swarm
+2025-07-05 09:26:05|div|jyn|cc|eb|Unknown|Unknown
+2025-07-05 09:26:05|div|jyn|im|ct|Unknown|Unknown
+2025-07-05 09:26:05|div|jyn|sm|cz|Unknown|Unknown
+2025-07-05 09:26:05|jyn|div|gs|rb|Unknown|Unknown
+2025-07-05 10:12:13|div|huyn|nc|im|pile|gentleman pile
+2025-07-05 10:12:13|div|huyn|sf|if|jp|aggro
+2025-07-05 10:12:13|div|huyn|sm|gk|gargamel|aggro
+2025-07-05 10:50:29|michael|slewer|cc|rb|Unknown|bolt bolt
+2025-07-05 10:50:29|michael|slewer|sf|sb|Unknown|telimps
+2025-07-05 10:50:29|slewer|michael|ct|zm|mud|Unknown
+2025-07-05 10:50:29|slewer|michael|cz|zm|goodstuff|Unknown
+2025-07-05 10:50:29|slewer|michael|sf|zm|sunscreen|Unknown
+2025-07-05 10:50:29|slewer|michael|sm|cz|pablos yeezys|Unknown
+2025-07-05 13:06:35|michael|tbone|sf|zm|tempo|pyro
+2025-07-05 13:06:35|michael|tbone|sm|bc|gargs|sham control
+2025-07-05 13:06:35|michael|tbone|zm|cz|pyro|laserrings
+2025-07-05 13:06:35|tbone|michael|bc|eb|sham control|dancing
+2025-07-05 13:06:35|tbone|michael|eb|sf|dancing|tempo
+2025-07-05 13:06:35|tbone|michael|hg|gs|conjure|aggro peas
+2025-07-05 13:06:35|tbone|michael|nc|eb|power cap|dancing
+2025-07-05 13:57:05|tbone|tqm|cz|bf|Unknown|Unknown
+2025-07-05 13:57:05|tbone|tqm|im|nc|Unknown|Unknown
+2025-07-05 13:57:05|tqm|tbone|cz|zm|Unknown|Unknown
+2025-07-05 13:57:05|tqm|tbone|gk|hg|Unknown|Unknown
+2025-07-05 13:57:05|tqm|tbone|im|bc|Unknown|Unknown
+2025-07-05 13:57:05|tqm|tbone|zm|bc|Unknown|Unknown
+2025-07-05 16:31:04|sheep|tqm|cz|sm|Unknown|Unknown
+2025-07-05 16:31:04|sheep|tqm|gk|im|Unknown|Unknown
+2025-07-05 16:31:04|tqm|sheep|bf|ro|Unknown|Unknown
+2025-07-05 16:31:04|tqm|sheep|cz|eb|Unknown|Unknown
+2025-07-05 16:31:04|tqm|sheep|ro|hg|Unknown|Unknown
+2025-07-05 16:31:04|tqm|sheep|sp|sb|Unknown|Unknown
+2025-07-05 21:02:25|jackmartin|tqm|rb|nc|Unknown|Unknown
+2025-07-05 21:02:25|tqm|jackmartin|gk|im|Unknown|Unknown
+2025-07-05 21:02:25|tqm|jackmartin|im|sf|Unknown|Unknown
+2025-07-05 21:02:25|tqm|jackmartin|zm|cc|Unknown|Unknown
+2025-07-05 21:27:54|michael|valentinian|sf|hg|tempo|telimps
+2025-07-05 21:27:54|valentinian|michael|bf|sf|lockout modded|tempo
+2025-07-05 21:27:54|valentinian|michael|cc|eb|logbait|seacret
+2025-07-05 21:27:54|valentinian|michael|sm|cc|whalepharoh|Unknown
+2025-07-06 01:03:59|michael|slewer|bc|sb|dino roots|telimps
+2025-07-06 01:03:59|michael|slewer|eb|ct|aggro dancers|Unknown
+2025-07-06 01:03:59|michael|slewer|if|cz|spacestars|Unknown
+2025-07-06 01:03:59|michael|slewer|sp|im|dino roots|Unknown
+2025-07-06 02:11:14|tbone|valentinian|hg|cc|conjure|logbait
+2025-07-06 02:11:14|tbone|valentinian|if|gs|Unknown|modded abeans
+2025-07-06 02:11:14|valentinian|tbone|bc|eb|sham control|seacret
+2025-07-06 02:11:14|valentinian|tbone|gs|zm|modded abeans|Unknown
+2025-07-06 02:11:14|valentinian|tbone|im|gs|otk trickster|Unknown
+2025-07-06 02:11:14|valentinian|tbone|rb|nc|boltbolt|Unknown
+2025-07-06 02:11:14|valentinian|tbone|rb|sf|boltbolt|Unknown
+2025-07-06 02:11:14|valentinian|tbone|sm|cz|whale pharaoh|Unknown
+2025-07-06 02:11:14|valentinian|tbone|wk|rb|control|Unknown
+2025-07-06 13:43:26|michael|tqm|eb|ro|Unknown|Unknown
+2025-07-06 13:43:26|michael|tqm|ro|im|Unknown|Unknown
+2025-07-06 13:43:26|tqm|michael|bf|bc|Unknown|Unknown
+2025-07-06 13:43:26|tqm|michael|nc|zm|Unknown|Unknown
+2025-07-06 13:43:26|tqm|michael|nt|bc|Unknown|Unknown
+2025-07-06 13:43:26|tqm|michael|sf|sm|Unknown|Unknown
+2025-07-06 23:01:52|michael|tqm|sf|zm|Unknown|Unknown
+2025-07-06 23:01:52|michael|tqm|zm|nc|Unknown|Unknown
+2025-07-06 23:01:52|tqm|michael|bf|sf|Unknown|Unknown
+2025-07-06 23:01:52|tqm|michael|cc|sm|Unknown|Unknown
+2025-07-06 23:01:52|tqm|michael|cz|eb|Unknown|Unknown
+2025-07-06 23:01:52|tqm|michael|im|gs|Unknown|Unknown
+2025-07-07 11:58:06|huyn|maker|cz|nt|apo1.6|heavy weapons control
+2025-07-07 11:58:06|huyn|maker|eb|gk|huynea|trying to espresso
+2025-07-07 11:58:06|maker|huyn|im|gk|bigticia|tempea
+2025-07-07 11:58:06|maker|huyn|sf|nt|tempo|testing pile
+2025-07-07 11:58:06|maker|huyn|sp|zm|dino roots|t4g
+2025-07-07 18:09:50|coffee|senti|ct|if|mud v10|sigma toddler
+2025-07-07 18:09:50|coffee|senti|im|gk|portal gun|bbp
+2025-07-07 18:09:50|senti|coffee|cz|rb|peepee|token pharaoh boltbolt
+2025-07-07 18:09:50|senti|coffee|eb|cz|gargs22|apotk
+2025-07-07 18:09:50|senti|coffee|sf|if|rejection|flamelane v4
+2025-07-07 18:17:55|fluke|thatonestar|im|sf|test 7|サイコ・ソルスティス -psycho solstice-
+2025-07-07 18:17:55|fluke|thatonestar|nt|sp|modded piport|root martin
+2025-07-07 18:17:55|fluke|thatonestar|sf|bf|aggro|handfixer
+2025-07-07 18:17:55|thatonestar|fluke|eb|nc|starmania|cyburn
+2025-07-07 23:46:11|first hero|tqm|hg|cz|Unknown|no espresso
+2025-07-07 23:46:11|first hero|tqm|nc|im|Unknown|Unknown
+2025-07-07 23:46:11|first hero|tqm|sf|zm|Unknown|Unknown
+2025-07-07 23:46:11|first hero|tqm|zm|sp|Unknown|Unknown
+2025-07-08 00:23:22|a_person|first hero|cc|hg|rfl|otk blob
+2025-07-08 00:23:22|a_person|first hero|if|sf|spacestars|midrange
+2025-07-08 00:23:22|a_person|first hero|wk|eb|cancerknight|midgargs
+2025-07-08 00:23:22|first hero|a_person|ro|rb|hmr|pogbolt
+2025-07-08 00:23:22|first hero|a_person|zm|gk|gargmech|apogk
+2025-07-08 03:22:11|tornillo|thatonestar|eb|cc|gargs 23|agorg
+2025-07-08 03:22:11|tornillo|thatonestar|nc|im|nw amphibians|toxic masculinity
+2025-07-08 03:22:11|tornillo|thatonestar|nt|gs|piportnillo|dm bm
+2025-07-08 03:29:38|pearce|tbone|bc|zm|Unknown|trickmech
+2025-07-08 03:29:38|pearce|tbone|cc|zm|Unknown|trickmech
+2025-07-08 03:29:38|pearce|tbone|if|cz|Unknown|laserrings
+2025-07-08 03:29:38|tbone|pearce|bc|bf|sham control|Unknown
+2025-07-08 03:29:38|tbone|pearce|hg|cz|conjure|Unknown
+2025-07-08 03:29:38|tbone|pearce|im|gk|otk mecha|Unknown
+2025-07-08 03:29:38|tbone|pearce|nc|nt|powercap|Unknown
+2025-07-08 14:24:50|michael|slewer|sp|bf|Unknown|freeze
+2025-07-08 14:24:50|slewer|michael|ct|zm|mud|Unknown
+2025-07-08 14:24:50|slewer|michael|im|cc|portal gun|Unknown
+2025-07-08 14:24:50|slewer|michael|sb|sf|telimps|Unknown
+2025-07-08 14:24:50|slewer|michael|sf|nt|sunscreen|Unknown
+2025-07-08 14:36:06|valentinian|senti|im|sp|mondotisia|troo
+2025-07-08 14:36:06|valentinian|senti|ro|hg|hmr|yfn
+2025-07-08 14:36:06|valentinian|senti|zm|sf|pyromania|rejection
+2025-07-08 15:32:12|jackmartin|slewer|bf|sf|Unknown|sunscreen
+2025-07-08 15:32:12|slewer|jackmartin|bf|sp|freeze|Unknown
+2025-07-08 15:32:12|slewer|jackmartin|ct|bf|mud|Unknown
+2025-07-08 15:32:12|slewer|jackmartin|im|sf|portal gun|Unknown
+2025-07-08 15:32:12|slewer|jackmartin|rb|cc|bolt bolt|Unknown
+2025-07-08 16:23:15|craquinho|michael|bc|sm|sham control modded|mid gargs
+2025-07-08 16:23:15|craquinho|michael|eb|ro|midrange|ramp
+2025-07-08 16:23:15|michael|craquinho|cz|im|apotk|control
+2025-07-08 16:23:15|michael|craquinho|gk|zm|pea aggro|pyro
+2025-07-08 16:23:15|michael|craquinho|nt|ro|piport|hmr
+2025-07-08 16:23:15|michael|craquinho|rb|cz|uncrackabolt|flowers
+2025-07-08 16:45:56|div|maker|nc|hg|figrange|bustbolt
+2025-07-08 16:45:56|div|maker|rb|cz|bustbolt|asriel legacy
+2025-07-08 16:45:56|maker|div|cc|im|the shooting star|control
+2025-07-08 16:45:56|maker|div|nt|bc|heavy weapons control|control
+2025-07-08 16:45:56|maker|div|sf|eb|tempo|midgargs?
+2025-07-08 17:21:14|div|michael|nc|rb|Unknown|uncrackabolt
+2025-07-08 17:21:14|michael|div|bc|zm|control|pyro
+2025-07-08 17:21:14|michael|div|cz|bf|apotk|Unknown
+2025-07-08 17:21:14|michael|div|nt|gk|piport pharaoh ver|Unknown
+2025-07-08 17:21:14|michael|div|ro|eb|toxic ramp|Unknown
+2025-07-08 17:49:27|div|jackmartin|eb|sf|aggro|Unknown
+2025-07-08 17:49:27|div|jackmartin|nc|bf|fig abuse|Unknown
+2025-07-08 17:49:27|div|jackmartin|zm|nc|pyro|Unknown
+2025-07-08 20:18:54|craquinho|valentinian|sp|eb|radiotherapy|hunt gargs
+2025-07-08 20:18:54|valentinian|craquinho|cz|if|stallzilla|spacestars
+2025-07-08 20:18:54|valentinian|craquinho|im|cz|mondotisia|flowers
+2025-07-08 20:18:54|valentinian|craquinho|sf|zm|trollerflare|pyromania
+2025-07-09 10:49:15|div|michael|im|gk|Unknown|aggro
+2025-07-09 10:49:15|michael|div|cc|zm|log bait|Unknown
+2025-07-09 10:49:15|michael|div|nt|bc|piport|Unknown
+2025-07-09 10:49:15|michael|div|sm|nc|mid gargs|Unknown
+2025-07-09 13:09:11|tbone|valentinian|bc|im|sham control mod|mondoticia
+2025-07-09 13:09:11|tbone|valentinian|hg|ro|conjure|hmr
+2025-07-09 13:09:11|tbone|valentinian|sp|im|dandy burn|mondoticia
+2025-07-09 13:09:11|tbone|valentinian|zm|gk|pyro mod|pea aggro
+2025-07-09 13:54:37|michael|tqm|sf|rb|tempo|telesports
+2025-07-09 13:54:37|michael|tqm|sm|cc|mid gargs|fruit splash
+2025-07-09 13:54:37|michael|tqm|zm|cz|pyro|apotk
+2025-07-09 13:57:08|michael|div|bc|im|control|Unknown
+2025-07-09 13:57:08|michael|div|sf|hg|tempo|Unknown
+2025-07-09 13:57:08|michael|div|sm|nc|mid gargs|Unknown
+2025-07-09 14:10:06|tbone|valentinian|bc|zm|sham control|pyromania
+2025-07-09 14:10:06|tbone|valentinian|cz|im|laserrings|mondotisia
+2025-07-09 14:10:06|tbone|valentinian|sp|im|dandy burn|mondotisia
+2025-07-09 14:10:06|valentinian|tbone|bc|if|sham control|midraiser
+2025-07-09 14:10:06|valentinian|tbone|cz|pb|otk apot|modded trickstache
+2025-07-09 14:10:06|valentinian|tbone|ro|pb|ramp|modded trickstache
+2025-07-09 14:10:06|valentinian|tbone|sf|pb|troll flare|modded trickstache
+2025-07-09 14:42:18|michael|slewer|bc|rb|control|bolt bolt
+2025-07-09 14:42:18|michael|slewer|if|sf|spacestars|sunscreen
+2025-07-09 14:42:18|michael|slewer|nt|ct|piport|mud
+2025-07-09 14:42:18|michael|slewer|sp|im|radiotherapy|portal gun
+2025-07-09 14:42:18|slewer|michael|sb|sp|telimps|dino roots
+2025-07-09 16:36:29|michael|tbone|if|bc|spacestars|sham control
+2025-07-09 16:36:29|michael|tbone|nc|zm|midcap|pyro mod
+2025-07-09 16:36:29|michael|tbone|nt|bc|piport|sham control
+2025-07-09 16:36:29|michael|tbone|sf|hg|tempo|conjure
+2025-07-09 16:36:29|tbone|michael|nt|bc|piport|control
+2025-07-09 16:36:29|tbone|michael|sf|sm|jp|midgargs
+2025-07-09 20:08:38|valentinian|jaytrap|bf|sf|lockout modded|pineclone
+2025-07-09 20:08:38|valentinian|jaytrap|im|sf|mondotisia|pineclone
+2025-07-09 20:08:38|valentinian|jaytrap|ro|nt|ramp|graves
+2025-07-09 22:17:43|tbone|tqm|zm|gs|Unknown|birdshadow
+2025-07-09 22:17:43|tqm|tbone|bc|eb|sham control|Unknown
+2025-07-09 22:17:43|tqm|tbone|bf|sf|lock boris out|Unknown
+2025-07-09 22:17:43|tqm|tbone|gk|hg|amongustherapy|Unknown
+2025-07-09 22:17:43|tqm|tbone|if|cz|spacestars|Unknown
+2025-07-09 22:58:32|alan|tqm|gs|zm|1.61 pile|zmoss
+2025-07-09 22:58:32|alan|tqm|im|cz|1.6 pile|apotk
+2025-07-09 22:58:32|alan|tqm|sb|sf|1.6 aggro pile|fig gambling
+2025-07-09 22:58:32|alan|tqm|zm|gk|1.6 pile|amongustherapy
+2025-07-09 22:58:32|tqm|alan|im|sf|kaleidoscope|tqm's modded mushroom cloud
+2025-07-09 23:38:30|michael|tbone|bc|hg|Unknown|Unknown
+2025-07-09 23:38:30|michael|tbone|if|bc|Unknown|Unknown
+2025-07-09 23:38:30|michael|tbone|sf|eb|Unknown|Unknown
+2025-07-09 23:38:30|michael|tbone|sp|zm|Unknown|Unknown
+2025-07-09 23:38:30|tbone|michael|gk|zm|Unknown|Unknown
+2025-07-09 23:38:30|tbone|michael|nt|sp|Unknown|Unknown
+2025-07-09 23:38:30|tbone|michael|sf|nt|Unknown|Unknown
+2025-07-10 10:13:48|valentinian|michael|ro|sm|ramp|pets
+2025-07-10 10:13:48|valentinian|michael|sb|gk|telimps|espresso aggro
+2025-07-10 10:13:48|valentinian|michael|sf|rb|trollerflare|uncrackabolt
+2025-07-10 10:13:48|valentinian|michael|zm|sp|pyromania|control
+2025-07-10 11:52:23|tbone|valentinian|if|cz|Unknown|Unknown
+2025-07-10 11:52:23|tbone|valentinian|pb|sf|Unknown|Unknown
+2025-07-10 11:52:23|valentinian|tbone|if|bc|Unknown|Unknown
+2025-07-10 11:52:23|valentinian|tbone|im|bc|Unknown|Unknown
+2025-07-10 11:52:23|valentinian|tbone|ro|nt|Unknown|Unknown
+2025-07-10 11:52:23|valentinian|tbone|zm|bc|Unknown|Unknown
+2025-07-10 20:06:42|snake eyes|valentinian|hg|ro|Unknown|Unknown
+2025-07-10 20:06:42|snake eyes|valentinian|rb|ro|Unknown|Unknown
+2025-07-10 20:06:42|snake eyes|valentinian|sf|zm|Unknown|Unknown
+2025-07-10 20:06:42|valentinian|snake eyes|bf|bc|Unknown|Unknown
+2025-07-10 20:06:42|valentinian|snake eyes|if|cc|Unknown|Unknown
+2025-07-10 20:06:42|valentinian|snake eyes|ro|bf|Unknown|Unknown
+2025-07-10 20:06:42|valentinian|snake eyes|sf|pb|Unknown|Unknown
+2025-07-10 21:41:06|michael|valentinian|pb|ro|Unknown|Unknown
+2025-07-10 21:41:06|michael|valentinian|sf|hg|Unknown|Unknown
+2025-07-10 21:41:06|michael|valentinian|sp|sb|Unknown|Unknown
+2025-07-10 21:41:06|michael|valentinian|zm|bc|Unknown|Unknown
+2025-07-10 21:41:06|valentinian|michael|rb|sf|Unknown|Unknown
+2025-07-11 12:42:05|michael|valentinian|nt|ct|Unknown|Unknown
+2025-07-11 12:42:05|michael|valentinian|sf|rb|Unknown|Unknown
+2025-07-11 12:42:05|michael|valentinian|zm|cz|Unknown|Unknown
+2025-07-11 12:42:05|valentinian|michael|bf|gs|Unknown|Unknown
+2025-07-11 12:42:05|valentinian|michael|if|sf|Unknown|Unknown
+2025-07-11 12:42:05|valentinian|michael|rb|gs|biiiiiiiiiiiiiiiiigbolt|Unknown
+2025-07-11 13:32:26|div|tbone|nc|nt|Unknown|piport
+2025-07-11 13:32:26|div|tbone|nt|ro|Unknown|hmr
+2025-07-11 13:32:26|tbone|div|bc|rb|sham control|Unknown
+2025-07-11 13:32:26|tbone|div|gk|im|roots|Unknown
+2025-07-11 13:32:26|tbone|div|rb|cc|mecha|Unknown
+2025-07-11 13:32:26|tbone|div|zm|cc|pyro|Unknown
+2025-07-11 16:55:55|slewer|tbone|bf|sf|freeze|jp
+2025-07-11 16:55:55|slewer|tbone|eb|nc|splash gargs|kale
+2025-07-11 16:55:55|tbone|slewer|hg|gk|ykm|moose
+2025-07-11 16:55:55|tbone|slewer|im|gs|otk mecha|savage tempo
+2025-07-11 16:55:55|tbone|slewer|sp|im|dandy burn|portal gun
+2025-07-11 22:59:37|senti|tqm|rb|gk|bustbolt|grass nutkles
+2025-07-11 22:59:37|senti|tqm|sf|sm|rejection|midgargs
+2025-07-11 22:59:37|tqm|senti|ct|im|nuttron|dog
+2025-07-11 22:59:37|tqm|senti|nc|im|transposition|dog
+2025-07-11 22:59:37|tqm|senti|rb|cz|kingbolt|peepee
+2025-07-11 23:03:27|tbone|valentinian|gk|if|Unknown|honkai
+2025-07-11 23:03:27|tbone|valentinian|hg|ro|Unknown|ramp
+2025-07-11 23:03:27|tbone|valentinian|pb|sf|Unknown|troller
+2025-07-11 23:03:27|valentinian|tbone|bf|bc|lockout|Unknown
+2025-07-11 23:03:27|valentinian|tbone|if|nc|honkai|Unknown
+2025-07-11 23:03:27|valentinian|tbone|ro|rb|ramp|Unknown
+2025-07-11 23:03:27|valentinian|tbone|sf|rb|troller|Unknown
+2025-07-12 00:24:29|durga|tbone|bf|cc|lockout|infinite cliques
+2025-07-12 00:24:29|tbone|durga|bc|if|ctrl|spacestars
+2025-07-12 00:24:29|tbone|durga|eb|ro|huntgargs|hmr
+2025-07-12 00:24:29|tbone|durga|if|gs|midraiser|pbeans
+2025-07-12 02:45:11|durga|tbone|eb|gk|transphobia22|roots
+2025-07-12 02:45:11|durga|tbone|if|bc|spacestars|sham control mod
+2025-07-12 02:45:11|durga|tbone|ro|im|amphib|otk mecha
+2025-07-12 02:45:11|durga|tbone|sp|hg|ctrl|conjure
+2025-07-12 02:45:11|tbone|durga|nc|nt|kale|piport
+2025-07-12 02:45:11|tbone|durga|sf|bf|jp|lock out teched
+2025-07-12 10:46:23|cursed|durga|bc|if|5 line control|spacestars
+2025-07-12 10:46:23|cursed|durga|bf|sp|"anti guardian"|radiotherapy
+2025-07-12 10:46:23|cursed|durga|rb|gs|the bustedbolt|pbeans
+2025-07-12 10:46:23|durga|cursed|nt|cz|piport|cursed apotk
+2025-07-12 11:55:41|durga|tbone|bf|bc|lockout|sham control
+2025-07-12 11:55:41|durga|tbone|cz|zm|feast|lawnmower2
+2025-07-12 11:55:41|durga|tbone|nt|sf|piport|jp
+2025-07-12 11:55:41|tbone|durga|im|cc|otk mecha|logbait
+2025-07-12 11:55:41|tbone|durga|nc|rb|kalecap|bolt bolt
+2025-07-12 11:55:41|tbone|durga|nt|sp|flag tuna|radiotherapy
+2025-07-12 11:55:41|tbone|durga|rb|nc|mecha|midhazel
+2025-07-12 13:22:33|tbone|valentinian|bc|bf|sham control|Unknown
+2025-07-12 13:22:33|tbone|valentinian|nc|bf|kalecap|Unknown
+2025-07-12 13:22:33|tbone|valentinian|pb|cz|mecha gold|Unknown
+2025-07-12 13:22:33|tbone|valentinian|zm|nc|lawnmower2|Unknown
+2025-07-12 13:22:33|valentinian|tbone|if|sf|Unknown|jp
+2025-07-12 13:22:33|valentinian|tbone|rb|bc|Unknown|sham control
+2025-07-12 13:22:33|valentinian|tbone|ro|rb|Unknown|mecha
+2025-07-12 14:47:37|fluke|tbone|cc|if|plant mop|no-hokai
+2025-07-12 14:47:37|fluke|tbone|im|sp|test 7|radiotherapy
+2025-07-12 14:47:37|fluke|tbone|nt|bc|modded piport|control
+2025-07-12 14:47:37|fluke|tbone|sp|hg|play imitator and pray|otkb
+2025-07-12 15:36:28|adil|cursed|sm|sf|midgargs|fig lottery
+2025-07-12 15:36:28|adil|cursed|sp|rb|roots|busted bolt
+2025-07-12 15:36:28|adil|cursed|zm|nc|gargburn|cyclecap
+2025-07-12 15:36:28|cursed|adil|cz|im|cursed apotk|combo
+2025-07-12 15:36:28|cursed|adil|hg|gk|otk blob|leafy
+2025-07-12 15:47:53|michael|tbone|gk|im|aggro|Unknown
+2025-07-12 15:47:53|michael|tbone|nt|cz|piport|Unknown
+2025-07-12 15:47:53|michael|tbone|sp|zm|radiotheraphy|Unknown
+2025-07-12 15:47:53|michael|tbone|zm|bc|pyro|Unknown
+2025-07-12 16:26:38|alan|tqm|cc|if|highlander|Unknown
+2025-07-12 16:26:38|alan|tqm|gk|zm|highlander|Unknown
+2025-07-12 16:26:38|alan|tqm|im|sf|highlander|Unknown
+2025-07-12 16:26:38|alan|tqm|zm|cc|highlander|Unknown
+2025-07-12 16:26:38|tqm|alan|bf|sf|Unknown|highlander
+2025-07-12 16:26:38|tqm|alan|gs|sm|Unknown|highlander
+2025-07-12 16:26:38|tqm|alan|nc|rb|Unknown|highlander
+2025-07-12 16:31:51|michael|cascade|if|gk|spacestars|modded aggro
+2025-07-12 16:31:51|michael|cascade|sf|bf|tempo|quinjet dino
+2025-07-12 16:31:51|michael|cascade|zm|ro|pyro|1.6 hmr
+2025-07-12 17:49:42|hexada|valentinian|gk|hg|Unknown|Unknown
+2025-07-12 17:49:42|hexada|valentinian|sf|bf|Unknown|Unknown
+2025-07-12 17:49:42|valentinian|hexada|rb|sp|Unknown|Unknown
+2025-07-12 17:49:42|valentinian|hexada|ro|pb|Unknown|Unknown
+2025-07-12 17:49:42|valentinian|hexada|sf|nt|Unknown|Unknown
+2025-07-12 17:55:02|tqm|valentinian|cc|hg|Unknown|Unknown
+2025-07-12 17:55:02|valentinian|tqm|bc|pb|Unknown|Unknown
+2025-07-12 17:55:02|valentinian|tqm|im|ct|Unknown|Unknown
+2025-07-12 17:55:02|valentinian|tqm|ro|rb|Unknown|Unknown
+2025-07-12 17:55:02|valentinian|tqm|sf|pb|Unknown|Unknown
+2025-07-12 19:02:54|div|valentinian|ct|im|Unknown|Unknown
+2025-07-12 19:02:54|div|valentinian|nc|rb|Unknown|Unknown
+2025-07-12 19:02:54|valentinian|div|cz|rb|apotk|Unknown
+2025-07-12 19:02:54|valentinian|div|if|cc|Unknown|Unknown
+2025-07-12 19:02:54|valentinian|div|ro|zm|Unknown|Unknown
+2025-07-12 19:02:54|valentinian|div|sf|rb|Unknown|Unknown
+2025-07-12 21:54:21|mono|slewer|cc|sb|Unknown|telimps
+2025-07-12 21:54:21|mono|slewer|im|ct|Unknown|mud
+2025-07-12 21:54:21|slewer|mono|cz|zm|goodstuff|Unknown
+2025-07-12 21:54:21|slewer|mono|eb|cz|splash gargs|Unknown
+2025-07-12 21:54:21|slewer|mono|im|sf|portal gun|Unknown
+2025-07-12 21:54:21|slewer|mono|sf|hg|sunscreen|Unknown
+2025-07-12 22:19:22|michael|valentinian|cz|if|Unknown|Unknown
+2025-07-12 22:19:22|michael|valentinian|if|sf|Unknown|Unknown
+2025-07-12 22:19:22|michael|valentinian|nt|ct|Unknown|Unknown
+2025-07-12 22:19:22|michael|valentinian|sf|eb|Unknown|Unknown
+2025-07-12 22:19:22|michael|valentinian|wk|pb|Unknown|Unknown
+2025-07-12 22:19:22|michael|valentinian|zm|bc|Unknown|Unknown
+2025-07-12 22:19:22|michael|valentinian|zm|ro|Unknown|Unknown
+2025-07-12 22:19:22|valentinian|michael|if|wk|Unknown|Unknown
+2025-07-12 22:19:22|valentinian|michael|rb|gs|Unknown|Unknown
+2025-07-12 22:19:22|valentinian|michael|sf|nt|Unknown|Unknown
+2025-07-12 22:19:22|valentinian|michael|zm|wk|Unknown|Unknown
+2025-07-13 02:10:10|kindofagod|tbone|rb|sf|control mechasaur|pinekale
+2025-07-13 02:10:10|tbone|kindofagod|if|nc|midraiser|leaf blower troll
+2025-07-13 02:10:10|tbone|kindofagod|nc|zm|kalecap|uncrackamech
+2025-07-13 02:10:10|tbone|kindofagod|pb|ro|mecha pot|hmr
+2025-07-13 02:10:10|tbone|kindofagod|zm|gk|lawnmower2|roots
+2025-07-13 03:23:09|kindofagod|pearce|bc|pb|Unknown|Unknown
+2025-07-13 03:23:09|kindofagod|pearce|cz|nt|Unknown|Unknown
+2025-07-13 03:23:09|kindofagod|pearce|im|sp|Unknown|Unknown
+2025-07-13 03:23:09|kindofagod|pearce|zm|cz|Unknown|Unknown
+2025-07-13 03:23:09|pearce|kindofagod|cc|rb|Unknown|Unknown
+2025-07-13 03:23:09|pearce|kindofagod|zm|sf|Unknown|Unknown
+2025-07-13 13:15:35|tbone|cursed|cc|rb|infinite cliques|busted bolt
+2025-07-13 13:15:35|tbone|cursed|nc|hg|kalecap|otk blob
+2025-07-13 13:15:35|tbone|cursed|zm|cz|lawnmower2|cursed apotk
+2025-07-13 15:51:31|div|maker|gk|eb|Unknown|aggro
+2025-07-13 15:51:31|div|maker|sm|bc|Unknown|shame control
+2025-07-13 15:51:31|maker|div|gk|nt|trying to espresso|Unknown
+2025-07-13 15:51:31|maker|div|rb|cc|mecha control|Unknown
+2025-07-13 15:51:31|maker|div|sf|zm|tempo|Unknown
+2025-07-13 15:51:31|maker|div|sm|nc|midgargs|Unknown
+2025-07-14 02:05:20|kindofagod|tbone|gs|rb|fruit|mecha
+2025-07-14 02:05:20|kindofagod|tbone|nc|im|brain clone|otkmecha
+2025-07-14 02:05:20|kindofagod|tbone|sm|nc|fossil head steamroller|kalecap
+2025-07-14 02:05:20|tbone|kindofagod|bc|eb|sham control mod|seacret
+2025-07-14 02:05:20|tbone|kindofagod|cc|rb|infinite cliques|sun bandits
+2025-07-14 02:05:20|tbone|kindofagod|gk|hg|roots|frozen telimps
+2025-07-14 02:05:20|tbone|kindofagod|zm|sp|lawnmower|fig kale
+2025-07-14 03:26:42|kindofagod|tbone|cc|nt|Unknown|flag conjure
+2025-07-14 03:26:42|tbone|kindofagod|cc|zm|infinite cliques|Unknown
+2025-07-14 03:26:42|tbone|kindofagod|eb|nc|hunt gargs|Unknown
+2025-07-14 03:26:42|tbone|kindofagod|sf|nt|ramp fig|Unknown
+2025-07-14 03:26:42|tbone|kindofagod|zm|sp|lawnmower|Unknown
+2025-07-14 14:06:08|cursed|tbone|gk|hg|highlander|gps
+2025-07-14 14:06:08|tbone|cursed|cc|sm|infinite cliques|gargs
+2025-07-14 14:06:08|tbone|cursed|im|nc|mecha otk|cyclecap
+2025-07-14 14:06:08|tbone|cursed|sf|rb|ramp kale|busted bolt
+2025-07-14 14:06:08|tbone|cursed|zm|nc|lawnmower|cyclecap
+2025-07-14 15:33:20|adil|bass|gk|nt|Unknown|Unknown
+2025-07-14 15:33:20|adil|bass|sf|rb|Unknown|Unknown
+2025-07-14 15:33:20|adil|bass|sm|cc|Unknown|Unknown
+2025-07-14 15:33:20|adil|bass|sp|rb|Unknown|Unknown
+2025-07-14 15:33:20|bass|adil|gk|im|Unknown|Unknown
+2025-07-14 15:33:20|bass|adil|hg|ro|Unknown|Unknown
+2025-07-14 15:33:20|bass|adil|nc|zm|Unknown|Unknown
+2025-07-14 20:32:09|jackmartin|tqm|cz|im|Unknown|Unknown
+2025-07-14 20:32:09|jackmartin|tqm|sf|if|Unknown|Unknown
+2025-07-14 20:32:09|tqm|jackmartin|nc|rb|Unknown|Unknown
+2025-07-14 20:32:09|tqm|jackmartin|sf|im|Unknown|Unknown
+2025-07-14 20:32:09|tqm|jackmartin|sp|bf|Unknown|Unknown
+2025-07-14 21:37:00|tbone|tqm|hg|ro|Unknown|Unknown
+2025-07-14 21:37:00|tbone|tqm|sf|zm|Unknown|Unknown
+2025-07-14 21:37:00|tbone|tqm|zm|nc|Unknown|Unknown
+2025-07-14 21:37:00|tqm|tbone|bc|nt|Unknown|Unknown
+2025-07-14 21:37:00|tqm|tbone|bf|nc|Unknown|Unknown
+2025-07-14 21:37:00|tqm|tbone|gk|im|Unknown|Unknown
+2025-07-14 21:37:00|tqm|tbone|im|sf|Unknown|Unknown
+2025-07-15 20:31:03|div|tqm|bc|im|Unknown|Unknown
+2025-07-15 20:31:03|div|tqm|cz|bf|Unknown|Unknown
+2025-07-15 20:31:03|div|tqm|hg|ro|Unknown|Unknown
+2025-07-15 20:31:03|div|tqm|im|nc|Unknown|Unknown
+2025-07-15 22:33:53|div|michael|bc|eb|control|igma burn
+2025-07-15 22:33:53|div|michael|cz|zm|ramp|pyro
+2025-07-15 22:33:53|div|michael|if|gk|racecars|podfather aggro
+2025-07-15 22:33:53|div|michael|rb|sf|control|highroll pile
+2025-07-15 22:33:53|michael|div|nt|ro|piport|rmr
+2025-07-15 22:33:53|michael|div|sf|sm|highroll pile|midgargs
+2025-07-16 12:39:45|div|michael|bc|zm|control|pyro
+2025-07-16 12:39:45|div|michael|cz|nt|ramp|piport
+2025-07-16 12:39:45|div|michael|hg|ro|pile|ramp pile
+2025-07-16 12:39:45|div|michael|ro|eb|rmr|dancing heap
+2025-07-16 12:39:45|michael|div|cz|rb|ramp|mecha control
+2025-07-16 12:39:45|michael|div|im|sf|otkt|ramp
+2025-07-16 12:39:45|michael|div|sf|if|ramp|racecars
+2025-07-16 13:26:17|huyn|tqm|gs|zm|sowwy|stompydon
+2025-07-16 13:26:17|huyn|tqm|nt|ct|kutom's tech|wetron?
+2025-07-16 13:26:17|huyn|tqm|sm|sf|plabo's wall|idk
+2025-07-16 13:50:49|michael|sheep|im|cc|Unknown|Unknown
+2025-07-16 13:50:49|michael|sheep|nt|cz|Unknown|Unknown
+2025-07-16 13:50:49|michael|sheep|sf|hg|Unknown|Unknown
+2025-07-16 13:50:49|michael|sheep|sp|bf|Unknown|Unknown
+2025-07-16 14:28:41|diego|valentinian|gs|if|Unknown|Unknown
+2025-07-16 14:28:41|diego|valentinian|sf|im|Unknown|Unknown
+2025-07-16 14:28:41|valentinian|diego|cz|im|Unknown|Unknown
+2025-07-16 14:28:41|valentinian|diego|sf|im|Unknown|Unknown
+2025-07-16 14:28:41|valentinian|diego|zm|ct|Unknown|Unknown
+2025-07-16 14:40:13|maker|michael|if|cz|Unknown|Unknown
+2025-07-16 14:40:13|michael|maker|cz|hg|Unknown|Unknown
+2025-07-16 14:40:13|michael|maker|im|bc|Unknown|Unknown
+2025-07-16 14:40:13|michael|maker|nt|gs|Unknown|Unknown
+2025-07-16 14:40:13|michael|maker|sf|eb|Unknown|Unknown
+2025-07-16 15:50:42|valentinian|michael|cz|nt|Unknown|Unknown
+2025-07-16 15:50:42|valentinian|michael|if|wk|Unknown|Unknown
+2025-07-16 15:50:42|valentinian|michael|sf|nt|Unknown|Unknown
+2025-07-17 02:39:00|tbone|valentinian|cz|hg|Unknown|Unknown
+2025-07-17 02:39:00|tbone|valentinian|hg|ro|Unknown|Unknown
+2025-07-17 02:39:00|tbone|valentinian|if|nc|Unknown|Unknown
+2025-07-17 02:39:00|tbone|valentinian|if|sf|Unknown|Unknown
+2025-07-17 02:39:00|valentinian|tbone|bf|sf|Unknown|Unknown
+2025-07-17 02:39:00|valentinian|tbone|cz|zm|Unknown|Unknown
+2025-07-17 02:39:00|valentinian|tbone|im|nc|Unknown|Unknown
+2025-07-17 02:39:00|valentinian|tbone|rb|bc|Unknown|Unknown
+2025-07-17 02:39:00|valentinian|tbone|rb|cc|Unknown|Unknown
+2025-07-17 02:39:00|valentinian|tbone|sf|zm|Unknown|Unknown
+2025-07-17 02:39:00|valentinian|tbone|zm|cz|Unknown|Unknown
+2025-07-17 03:51:50|sheep|tbone|im|sf|Unknown|Unknown
+2025-07-17 03:51:50|sheep|tbone|nc|rb|Unknown|Unknown
+2025-07-17 03:51:50|sheep|tbone|sb|ro|Unknown|Unknown
+2025-07-17 03:51:50|tbone|sheep|hg|wk|Unknown|Unknown
+2025-07-17 05:59:18|sheep|slewer|ct|sb|tech watertron|telimps
+2025-07-17 05:59:18|sheep|slewer|im|ct|diamond cutter|mud
+2025-07-17 05:59:18|slewer|sheep|bf|cz|otk cryo|hybrid
+2025-07-17 05:59:18|slewer|sheep|eb|nc|splash gargs|cody cutter
+2025-07-17 05:59:18|slewer|sheep|gk|bf|moose|ddt
+2025-07-17 05:59:18|slewer|sheep|sf|if|sunscreen|stardust
+2025-07-17 08:49:48|div|snake eyes|cz|bf|ramp|Unknown
+2025-07-17 08:49:48|div|snake eyes|if|gs|modded spacestars|Unknown
+2025-07-17 08:49:48|div|snake eyes|ro|if|rmr|Unknown
+2025-07-17 08:49:48|div|snake eyes|zm|ro|pyro|modded hmr
+2025-07-17 08:49:48|snake eyes|div|ct|rb|amphibious|bolt bolt
+2025-07-17 08:49:48|snake eyes|div|zm|sp|pyro modded|radio
+2025-07-17 13:18:25|jyn|michael|bc|nt|flying dutchman|icebox
+2025-07-17 13:18:25|jyn|michael|if|sf|cowbing|tempo
+2025-07-17 13:18:25|jyn|michael|nc|nt|terminal lance|piport
+2025-07-17 13:18:25|jyn|michael|nt|ro|onlygraves|ramp
+2025-07-17 17:00:05|div|valentinian|cz|if|ramp?|conjure
+2025-07-17 17:00:05|div|valentinian|hg|bc|graves|control
+2025-07-17 17:00:05|div|valentinian|rb|sf|bolt bolt|jp
+2025-07-17 17:00:05|valentinian|div|zm|bc|pyro|control
+2025-07-18 02:32:52|sheep|tbone|cc|rb|cross rhodes|mecha
+2025-07-18 02:32:52|sheep|tbone|eb|nc|midgargs|kalecap
+2025-07-18 02:32:52|sheep|tbone|sb|cc|limerence|infinite clique
+2025-07-18 02:32:52|sheep|tbone|sf|zm|transform psycho|lawnmower
+2025-07-18 02:32:52|tbone|sheep|hg|gk|conjure|moonsault
+2025-07-18 02:32:52|tbone|sheep|sf|nt|rampkale|slugged
+2025-07-18 16:08:57|autony|tbone|cz|bf|bowling bulb's apotk|gargs
+2025-07-18 16:08:57|autony|tbone|im|ro|otk catlady|ramp
+2025-07-18 16:08:57|autony|tbone|rb|nc|cardsbolt|kalecap
+2025-07-18 16:08:57|autony|tbone|zm|ro|sugary trickmech|ramp
+2025-07-18 16:08:57|tbone|autony|rb|gk|mecha|adil's leafy
+2025-07-18 16:08:57|tbone|autony|zm|gk|lawnmover|adil's leafy
+2025-07-18 18:18:37|valentinian|michael|bc|zm|sham control|garg splash
+2025-07-18 18:18:37|valentinian|michael|rb|wk|boltbolt|control
+2025-07-18 18:18:37|valentinian|michael|sf|nt|troller|piport with viral
+2025-07-18 22:50:03|fluke|michael|cc|nt|plant mop|piport
+2025-07-18 22:50:03|fluke|michael|ro|sm|hmr|midgargs
+2025-07-18 22:50:03|fluke|michael|sb|sp|modded gps|dino roots
+2025-07-18 22:50:03|fluke|michael|zm|sp|lolo reference|dino roots
+2025-07-19 03:11:15|a_person|first hero|cz|zm|briar apotk|gargs
+2025-07-19 03:11:15|a_person|first hero|if|cc|spacestars|flourish midrange
+2025-07-19 03:11:15|a_person|first hero|im|ro|pink pony club|sun shroom hmr
+2025-07-19 03:11:15|first hero|a_person|eb|gk|aggro|apogk
+2025-07-19 03:11:15|first hero|a_person|sf|zm|generic fig|pyromania
+2025-07-19 12:54:19|michael|wild|gk|eb|Unknown|Unknown
+2025-07-19 12:54:19|michael|wild|gs|sb|Unknown|Unknown
+2025-07-19 12:54:19|michael|wild|sf|rb|Unknown|Unknown
+2025-07-19 12:54:19|wild|michael|ct|nt|Unknown|Unknown
+2025-07-19 12:54:19|wild|michael|cz|im|Unknown|Unknown
+2025-07-19 15:02:19|alan|michael|cc|nt|highlander|Unknown
+2025-07-19 15:02:19|alan|michael|eb|gs|highlander|Unknown
+2025-07-19 15:02:19|michael|alan|cz|sm|Unknown|highlander
+2025-07-19 15:02:19|michael|alan|gk|rb|Unknown|highlander
+2025-07-19 15:02:19|michael|alan|if|gk|Unknown|highlander
+2025-07-19 15:02:19|michael|alan|im|gs|Unknown|highlander
+2025-07-19 15:13:54|adil|tbone|ro|bf|Unknown|gargs
+2025-07-19 15:13:54|adil|tbone|zm|sf|Unknown|rampkale
+2025-07-19 15:13:54|tbone|adil|cz|im|rampzilla|Unknown
+2025-07-19 15:13:54|tbone|adil|if|sf|midraiser|Unknown
+2025-07-19 15:13:54|tbone|adil|ro|sm|ramp|Unknown
+2025-07-19 15:13:54|tbone|adil|zm|wk|lawnmower2|Unknown
+2025-07-19 15:54:34|michael|div|gk|rb|Unknown|Unknown
+2025-07-19 15:54:34|michael|div|im|cz|Unknown|Unknown
+2025-07-19 15:54:34|michael|div|sf|hg|Unknown|Unknown
+2025-07-19 15:54:34|michael|div|sm|ro|Unknown|Unknown
+2025-07-19 18:27:09|cursed|div|bf|nc|cursed unlocked|fig control
+2025-07-19 18:27:09|cursed|div|cz|nt|best apootk list|Unknown
+2025-07-19 18:27:09|cursed|div|sm|nc|smash or pass v1.61|fig control
+2025-07-19 18:27:09|cursed|div|zm|nc|the broken badorni deck|fig control
+2025-07-19 18:27:09|div|cursed|nt|gk|Unknown|aggro
+2025-07-19 22:26:55|fluke|valentinian|cc|zm|plant mop|buff zm
+2025-07-19 22:26:55|fluke|valentinian|rb|sp|bolt bolt|dino roots
+2025-07-19 22:26:55|valentinian|fluke|cz|nt|apotk|pile
+2025-07-19 22:26:55|valentinian|fluke|hg|wk|anti-chemo|chemo
+2025-07-19 22:26:55|valentinian|fluke|rb|gk|bolt bolt|peas
+2025-07-19 22:26:55|valentinian|fluke|sf|bf|troller flare|funny fry deck
+2025-07-20 01:38:44|sheep|tbone|cc|bf|Unknown|Unknown
+2025-07-20 01:38:44|sheep|tbone|hg|sf|Unknown|Unknown
+2025-07-20 01:38:44|sheep|tbone|im|cz|Unknown|Unknown
+2025-07-20 01:38:44|sheep|tbone|sf|if|Unknown|Unknown
+2025-07-20 02:06:22|fluke|michael|nc|rb|Unknown|Unknown
+2025-07-20 02:06:22|fluke|michael|nt|gk|Unknown|Unknown
+2025-07-20 02:06:22|michael|fluke|gk|zm|Unknown|Unknown
+2025-07-20 02:06:22|michael|fluke|if|bc|Unknown|Unknown
+2025-07-20 02:06:22|michael|fluke|rb|bc|Unknown|Unknown
+2025-07-20 02:06:22|michael|fluke|sp|bf|Unknown|Unknown
+2025-07-20 04:20:13|sheep|snake eyes|bf|cc|Unknown|Unknown
+2025-07-20 04:20:13|sheep|snake eyes|if|sf|Unknown|Unknown
+2025-07-20 04:20:13|sheep|snake eyes|nc|if|Unknown|Unknown
+2025-07-20 04:20:13|sheep|snake eyes|sm|ct|Unknown|Unknown
+2025-07-20 04:20:13|snake eyes|sheep|bf|cz|Unknown|Unknown
+2025-07-20 04:20:13|snake eyes|sheep|im|sf|Unknown|Unknown
+2025-07-20 11:06:25|jyn|tbone|eb|sf|Unknown|Unknown
+2025-07-20 11:06:25|jyn|tbone|gs|rb|Unknown|Unknown
+2025-07-20 11:06:25|jyn|tbone|nc|if|Unknown|Unknown
+2025-07-20 11:06:25|jyn|tbone|nt|cz|Unknown|Unknown
+2025-07-20 12:49:43|tbone|tqm|cz|bf|Unknown|Unknown
+2025-07-20 12:49:43|tbone|tqm|im|ro|Unknown|Unknown
+2025-07-20 12:49:43|tqm|tbone|hg|cc|Unknown|Unknown
+2025-07-20 12:49:43|tqm|tbone|nc|zm|Unknown|Unknown
+2025-07-20 12:49:43|tqm|tbone|wk|zm|Unknown|Unknown
+2025-07-20 12:59:56|tbone|div|bc|rb|sham control|bolt bolt
+2025-07-20 12:59:56|tbone|div|if|wk|midraiser|control
+2025-07-20 12:59:56|tbone|div|sf|rb|rampkale|bolt bolt
+2025-07-20 12:59:56|tbone|div|zm|cz|lawnmower|Unknown
+2025-07-20 15:24:20|div|sheep|nc|sm|Unknown|Unknown
+2025-07-20 15:24:20|div|sheep|nt|sf|Unknown|Unknown
+2025-07-20 15:24:20|sheep|div|bf|ro|Unknown|Unknown
+2025-07-20 15:24:20|sheep|div|cc|im|Unknown|Unknown
+2025-07-20 15:24:20|sheep|div|im|gk|Unknown|Unknown
+2025-07-20 15:24:20|sheep|div|nc|sm|Unknown|Unknown
+2025-07-20 19:30:27|cursed|michael|gk|if|Unknown|Unknown
+2025-07-20 19:30:27|michael|cursed|gk|bf|Unknown|Unknown
+2025-07-20 19:30:27|michael|cursed|gs|if|Unknown|Unknown
+2025-07-20 19:30:27|michael|cursed|sf|sm|Unknown|Unknown
+2025-07-20 19:30:27|michael|cursed|zm|nc|Unknown|Unknown
+2025-07-21 01:50:51|tbone|valentinian|sf|rb|fig kale ramp|boltbolt
+2025-07-21 01:50:51|valentinian|tbone|gk|if|pea aggro|midraiser
+2025-07-21 01:50:51|valentinian|tbone|rb|ro|boltbolt|Unknown
+2025-07-21 01:50:51|valentinian|tbone|sf|rb|fig kale ramp|uncrackabolt
+2025-07-21 01:50:51|valentinian|tbone|wk|zm|modded chemo|garg splash
+2025-07-21 09:33:06|div|padboy|cz|sm|Unknown|Unknown
+2025-07-21 09:33:06|div|padboy|hg|gk|Unknown|Unknown
+2025-07-21 09:33:06|div|padboy|sp|zm|Unknown|Unknown
+2025-07-21 09:33:06|div|padboy|zm|ro|Unknown|Unknown
+2025-07-21 09:33:06|padboy|div|im|bc|Unknown|Unknown
+2025-07-21 14:41:26|michael|jyn|gk|bf|pea aggro|Unknown
+2025-07-21 14:41:26|michael|jyn|im|gk|tempo|Unknown
+2025-07-21 14:41:26|michael|jyn|nt|cz|piport|Unknown
+2025-07-21 14:41:26|michael|jyn|sf|rb|tempo|Unknown
+2025-07-21 18:48:24|div|michael|ct|im|Unknown|tempo
+2025-07-21 18:48:24|michael|div|gk|bf|pea aggro|Unknown
+2025-07-21 18:48:24|michael|div|im|nc|tempo|Unknown
+2025-07-21 18:48:24|michael|div|sf|nt|tempo|Unknown
+2025-07-21 18:48:24|michael|div|sm|ct|solstice|Unknown
+2025-07-22 07:04:32|michael|div|ct|nt|tempo|Unknown
+2025-07-22 07:04:32|michael|div|hg|bc|gravestaches|Unknown
+2025-07-22 07:04:32|michael|div|if|nc|spacestars|Unknown
+2025-07-22 07:04:32|michael|div|sp|zm|starch control|Unknown
+2025-07-22 13:06:22|div|michael|eb|gk|Unknown|pea aggro
+2025-07-22 13:06:22|michael|div|hg|bc|gravestaches|Unknown
+2025-07-22 13:06:22|michael|div|if|nc|spacestars|Unknown
+2025-07-22 13:06:22|michael|div|sm|nc|solstice|Unknown
+2025-07-22 13:34:59|michael|coffee|gk|sb|pea aggro|Unknown
+2025-07-22 13:34:59|michael|coffee|if|ct|spacestars|Unknown
+2025-07-22 13:34:59|michael|coffee|im|ro|tempo|Unknown
+2025-07-22 13:34:59|michael|coffee|sf|eb|tempo|Unknown
+2025-07-22 17:25:35|huyn|michael|bc|im|Unknown|Unknown
+2025-07-22 17:25:35|huyn|michael|cz|if|Unknown|Unknown
+2025-07-22 17:25:35|huyn|michael|if|sf|Unknown|Unknown
+2025-07-22 17:25:35|huyn|michael|ro|sm|Unknown|Unknown
+2025-07-22 17:25:35|michael|huyn|gk|sm|Unknown|Unknown
+2025-07-22 17:25:35|michael|huyn|sp|hg|Unknown|Unknown
+2025-07-23 02:58:19|sheep|tbone|cz|bf|Unknown|himps
+2025-07-23 02:58:19|sheep|tbone|gk|rb|Unknown|cardsbolt
+2025-07-23 02:58:19|tbone|sheep|cc|sb|infinite cliques|Unknown
+2025-07-23 02:58:19|tbone|sheep|cz|im|rampzilla|Unknown
+2025-07-23 02:58:19|tbone|sheep|im|sf|portal gun|Unknown
+2025-07-23 02:58:19|tbone|sheep|ro|sm|ramp|Unknown
+2025-07-23 03:59:33|snake eyes|tbone|im|cz|Unknown|rampzilla
+2025-07-23 03:59:33|snake eyes|tbone|wk|bf|Unknown|gargs
+2025-07-23 03:59:33|tbone|snake eyes|cz|hg|rampzilla|Unknown
+2025-07-23 03:59:33|tbone|snake eyes|hg|sf|conjure|Unknown
+2025-07-23 03:59:33|tbone|snake eyes|rb|nc|cardsbolt|Unknown
+2025-07-23 03:59:33|tbone|snake eyes|ro|bf|ramp|Unknown
+2025-07-24 12:21:35|snake eyes|wild|nc|hg|Unknown|Unknown
+2025-07-24 12:21:35|snake eyes|wild|sf|bf|Unknown|Unknown
+2025-07-24 12:21:35|snake eyes|wild|wk|nt|Unknown|Unknown
+2025-07-24 12:21:35|wild|snake eyes|gs|rb|Unknown|Unknown
+2025-07-24 12:21:35|wild|snake eyes|ro|zm|Unknown|Unknown
+2025-07-24 12:35:18|valentinian|michael|if|gk|Unknown|Unknown
+2025-07-24 12:35:18|valentinian|michael|ro|sm|Unknown|Unknown
+2025-07-24 12:35:18|valentinian|michael|sf|sm|Unknown|Unknown
+2025-07-24 12:35:18|valentinian|michael|zm|gk|Unknown|Unknown
+2025-07-24 14:22:48|michael|div|gk|sm|Unknown|Unknown
+2025-07-24 14:22:48|michael|div|im|gs|Unknown|Unknown
+2025-07-24 14:22:48|michael|div|nt|gs|Unknown|Unknown
+2025-07-24 14:22:48|michael|div|sf|eb|Unknown|Unknown
+2025-07-24 14:28:42|cursed|div|bf|gs|Unknown|Unknown
+2025-07-24 14:28:42|cursed|div|gk|sm|Unknown|Unknown
+2025-07-24 14:28:42|cursed|div|ro|zm|Unknown|Unknown
+2025-07-24 14:28:42|div|cursed|eb|cz|Unknown|Unknown
+2025-07-24 14:28:42|div|cursed|sf|zm|Unknown|Unknown
+2025-07-25 03:47:00|snake eyes|tbone|cz|zm|Unknown|pyro
+2025-07-25 03:47:00|snake eyes|tbone|nt|cz|Unknown|rampzilla
+2025-07-25 03:47:00|snake eyes|tbone|zm|ro|Unknown|ramp
+2025-07-25 03:47:00|tbone|snake eyes|bc|bf|sham control|Unknown
+2025-07-25 03:47:00|tbone|snake eyes|hg|sf|conjure|Unknown
+2025-07-25 03:47:00|tbone|snake eyes|if|wk|midraiser|Unknown
+2025-07-25 03:47:00|tbone|snake eyes|ro|im|ramp|Unknown
+2025-07-25 06:03:19|huyn|michael|cz|im|Unknown|trickstache
+2025-07-25 06:03:19|huyn|michael|zm|sf|Unknown|tempo
+2025-07-25 06:03:19|michael|huyn|if|gk|spacestars|Unknown
+2025-07-25 06:03:19|michael|huyn|im|bc|trickstache|control
+2025-07-25 06:03:19|michael|huyn|sf|sm|tempo|Unknown
+2025-07-25 06:03:19|michael|huyn|sp|nt|starch control|Unknown
+2025-07-25 06:53:35|michael|30thegoat|im|bc|trickstache|Unknown
+2025-07-25 06:53:35|michael|30thegoat|sf|sm|tempo|Unknown
+2025-07-25 06:53:35|michael|30thegoat|sp|hg|starch control|aggro hand vs brick hand 😎
+2025-07-25 12:46:57|cursed|valentinian|bc|if|control|Unknown
+2025-07-25 12:46:57|cursed|valentinian|bf|sf|the anti-anti|Unknown
+2025-07-25 12:46:57|cursed|valentinian|gk|sm|espresso aggro|Unknown
+2025-07-25 12:46:57|cursed|valentinian|sm|sp|smash or pass|Unknown
+2025-07-25 12:46:57|valentinian|cursed|rb|gk|Unknown|espresso aggro
+2025-07-25 12:46:57|valentinian|cursed|sp|rb|Unknown|boltbolt modded
+2025-07-27 00:30:11|fluke|tqm|nc|sm|Unknown|Unknown
+2025-07-27 00:30:11|tqm|fluke|bf|gk|Unknown|Unknown
+2025-07-27 00:30:11|tqm|fluke|gk|nt|Unknown|Unknown
+2025-07-27 00:30:11|tqm|fluke|gs|nt|Unknown|Unknown
+2025-07-27 00:30:11|tqm|fluke|zm|sf|Unknown|Unknown
+2025-07-27 01:36:43|fluke|michael|cz|rb|budget mopzilla|lolobolt
+2025-07-27 01:36:43|fluke|michael|nc|rb|cyburn|lolobolt
+2025-07-27 01:36:43|fluke|michael|sf|zm|troller flare|buff zm
+2025-07-27 01:36:43|fluke|michael|zm|sf|the definitive zm experience™️|latam tempo
+2025-07-27 01:36:43|michael|fluke|ct|eb|control|holy hell this was unplayable zombies suck
+2025-07-27 01:36:43|michael|fluke|gk|nt|aggro|hell
+2025-07-27 01:36:43|michael|fluke|sp|nt|dino roots|hell
+2025-07-27 17:12:45|fluke|tbone|eb|cz|4th of july|rampzilla
+2025-07-27 17:12:45|fluke|tbone|nc|bf|cyburn|idk
+2025-07-27 17:12:45|fluke|tbone|nt|cz|gargolith bait|rampzilla
+2025-07-27 17:12:45|fluke|tbone|sf|zm|troller flare|pyromania
+2025-07-27 17:12:45|tbone|fluke|if|gk|no-hokai|pile
+2025-07-27 17:12:45|tbone|fluke|sf|eb|gobeyond|4th of july
+2025-07-27 18:17:57|alan|tqm|sb|gs|highlander|peabound
+2025-07-27 18:17:57|tqm|alan|bf|cz|lock boris out|highlander
+2025-07-27 18:17:57|tqm|alan|ct|im|wettron|highlander
+2025-07-27 18:17:57|tqm|alan|gk|nt|amongustherapy|highlander
+2025-07-27 18:17:57|tqm|alan|if|cc|spacestars|highlander
+2025-07-27 18:18:54|fluke|michael|bc|hg|watertina|telimps
+2025-07-27 18:18:54|fluke|michael|im|bc|test 7|control
+2025-07-27 18:18:54|fluke|michael|nt|sp|gargolith bait|dinoroots
+2025-07-27 18:18:54|michael|fluke|rb|cc|lolo gang|plant mop
+2025-07-27 18:18:54|michael|fluke|sf|eb|latam tempo|4th of july
+2025-07-27 18:18:54|michael|fluke|sp|bf|dinoroots|handfixer
+2025-07-27 18:18:54|michael|fluke|zm|gs|trickmech|abeans
+2025-07-27 19:13:59|craquinho|tbone|cz|sm|flowers|vorts
+2025-07-27 19:13:59|tbone|craquinho|cz|nt|rampzilla|graves
+2025-07-27 19:13:59|tbone|craquinho|sf|zm|rampkale|aggro
+2025-07-27 19:13:59|tbone|craquinho|zm|gk|pyro|aggro
+2025-07-27 19:43:02|cursed|tqm|bf|bc|the anti-anti|Unknown
+2025-07-27 19:43:02|cursed|tqm|cz|hg|the best apotk list|Unknown
+2025-07-27 19:43:02|cursed|tqm|ro|zm|rmr|Unknown
+2025-07-27 19:43:02|cursed|tqm|zm|gs|modded pyro|Unknown
+2025-07-27 19:43:02|tqm|cursed|im|gk|Unknown|espresso aggro
+2025-07-28 01:49:32|huyn|tbone|eb|cz|Unknown|Unknown
+2025-07-28 01:49:32|huyn|tbone|gk|bf|Unknown|Unknown
+2025-07-28 01:49:32|huyn|tbone|ro|if|Unknown|Unknown
+2025-07-28 01:49:32|tbone|huyn|sf|eb|Unknown|Unknown
+2025-07-28 13:47:41|div|tqm|bc|sm|Unknown|Unknown
+2025-07-28 13:47:41|div|tqm|im|ro|Unknown|Unknown
+2025-07-28 13:47:41|tqm|div|bc|rb|Unknown|Unknown
+2025-07-28 13:47:41|tqm|div|if|sf|Unknown|Unknown
+2025-07-28 13:47:41|tqm|div|im|ro|Unknown|Unknown
+2025-07-28 13:47:41|tqm|div|nc|im|Unknown|Unknown
+2025-07-28 23:43:49|craquinho|slewer|bc|eb|control|splash gargs
+2025-07-28 23:43:49|craquinho|slewer|eb|ro|midrange|hmr
+2025-07-28 23:43:49|slewer|craquinho|bc|zm|control|aggro
+2025-07-28 23:43:49|slewer|craquinho|gs|nt|savage tempo|piport modded
+2025-07-28 23:43:49|slewer|craquinho|im|cz|portal gun|flowers
+2025-07-28 23:43:49|slewer|craquinho|sm|gk|pablos yeezys|aggro
+2025-07-29 01:29:45|huyn|tqm|eb|nc|Unknown|Unknown
+2025-07-29 01:29:45|tqm|huyn|bc|eb|Unknown|Unknown
+2025-07-29 01:29:45|tqm|huyn|im|nc|Unknown|Unknown
+2025-07-29 01:29:45|tqm|huyn|sm|gk|Unknown|Unknown
+2025-07-29 13:31:54|snake eyes|tqm|ro|if|Unknown|Unknown
+2025-07-29 13:31:54|tqm|snake eyes|bc|bf|Unknown|Unknown
+2025-07-29 13:31:54|tqm|snake eyes|gk|im|Unknown|Unknown
+2025-07-29 13:31:54|tqm|snake eyes|hg|sf|Unknown|Unknown
+2025-07-29 13:31:54|tqm|snake eyes|sf|eb|Unknown|Unknown
+2025-07-29 14:51:54|michael|wild|ro|zm|ramp midrose|anti
+2025-07-29 14:51:54|wild|michael|ct|rb|wildtron|lolobolt
+2025-07-29 14:51:54|wild|michael|cz|rb|venice|lolobolt
+2025-07-29 14:51:54|wild|michael|eb|sf|postal 1|tempo
+2025-07-29 14:51:54|wild|michael|sf|rb|gobeyond|lolobolt
+2025-07-30 02:55:43|tbone|craquinho|cz|sm|rampzilla|gargs
+2025-07-30 02:55:43|tbone|craquinho|hg|cz|conjure|flowers
+2025-07-30 02:55:43|tbone|craquinho|rb|ro|cardsbolt|hmr
+2025-07-30 02:55:43|tbone|craquinho|sf|zm|rampkale|aggro
+2025-07-30 04:54:35|alan|slewer|gk|sm|1.6 trying to tempo|pablos yeezys
+2025-07-30 04:54:35|alan|slewer|pb|bc|1.6 vikingster|control
+2025-07-30 04:54:35|alan|slewer|rb|ro|modded bolt bolt|hmr modded
+2025-07-30 04:54:35|alan|slewer|sb|cz|1.6 aggro pile|goodstuff
+2025-07-30 04:54:35|slewer|alan|eb|cc|splash gargs|1.6 hate nibble
+2025-07-30 04:54:35|slewer|alan|rb|gs|bolt bolt|1.61 pile
+2025-07-30 05:08:06|bhb|walter|cc|zm|super-fig|lawnmover
+2025-07-30 05:08:06|bhb|walter|im|ro|og bighairyticia|modified midrose
+2025-07-30 05:08:06|bhb|walter|ro|sm|norose|midgargs
+2025-07-30 05:08:06|walter|bhb|wk|pb|chemotherapy|brickster
+2025-07-30 12:38:26|bass|michael|cc|im|Unknown|Unknown
+2025-07-30 12:38:26|bass|michael|hg|sp|Unknown|Unknown
+2025-07-30 12:38:26|bass|michael|if|sp|Unknown|Unknown
+2025-07-30 12:38:26|bass|michael|rb|sp|Unknown|Unknown
+2025-07-30 12:38:26|michael|bass|im|cz|Unknown|Unknown
+2025-07-30 12:38:26|michael|bass|rb|bc|Unknown|Unknown
+2025-07-30 15:47:07|bass|slewer|bc|eb|Unknown|splash gargs
+2025-07-30 15:47:07|bass|slewer|im|gs|Unknown|Unknown
+2025-07-30 15:47:07|bass|slewer|pb|nc|Unknown|cycle
+2025-07-30 15:47:07|bass|slewer|ro|im|Unknown|portal gun
+2025-07-30 15:47:07|slewer|bass|ro|nt|hmr modded|Unknown
+2025-07-30 15:47:07|slewer|bass|sm|gk|pablos yeezys|Unknown
+2025-07-30 15:49:16|fluke|michael|cc|eb|plant mop|seacret
+2025-07-30 15:49:16|fluke|michael|if|sf|spacestars|latam tempo
+2025-07-30 15:49:16|fluke|michael|rb|sp|tempest|dinoroots
+2025-07-30 15:49:16|fluke|michael|ro|sm|hmr|midgargs
+2025-07-30 15:49:16|michael|fluke|rb|sf|cardsbolt|troller flare
+2025-07-30 15:49:16|michael|fluke|sp|eb|dinoroots|4th of july
+2025-07-31 13:48:39|snake eyes|wild|bf|gs|Unknown|Unknown
+2025-07-31 13:48:39|snake eyes|wild|eb|ro|Unknown|Unknown
+2025-07-31 13:48:39|snake eyes|wild|rb|gs|Unknown|Unknown
+2025-07-31 13:48:39|wild|snake eyes|bf|ro|Unknown|Unknown
+2025-07-31 13:48:39|wild|snake eyes|ct|im|Unknown|Unknown
+2025-07-31 13:48:39|wild|snake eyes|if|cz|Unknown|Unknown
+2025-07-31 13:48:39|wild|snake eyes|sm|sf|Unknown|Unknown
+2025-07-31 16:00:25|div|fluke|if|bc|Unknown|Unknown
+2025-07-31 16:00:25|fluke|div|eb|nc|Unknown|Unknown
+2025-07-31 16:00:25|fluke|div|nc|rb|Unknown|Unknown
+2025-07-31 16:00:25|fluke|div|nt|cz|Unknown|Unknown
+2025-07-31 16:00:25|fluke|div|zm|bc|Unknown|Unknown
+2025-07-31 17:09:20|div|sheep|bc|eb|Unknown|Unknown
+2025-07-31 17:09:20|div|sheep|zm|ro|Unknown|Unknown
+2025-07-31 17:09:20|sheep|div|cz|im|Unknown|Unknown
+2025-07-31 17:09:20|sheep|div|if|cz|Unknown|Unknown
+2025-07-31 17:09:20|sheep|div|im|cc|Unknown|Unknown
+2025-07-31 17:09:20|sheep|div|sf|if|Unknown|Unknown
+2025-07-31 21:01:14|alan|maker|cc|nt|1.6 hate nibble|control
+2025-07-31 21:01:14|alan|maker|nc|zm|1.6 fig midrange|josaaosmech
+2025-07-31 21:01:14|alan|maker|rb|sf|modded bolt bolt|latam tempo mod
+2025-07-31 21:01:14|alan|maker|zm|bc|1.6 flamecho|tempo
+2025-07-31 21:01:14|maker|alan|cz|bf|venice mod|1.6 unfreeze the raptor
+2025-07-31 21:01:14|maker|alan|gk|eb|trying to espresso|1.6 explosive area
+2025-07-31 21:01:14|maker|alan|im|bc|vietnamstaches|1.6 trolltina
+2025-08-01 00:07:50|fluke|tbone|im|sp|pile|buff sp
+2025-08-01 00:07:50|fluke|tbone|ro|rb|buff ro|pile
+2025-08-01 00:07:50|fluke|tbone|wk|bf|pile|pile
+2025-08-01 00:07:50|fluke|tbone|zm|cc|buff zm|nerf cc
+2025-08-01 00:07:50|tbone|fluke|cz|sm|pile|deck
+2025-08-01 00:07:50|tbone|fluke|sf|bf|pile|pile
+2025-08-01 00:07:50|tbone|fluke|zm|nc|buff zm|nerf nc
+2025-08-01 02:42:13|alan|tqm|gk|sm|1.6 trying to tempo|midgargs
+2025-08-01 02:42:13|alan|tqm|im|gs|1.6 unsynchronized|peabound
+2025-08-01 02:42:13|alan|tqm|rb|cc|modded bolt bolt|fig hell
+2025-08-01 02:42:13|alan|tqm|zm|bc|1.6 flamecho|sham control
+2025-08-01 02:42:13|tqm|alan|bf|gs|lock boris out|1.61 pile
+2025-08-01 02:42:13|tqm|alan|zm|cc|garg mech|1.6 hate nibble
+2025-08-01 03:35:59|tornillo|walter|bc|im|“tio sam”|portal gun
+2025-08-01 03:35:59|tornillo|walter|gk|zm|“let’s try tempo”|lawnmover
+2025-08-01 03:35:59|walter|tornillo|nc|eb|toyota controla|healgargs
+2025-08-01 03:35:59|walter|tornillo|rb|cc|cardsbolt/pogger|logbait
+2025-08-01 03:35:59|walter|tornillo|sf|nt|go beyond|piportinillo
+2025-08-01 06:14:06|sheep|jackmartin|if|gk|no-hokai stars|starchspresso
+2025-08-01 06:14:06|sheep|jackmartin|im|sf|bakery|freight
+2025-08-01 06:14:06|sheep|jackmartin|sf|eb|transform psycho|slewer+coffee splash gargs
+2025-08-01 07:10:08|div|first hero|im|bc|staches|midrange
+2025-08-01 07:10:08|div|first hero|rb|ro|cardsbolt|modded hmr
+2025-08-01 07:10:08|div|first hero|sp|rb|dino roots|bolt bolt
+2025-08-01 12:35:09|bass|tbone|eb|ro|Unknown|Unknown
+2025-08-01 12:35:09|bass|tbone|hg|sf|Unknown|Unknown
+2025-08-01 12:35:09|bass|tbone|rb|sf|Unknown|Unknown
+2025-08-01 12:35:09|bass|tbone|wk|bf|Unknown|Unknown
+2025-08-01 12:35:09|tbone|bass|zm|nc|Unknown|Unknown
+2025-08-01 13:05:18|huyn|tbone|if|cz|Unknown|Unknown
+2025-08-01 13:05:18|huyn|tbone|nc|eb|Unknown|Unknown
+2025-08-01 13:05:18|huyn|tbone|sm|gk|Unknown|Unknown
+2025-08-01 13:05:18|tbone|huyn|if|bc|Unknown|Unknown
+2025-08-01 13:05:18|tbone|huyn|sf|eb|Unknown|Unknown
+2025-08-01 14:58:25|maker|tbone|if|cz|deadly tempo|Unknown
+2025-08-01 14:58:25|maker|tbone|rb|sf|cardsbolt mod|Unknown
+2025-08-01 14:58:25|maker|tbone|sp|zm|maker's dino roots|Unknown
+2025-08-01 14:58:25|maker|tbone|zm|ro|josaaosmech|Unknown
+2025-08-01 14:58:25|tbone|maker|rb|gk|Unknown|trying to espresso
+2025-08-01 23:54:26|michael|walter|ct|bf|tempo|lock the bathroom
+2025-08-01 23:54:26|michael|walter|rb|nc|paparazzi|toyota control
+2025-08-01 23:54:26|michael|walter|ro|eb|heal midrose|seacret
+2025-08-02 00:20:31|bhb|tqm|ct|pb|go-flickurbean|astronomy
+2025-08-02 00:20:31|tqm|bhb|bc|pb|sham control|brickster
+2025-08-02 00:20:31|tqm|bhb|sm|ro|pet the smash|norose
+2025-08-02 00:20:31|tqm|bhb|sp|im|dino-roots|bighairyticia
+2025-08-02 00:31:26|tbone|walter|cz|zm|rampzilla|lawnmower
+2025-08-02 00:31:26|tbone|walter|sf|eb|ramp kale|seacret
+2025-08-02 00:31:26|tbone|walter|zm|cz|trickmech|venice
+2025-08-02 00:31:26|walter|tbone|bc|nt|neurotherapy|muglord
+2025-08-02 02:07:59|alan|tqm|cz|sm|highlander|Unknown
+2025-08-02 02:07:59|alan|tqm|rb|ro|highlander|Unknown
+2025-08-02 02:07:59|alan|tqm|sf|eb|highlander|Unknown
+2025-08-02 02:07:59|tqm|alan|bf|gk|Unknown|highlander
+2025-08-02 02:07:59|tqm|alan|sp|nt|Unknown|highlander
+2025-08-02 02:36:29|sheep|tbone|cz|nt|Unknown|Unknown
+2025-08-02 02:36:29|sheep|tbone|if|sf|Unknown|Unknown
+2025-08-02 02:36:29|sheep|tbone|sb|sp|Unknown|Unknown
+2025-08-02 02:36:29|sheep|tbone|zm|cz|Unknown|Unknown
+2025-08-02 02:36:29|tbone|sheep|bf|ro|Unknown|Unknown
+2025-08-02 02:36:29|tbone|sheep|sp|eb|Unknown|Unknown
+2025-08-02 02:36:29|tbone|sheep|zm|sf|Unknown|Unknown
+2025-08-02 07:44:53|div|mono|bc|zm|ctrl|trickmech
+2025-08-02 07:44:53|div|mono|cc|eb|aggro pile|gargs
+2025-08-02 07:44:53|div|mono|im|gs|stache|midrange
+2025-08-02 07:44:53|div|mono|zm|nc|trickmech|midrange
+2025-08-02 16:01:15|bass|sheep|bc|im|Unknown|Unknown
+2025-08-02 16:01:15|bass|sheep|cz|zm|Unknown|Unknown
+2025-08-02 16:01:15|bass|sheep|rb|sf|Unknown|Unknown
+2025-08-02 16:01:15|sheep|bass|cz|zm|Unknown|Unknown
+2025-08-02 16:01:15|sheep|bass|gk|im|Unknown|Unknown
+2025-08-02 16:01:15|sheep|bass|if|sf|Unknown|Unknown
+2025-08-02 16:01:15|sheep|bass|nc|bf|Unknown|Unknown
+2025-08-02 16:11:24|alan|tbone|eb|sp|highlander|Unknown
+2025-08-02 16:11:24|alan|tbone|gs|nt|highlander|Unknown
+2025-08-02 16:11:24|alan|tbone|if|sf|highlander|Unknown
+2025-08-02 16:11:24|alan|tbone|sm|cz|highlander|Unknown
+2025-08-02 16:11:24|tbone|alan|bf|ct|Unknown|highlander
+2025-08-02 16:11:24|tbone|alan|rb|gk|Unknown|highlander
+2025-08-02 17:05:28|michael|tbone|bc|bf|Unknown|watersports
+2025-08-02 17:05:28|michael|tbone|rb|cz|Unknown|otk pepper
+2025-08-02 17:05:28|tbone|michael|rb|ct|cardsbolt|Unknown
+2025-08-02 17:05:28|tbone|michael|ro|if|ramp|Unknown
+2025-08-02 17:05:28|tbone|michael|sf|if|rampkale|Unknown
+2025-08-02 17:05:28|tbone|michael|zm|gk|trickmech|Unknown
+2025-08-02 21:09:14|bass|tbone|im|ro|gentleman trickster|ramp
+2025-08-02 21:09:14|bass|tbone|sm|sp|gargs|roots
+2025-08-02 21:09:14|bass|tbone|wk|bf|control|watersports
+2025-08-02 21:09:14|tbone|bass|pb|wk|mecha gold|control
+2025-08-02 21:09:14|tbone|bass|rb|bc|cardsbolt|sham control
+2025-08-02 21:09:14|tbone|bass|sf|hg|ramp kale|conjure leap
+2025-08-02 21:09:14|tbone|bass|wk|eb|control|hunt gargs
+2025-08-02 23:49:55|michael|tbone|cc|zm|Unknown|trickmech
+2025-08-02 23:49:55|michael|tbone|sf|rb|Unknown|cardsbolt
+2025-08-02 23:49:55|tbone|michael|bf|ct|watersports|Unknown
+2025-08-02 23:49:55|tbone|michael|cc|sm|infinite cliques|Unknown
+2025-08-02 23:49:55|tbone|michael|cz|zm|apotk|Unknown
+2025-08-02 23:49:55|tbone|michael|ro|sm|ramp|Unknown
+2025-08-03 04:01:09|michael|mono|cc|eb|Unknown|Unknown
+2025-08-03 04:01:09|michael|mono|im|cz|Unknown|Unknown
+2025-08-03 04:01:09|michael|mono|nt|gs|Unknown|Unknown
+2025-08-03 04:01:09|michael|mono|sf|sb|Unknown|Unknown
+2025-08-03 04:01:09|mono|michael|cc|nt|Unknown|Unknown
+2025-08-03 05:30:13|fluke|mono|bf|gs|bf racism|1.6 cartas buenas?
+2025-08-03 05:30:13|fluke|mono|ct|rb|decapath|*modded bolt bolt*
+2025-08-03 05:30:13|fluke|mono|cz|eb|apotk|father pucci
+2025-08-03 05:30:13|fluke|mono|eb|nc|seacret|turles
+2025-08-03 05:30:13|mono|fluke|eb|nc|deri gang we will destroy cyburn|cyburn
+2025-08-03 08:29:05|first hero|snake eyes|bf|sp|Unknown|Unknown
+2025-08-03 08:29:05|first hero|snake eyes|cz|rb|Unknown|Unknown
+2025-08-03 08:29:05|first hero|snake eyes|ro|eb|Unknown|Unknown
+2025-08-03 08:29:05|snake eyes|first hero|if|sf|Unknown|Unknown
+2025-08-03 08:29:05|snake eyes|first hero|sf|nt|Unknown|Unknown
+2025-08-03 10:50:09|bass|michael|zm|sp|Unknown|Unknown
+2025-08-03 10:50:09|michael|bass|im|ro|Unknown|Unknown
+2025-08-03 10:50:09|michael|bass|nt|cc|Unknown|Unknown
+2025-08-03 10:50:09|michael|bass|sf|rb|Unknown|Unknown
+2025-08-03 10:50:09|michael|bass|sp|eb|Unknown|Unknown
+2025-08-03 13:00:48|michael|tqm|gk|rb|Unknown|Unknown
+2025-08-03 13:00:48|michael|tqm|im|cc|Unknown|Unknown
+2025-08-03 13:00:48|michael|tqm|rb|gk|Unknown|Unknown
+2025-08-03 13:00:48|michael|tqm|sf|eb|Unknown|Unknown
+2025-08-03 13:00:48|tqm|michael|ct|im|Unknown|Unknown
+2025-08-03 13:00:48|tqm|michael|if|cc|Unknown|Unknown
+2025-08-03 13:00:48|tqm|michael|zm|gk|Unknown|Unknown
+2025-08-03 13:40:15|cursed|michael|bc|zm|Unknown|Unknown
+2025-08-03 13:40:15|cursed|michael|cz|rb|Unknown|Unknown
+2025-08-03 13:40:15|cursed|michael|rb|gk|Unknown|Unknown
+2025-08-03 18:48:30|maker|tbone|cc|sm|the shooting star|Unknown
+2025-08-03 18:48:30|maker|tbone|if|cz|deadly tempo|Unknown
+2025-08-03 18:48:30|maker|tbone|nt|sf|midgraves|Unknown
+2025-08-03 18:48:30|maker|tbone|zm|cz|josaaosmech|Unknown
+2025-08-03 18:48:30|tbone|maker|rb|sf|Unknown|latam tempo mod
+2025-08-03 18:48:30|tbone|maker|zm|ro|Unknown|pile
+2025-08-03 19:47:16|jackmartin|tbone|gk|zm|starchspresso|Unknown
+2025-08-03 19:47:16|jackmartin|tbone|sf|sm|freight|Unknown
+2025-08-03 19:47:16|tbone|jackmartin|rb|bc|Unknown|control
+2025-08-03 19:47:16|tbone|jackmartin|sf|sm|Unknown|luminous
+2025-08-03 20:19:34|coffee|slewer|pb|gk|qss|moose
+2025-08-03 20:19:34|slewer|coffee|bf|ct|otk cryo yeti|mud v19
+2025-08-03 20:19:34|slewer|coffee|hg|ct|gambling|mud v19
+2025-08-03 20:19:34|slewer|coffee|ro|rb|hmr modded|rsbb
+2025-08-03 20:19:34|slewer|coffee|sm|ct|pablos yeezys|mud v19
+2025-08-03 21:37:31|craquinho|tbone|bc|zm|control|Unknown
+2025-08-03 21:37:31|craquinho|tbone|eb|sf|gargs|Unknown
+2025-08-03 21:37:31|craquinho|tbone|if|cz|spacestars|Unknown
+2025-08-03 21:37:31|tbone|craquinho|rb|gk|Unknown|aggro
+2025-08-03 22:59:00|first hero|michael|nt|sf|Unknown|Unknown
+2025-08-03 22:59:00|first hero|michael|ro|rb|Unknown|Unknown
+2025-08-03 22:59:00|michael|first hero|gk|zm|Unknown|Unknown
+2025-08-03 22:59:00|michael|first hero|im|cz|Unknown|Unknown
+2025-08-03 22:59:00|michael|first hero|sf|sm|Unknown|Unknown
+2025-08-04 06:29:23|sheep|slewer|bc|bf|sheeptina|otk cryo
+2025-08-04 06:29:23|sheep|slewer|gk|im|moonsault|portal gun
+2025-08-04 06:29:23|sheep|slewer|hg|cc|otk blob|logbait
+2025-08-04 06:29:23|sheep|slewer|pb|ro|hi bird|hmr modded
+2025-08-04 13:04:13|cursed|sheep|bc|zm|Unknown|Unknown
+2025-08-04 13:04:13|cursed|sheep|cz|bf|Unknown|Unknown
+2025-08-04 13:04:13|cursed|sheep|rb|gk|Unknown|Unknown
+2025-08-04 13:04:13|cursed|sheep|ro|if|Unknown|Unknown
+2025-08-04 13:04:13|sheep|cursed|ct|bf|Unknown|Unknown
+2025-08-04 13:04:13|sheep|cursed|hg|bc|Unknown|Unknown
+2025-08-04 13:04:13|sheep|cursed|sp|if|Unknown|Unknown
+2025-08-04 13:39:58|huyn|sheep|bc|bf|Unknown|Unknown
+2025-08-04 13:39:58|huyn|sheep|if|sp|Unknown|Unknown
+2025-08-04 13:39:58|sheep|huyn|bc|sm|Unknown|Unknown
+2025-08-04 13:39:58|sheep|huyn|gk|if|Unknown|Unknown
+2025-08-04 13:39:58|sheep|huyn|rb|cz|Unknown|Unknown
+2025-08-04 23:53:24|huyn|tbone|gk|bf|Unknown|Unknown
+2025-08-04 23:53:24|huyn|tbone|if|sf|Unknown|Unknown
+2025-08-04 23:53:24|huyn|tbone|sp|nt|Unknown|Unknown
+2025-08-04 23:53:24|tbone|huyn|sp|bf|Unknown|Unknown
+2025-08-05 01:49:53|hai|michael|ct|im|water splashed|comboticia
+2025-08-05 01:49:53|hai|michael|nt|gk|tanktuna|pea aggro
+2025-08-05 01:49:53|hai|michael|ro|im|midrose|comboticia
+2025-08-05 01:49:53|michael|hai|cc|if|log bait mod|technostars
+2025-08-05 01:49:53|michael|hai|im|sp|comboticia|dinoroots
+2025-08-05 01:49:53|michael|hai|rb|gk|cardsbolt|dinoroots
+2025-08-05 01:49:53|michael|hai|sf|zm|tempo|trickmech
+2025-08-05 02:44:59|huyn|walter|gk|im|Unknown|Unknown
+2025-08-05 02:44:59|huyn|walter|if|sp|Unknown|Unknown
+2025-08-05 02:44:59|huyn|walter|sm|gk|Unknown|Unknown
+2025-08-05 02:44:59|walter|huyn|gs|bf|Unknown|Unknown
+2025-08-05 02:44:59|walter|huyn|zm|nc|Unknown|Unknown
+2025-08-05 03:39:14|sheep|walter|bc|sm|sheeptina|midgargs
+2025-08-05 03:39:14|sheep|walter|gk|if|moonsault|no-hokai stars
+2025-08-05 03:39:14|sheep|walter|if|sp|stardust|radiotherapy
+2025-08-05 03:39:14|sheep|walter|rb|sf|cardsbolt|go beyond
+2025-08-05 03:39:14|walter|sheep|gs|im|lpb|bakery
+2025-08-05 03:39:14|walter|sheep|zm|ro|lawnmover|sheep hmr
+2025-08-05 06:55:30|bhb|sink|cc|pb|super-fig|trickstache
+2025-08-05 06:55:30|bhb|sink|im|gs|bighairyticia|cartas buenas
+2025-08-05 06:55:30|bhb|sink|pb|wk|brickster|chemotherapy
+2025-08-05 06:55:30|bhb|sink|ro|im|norose|portal gun
+2025-08-05 11:17:23|bass|michael|nc|rb|Unknown|Unknown
+2025-08-05 11:17:23|bass|michael|ro|rb|Unknown|Unknown
+2025-08-05 11:17:23|bass|michael|sm|wk|Unknown|Unknown
+2025-08-05 11:17:23|michael|bass|gk|sb|Unknown|Unknown
+2025-08-05 11:17:23|michael|bass|im|cz|Unknown|Unknown
+2025-08-05 11:17:23|michael|bass|nc|hg|Unknown|Unknown
+2025-08-05 11:17:23|michael|bass|sf|hg|Unknown|Unknown
+2025-08-05 12:55:45|michael|snake eyes|cc|if|Unknown|Unknown
+2025-08-05 12:55:45|michael|snake eyes|if|nc|Unknown|Unknown
+2025-08-05 12:55:45|michael|snake eyes|rb|ro|Unknown|Unknown
+2025-08-05 12:55:45|michael|snake eyes|sf|rb|Unknown|Unknown
+2025-08-05 12:55:45|snake eyes|michael|sp|nt|Unknown|Unknown
+2025-08-05 13:32:32|huyn|tqm|gk|sm|Unknown|Unknown
+2025-08-05 13:32:32|huyn|tqm|im|cc|Unknown|Unknown
+2025-08-05 13:32:32|huyn|tqm|sb|cz|Unknown|Unknown
+2025-08-05 13:32:32|tqm|huyn|rb|cc|Unknown|Unknown
+2025-08-05 13:32:32|tqm|huyn|sp|bf|Unknown|Unknown
+2025-08-05 20:50:32|michael|valentinian|ct|zm|pear mid|pyro
+2025-08-05 20:50:32|valentinian|michael|cz|zm|heal package apotk|maelstorm
+2025-08-05 20:50:32|valentinian|michael|if|ct|honkai stars|pear control
+2025-08-05 20:50:32|valentinian|michael|rb|gk|boltbolt|pear aggro
+2025-08-05 20:50:32|valentinian|michael|sp|rb|radio|poggerazzi modded
+2025-08-06 03:03:59|sheep|tbone|cz|bf|ambidextrous|watersports
+2025-08-06 03:03:59|sheep|tbone|if|ro|stardust|ramp
+2025-08-06 03:03:59|tbone|sheep|if|gk|midraiser|moonsault
+2025-08-06 03:03:59|tbone|sheep|sf|hg|rampkale|telimps
+2025-08-06 03:03:59|tbone|sheep|sp|rb|roots|cardsbolt
+2025-08-06 03:03:59|tbone|sheep|zm|bc|pyromania|sheeptina
+2025-08-06 06:26:37|mono|sheep|gk|rb|Unknown|Unknown
+2025-08-06 06:26:37|mono|sheep|sp|zm|Unknown|Unknown
+2025-08-06 06:26:37|sheep|mono|bc|eb|Unknown|Unknown
+2025-08-06 06:26:37|sheep|mono|hg|bc|Unknown|Unknown
+2025-08-06 06:26:37|sheep|mono|ro|rb|Unknown|Unknown
+2025-08-06 06:26:37|sheep|mono|sp|zm|Unknown|Unknown
+2025-08-06 10:42:35|michael|bass|im|bc|Unknown|Unknown
+2025-08-06 10:42:35|michael|bass|pb|gk|Unknown|Unknown
+2025-08-06 10:42:35|michael|bass|sf|bf|Unknown|Unknown
+2025-08-06 10:42:35|michael|bass|sp|eb|Unknown|Unknown
+2025-08-06 11:23:33|bass|michael|ro|im|Unknown|Unknown
+2025-08-06 11:23:33|bass|michael|sm|sf|Unknown|Unknown
+2025-08-06 11:23:33|bass|michael|sp|eb|Unknown|Unknown
+2025-08-06 11:23:33|michael|bass|gk|if|Unknown|Unknown
+2025-08-06 11:23:33|michael|bass|im|nc|Unknown|Unknown
+2025-08-06 11:23:33|michael|bass|sf|hg|Unknown|Unknown
+2025-08-06 11:23:33|michael|bass|wk|rb|Unknown|Unknown
+2025-08-06 18:12:28|buggy|jackmartin|bc|pb|slungus|shortbow trickstache
+2025-08-06 18:12:28|jackmartin|buggy|im|gk|science pile|mono-guardian
+2025-08-06 18:12:28|jackmartin|buggy|sf|nt|freight|flag swarm
+2025-08-06 18:12:28|jackmartin|buggy|sp|im|reliakale 2|scienceticia
+2025-08-06 19:15:15|jackmartin|walter|cc|if|ramona|no hokai stars
+2025-08-06 19:15:15|jackmartin|walter|im|gs|science pile|lpb
+2025-08-06 19:15:15|jackmartin|walter|sf|rb|frieght|cardsbolt
+2025-08-06 19:15:15|walter|jackmartin|sp|nt|the root of all evil|maker control
+2025-08-06 19:15:15|walter|jackmartin|zm|gk|lawnmower|starchspresso
+2025-08-06 21:33:07|tbone|walter|zm|ro|Unknown|Unknown
+2025-08-06 21:33:07|walter|tbone|gs|rb|Unknown|Unknown
+2025-08-06 21:33:07|walter|tbone|if|sf|Unknown|Unknown
+2025-08-06 21:33:07|walter|tbone|rb|cz|Unknown|Unknown
+2025-08-06 22:19:41|franinja|jackmartin|ct|eb|Unknown|coffee + slewer gargs
+2025-08-06 22:19:41|franinja|jackmartin|rb|sp|Unknown|reliakale
+2025-08-06 22:19:41|franinja|jackmartin|sf|im|Unknown|science pile
+2025-08-06 22:19:41|jackmartin|franinja|sf|im|freight|Unknown
+2025-08-06 22:55:38|first hero|michael|bc|im|Unknown|Unknown
+2025-08-06 22:55:38|first hero|michael|hg|sp|Unknown|Unknown
+2025-08-06 22:55:38|first hero|michael|im|sp|Unknown|Unknown
+2025-08-06 22:55:38|first hero|michael|ro|im|Unknown|Unknown
+2025-08-06 22:55:38|michael|first hero|cc|rb|Unknown|Unknown
+2025-08-06 22:55:38|michael|first hero|gk|zm|Unknown|Unknown
+2025-08-06 22:55:38|michael|first hero|im|nc|Unknown|Unknown
+2025-08-07 00:12:56|michael|first hero|gk|rb|Unknown|Unknown
+2025-08-07 00:12:56|michael|first hero|if|nc|Unknown|Unknown
+2025-08-07 00:12:56|michael|first hero|im|cz|Unknown|Unknown
+2025-08-07 00:12:56|michael|first hero|sp|eb|Unknown|Unknown
+2025-08-07 00:43:21|craquinho|michael|nt|gk|brew|Unknown
+2025-08-07 00:43:21|craquinho|michael|ro|nt|hmr|Unknown
+2025-08-07 00:43:21|craquinho|michael|zm|gk|aggro|Unknown
+2025-08-07 11:13:30|michael|sheep|cc|rb|Unknown|Unknown
+2025-08-07 11:13:30|michael|sheep|gk|hg|Unknown|Unknown
+2025-08-07 13:10:13|huyn|michael|im|gk|Unknown|Unknown
+2025-08-07 13:10:13|michael|huyn|cc|sb|Unknown|Unknown
+2025-08-07 13:10:13|michael|huyn|im|gs|Unknown|Unknown
+2025-08-07 13:10:13|michael|huyn|zm|bc|Unknown|Unknown
+2025-08-07 13:47:14|div|tqm|bf|cz|Unknown|Unknown
+2025-08-07 13:47:14|div|tqm|cc|im|Unknown|Unknown
+2025-08-07 13:47:14|div|tqm|sm|nc|Unknown|Unknown
+2025-08-07 13:47:14|tqm|div|ct|zm|Unknown|Unknown
+2025-08-07 13:47:14|tqm|div|if|nc|Unknown|Unknown
+2025-08-07 13:47:14|tqm|div|rb|ro|Unknown|Unknown
+2025-08-07 13:47:14|tqm|div|zm|nc|Unknown|Unknown
+2025-08-07 14:33:50|michael|wild|cc|rb|Unknown|Unknown
+2025-08-07 14:33:50|michael|wild|gk|hg|Unknown|Unknown
+2025-08-07 14:33:50|wild|michael|ct|im|Unknown|Unknown
+2025-08-07 14:33:50|wild|michael|cz|if|Unknown|Unknown
+2025-08-07 14:33:50|wild|michael|hg|ct|Unknown|Unknown
+2025-08-07 14:33:50|wild|michael|sp|im|Unknown|Unknown
+2025-08-07 22:48:08|tbone|walter|eb|cc|secret|infinite cliques
+2025-08-07 22:48:08|tbone|walter|gs|nt|lpb|muglord
+2025-08-07 22:48:08|walter|tbone|bf|ro|watersports|briar
+2025-08-07 22:48:08|walter|tbone|nc|rb|kalecap|cardsbolt
+2025-08-07 22:48:08|walter|tbone|sf|zm|rampkale|lawnmover
+2025-08-07 23:31:58|michael|tbone|ct|bf|Unknown|Unknown
+2025-08-07 23:31:58|michael|tbone|sm|ro|Unknown|Unknown
+2025-08-07 23:31:58|michael|tbone|sp|zm|Unknown|Unknown
+2025-08-07 23:31:58|michael|tbone|zm|sp|Unknown|Unknown
+2025-08-07 23:31:58|tbone|michael|bc|eb|Unknown|Unknown
+2025-08-07 23:31:58|tbone|michael|rb|gs|Unknown|Unknown
+2025-08-08 00:31:16|craquinho|tbone|eb|cz|gargs|Unknown
+2025-08-08 00:31:16|craquinho|tbone|if|sf|spacestars|Unknown
+2025-08-08 00:31:16|craquinho|tbone|sp|rb|radiotherapy|Unknown
+2025-08-08 00:41:40|fluke|michael|gs|sm|Unknown|Unknown
+2025-08-08 00:41:40|fluke|michael|rb|sp|Unknown|Unknown
+2025-08-08 00:41:40|fluke|michael|sp|eb|Unknown|Unknown
+2025-08-08 00:41:40|michael|fluke|ct|zm|Unknown|Unknown
+2025-08-08 00:41:40|michael|fluke|gk|sm|Unknown|Unknown
+2025-08-08 00:41:40|michael|fluke|if|ct|Unknown|Unknown
+2025-08-08 00:41:40|michael|fluke|zm|cz|Unknown|Unknown
+2025-08-08 02:12:20|hai|tbone|bc|rb|Unknown|Unknown
+2025-08-08 02:12:20|tbone|hai|ro|hg|Unknown|Unknown
+2025-08-08 16:48:46|slewer|tbone|ro|nt|hmr modded|muglord
+2025-08-08 16:48:46|tbone|slewer|cc|hg|infinite cliques|gambling
+2025-08-08 16:48:46|tbone|slewer|cz|sm|pepperotk|pablos yeezys
+2025-08-08 16:48:46|tbone|slewer|rb|bc|cardsbolt|control
+2025-08-08 16:48:46|tbone|slewer|sf|bf|rampkale|otk cryo
+2025-08-08 17:49:16|tbone|valentinian|gk|rb|omose|boltbolt
+2025-08-08 17:49:16|tbone|valentinian|hg|wk|limerence|control
+2025-08-08 17:49:16|tbone|valentinian|sf|rb|ramp kale|boltbolt
+2025-08-08 17:49:16|tbone|valentinian|zm|sf|pyro|fig leap
+2025-08-08 17:49:16|valentinian|tbone|gk|bf|pea aggro|watersports
+2025-08-08 20:11:23|michael|maker|cc|hg|Unknown|Unknown
+2025-08-08 20:11:23|michael|maker|eb|cz|Unknown|Unknown
+2025-08-08 20:11:23|michael|maker|gk|eb|Unknown|Unknown
+2025-08-08 20:11:23|michael|maker|zm|gk|Unknown|Unknown
+2025-08-08 20:56:43|maker|michael|eb|ct|Unknown|Unknown
+2025-08-08 20:56:43|maker|michael|nc|zm|Unknown|Unknown
+2025-08-08 20:56:43|michael|maker|ct|nt|Unknown|Unknown
+2025-08-08 20:56:43|michael|maker|gk|im|Unknown|Unknown
+2025-08-08 20:56:43|michael|maker|im|bc|Unknown|Unknown
+2025-08-08 20:56:43|michael|maker|sm|cz|Unknown|Unknown
+2025-08-08 22:38:44|tqm|jackmartin|bc|nt|Unknown|Unknown
+2025-08-08 22:38:44|tqm|jackmartin|rb|cc|Unknown|Unknown
+2025-08-08 22:38:44|tqm|jackmartin|sf|im|Unknown|Unknown
+2025-08-08 23:30:47|michael|tqm|gk|hg|Unknown|Unknown
+2025-08-08 23:30:47|michael|tqm|im|gk|Unknown|Unknown
+2025-08-08 23:30:47|michael|tqm|zm|bc|Unknown|Unknown
+2025-08-09 00:08:24|jackmartin|michael|cz|zm|Unknown|Unknown
+2025-08-09 00:08:24|jackmartin|michael|im|ct|Unknown|Unknown
+2025-08-09 00:08:24|michael|jackmartin|cc|sm|Unknown|Unknown
+2025-08-09 00:08:24|michael|jackmartin|gk|bf|Unknown|Unknown
+2025-08-09 00:08:24|michael|jackmartin|im|cc|Unknown|Unknown
+2025-08-09 00:08:24|michael|jackmartin|sm|sp|Unknown|Unknown
+2025-08-09 03:54:48|fluke|snake eyes|cz|sm|Unknown|Unknown
+2025-08-09 03:54:48|fluke|snake eyes|gs|eb|Unknown|Unknown
+2025-08-09 03:54:48|fluke|snake eyes|nt|sp|Unknown|Unknown
+2025-08-09 03:54:48|fluke|snake eyes|ro|hg|Unknown|Unknown
+2025-08-09 03:54:48|snake eyes|fluke|ct|if|Unknown|Unknown
+2025-08-09 03:54:48|snake eyes|fluke|nc|hg|Unknown|Unknown
+2025-08-09 03:54:48|snake eyes|fluke|rb|nc|Unknown|Unknown
+2025-08-09 10:53:08|bass|michael|hg|wk|Unknown|Unknown
+2025-08-09 10:53:08|bass|michael|im|gk|Unknown|Unknown
+2025-08-09 10:53:08|bass|michael|rb|gk|Unknown|Unknown
+2025-08-09 10:53:08|bass|michael|sp|sm|Unknown|Unknown
+2025-08-09 10:53:08|michael|bass|zm|cz|Unknown|Unknown
+2025-08-09 11:48:48|bass|maker|bc|im|Unknown|vietnamstaches
+2025-08-09 11:48:48|bass|maker|bf|gs|Unknown|cartas buenas mod
+2025-08-09 11:48:48|bass|maker|eb|gk|Unknown|trying to espresso
+2025-08-09 11:48:48|maker|bass|cz|im|venice mod|Unknown
+2025-08-09 11:48:48|maker|bass|nt|ro|original name|Unknown
+2025-08-09 11:48:48|maker|bass|sp|hg|salty control|Unknown
+2025-08-09 11:48:48|maker|bass|zm|cz|pyro|Unknown
+2025-08-09 20:57:27|cursed|fluke|rb|nc|cardsbolt|pile
+2025-08-09 20:57:27|fluke|cursed|eb|gk|pile|no pea patch
+2025-08-09 20:57:27|fluke|cursed|gk|zm|pea patch|pile
+2025-08-09 20:57:27|fluke|cursed|hg|bc|pile|pile
+2025-08-09 20:57:27|fluke|cursed|nt|bc|pile|pile
+2025-08-10 02:18:05|michael|slewer|pb|ro|Unknown|hmr modded
+2025-08-10 02:18:05|michael|slewer|sm|gs|Unknown|freeze
+2025-08-10 02:18:05|slewer|michael|bf|gk|otk cryo yeti|Unknown
+2025-08-10 02:18:05|slewer|michael|eb|ct|splash gargs|Unknown
+2025-08-10 02:18:05|slewer|michael|im|ct|portal gun|Unknown
+2025-08-10 02:18:05|slewer|michael|sf|zm|gambling|Unknown
+2025-08-10 02:21:05|sheep|tqm|ct|rb|Unknown|Unknown
+2025-08-10 02:21:05|sheep|tqm|gs|nt|Unknown|Unknown
+2025-08-10 02:21:05|sheep|tqm|im|ct|Unknown|Unknown
+2025-08-10 02:21:05|sheep|tqm|sb|nc|Unknown|Unknown
+2025-08-10 03:15:38|hai|tbone|bc|rb|neurotherapy|cardsbolt
+2025-08-10 03:15:38|hai|tbone|if|gk|technostars|omose
+2025-08-10 03:15:38|hai|tbone|nc|nt|i dont have a name for that list hmm v3|muglord
+2025-08-10 03:15:38|tbone|hai|im|ro|mecha ramp|midrose
+2025-08-10 03:15:38|tbone|hai|nt|gk|muglord|dinoroots
+2025-08-10 03:15:38|tbone|hai|ro|hg|ramp|yfm
+2025-08-10 03:15:38|tbone|hai|sf|zm|rampkale|trickmech
+2025-08-10 13:27:58|michael|mono|cc|rb|Unknown|Unknown
+2025-08-10 13:27:58|michael|mono|ct|zm|Unknown|Unknown
+2025-08-10 13:27:58|michael|mono|sm|sp|Unknown|Unknown
+2025-08-10 13:27:58|michael|mono|zm|cz|Unknown|Unknown
+2025-08-10 13:27:58|mono|michael|eb|gk|Unknown|Unknown
+2025-08-10 13:27:58|mono|michael|gs|rb|Unknown|Unknown
+2025-08-10 13:39:26|cursed|tqm|bf|sp|nerf bf|buff sp
+2025-08-10 13:39:26|cursed|tqm|cc|rb|pp|cardsbolt
+2025-08-10 13:39:26|cursed|tqm|gk|nt|aggro with pea patch|Unknown
+2025-08-10 13:39:26|cursed|tqm|gs|sm|fry bpl :jerrywhat:|pets
+2025-08-10 13:39:26|tqm|cursed|gk|rb|pea patch ✅|poggerrazzi
+2025-08-10 14:04:08|michael|mono|ct|im|Unknown|Unknown
+2025-08-10 14:04:08|michael|mono|hg|bc|Unknown|Unknown
+2025-08-10 14:04:08|michael|mono|sf|zm|Unknown|Unknown
+2025-08-10 14:04:08|michael|mono|sm|sp|Unknown|Unknown
+2025-08-10 14:04:08|mono|michael|im|gk|Unknown|Unknown
+2025-08-10 14:41:48|hai|sheep|bc|bf|neurotherapy|Unknown
+2025-08-10 14:41:48|hai|sheep|nt|cz|muglord ~~feast control~~ 🗣️|Unknown
+2025-08-10 14:41:48|hai|sheep|sf|im|latam tempo mod|Unknown
+2025-08-10 14:41:48|hai|sheep|zm|gk|plan 8|Unknown
+2025-08-10 19:04:39|tbone|walter|cz|zm|otk pepper|lawnmower
+2025-08-10 19:04:39|tbone|walter|nt|gs|muglord|lpb
+2025-08-10 19:04:39|tbone|walter|sf|if|rampkale|no hokai stars
+2025-08-10 19:04:39|tbone|walter|sm|gs|luminous|lpb
+2025-08-10 19:04:39|walter|tbone|bf|sf|lock the bathroom|ramp kale
+2025-08-10 19:45:17|jackmartin|michael|bf|cc|alchemic|Unknown
+2025-08-10 19:45:17|jackmartin|michael|eb|gk|coffee+slewer splash gargs|Unknown
+2025-08-10 19:45:17|jackmartin|michael|nt|sp|maker control|Unknown
+2025-08-10 19:45:17|jackmartin|michael|sp|im|reliakale 2|Unknown
+2025-08-10 19:45:17|michael|jackmartin|bc|im|Unknown|science pile
+2025-08-10 19:45:17|michael|jackmartin|eb|bc|Unknown|control
+2025-08-10 19:45:17|michael|jackmartin|zm|cz|Unknown|brotk
+2025-08-10 21:45:40|alan|michael|cc|zm|1.6 hate nibble|Unknown
+2025-08-10 21:45:40|alan|michael|eb|ct|1.6 explosive area|Unknown
+2025-08-10 21:45:40|alan|michael|nc|sm|1.6 fig midrange|Unknown
+2025-08-10 21:45:40|alan|michael|rb|ct|modded bolt bolt|Unknown
+2025-08-10 22:21:21|tqm|div|im|cc|Unknown|Unknown
+2025-08-10 22:21:21|tqm|div|rb|sf|Unknown|Unknown
+2025-08-10 22:21:21|tqm|div|ro|rb|Unknown|Unknown
+2025-08-10 23:11:12|alan|tqm|cc|rb|highlander|cardsbolt
+2025-08-10 23:11:12|tqm|alan|gs|eb|peabound|highlander
+2025-08-10 23:11:12|tqm|alan|nc|bf|cyburn|highlander
+2025-08-10 23:11:12|tqm|alan|sm|ct|midgargs|highlander
+2025-08-11 03:02:13|sheep|tbone|cc|rb|Unknown|Unknown
+2025-08-11 03:02:13|sheep|tbone|ct|zm|Unknown|Unknown
+2025-08-11 03:02:13|sheep|tbone|hg|cz|Unknown|Unknown
+2025-08-11 03:02:13|sheep|tbone|if|bc|Unknown|Unknown
+2025-08-11 03:02:13|tbone|sheep|nt|sf|Unknown|Unknown
+2025-08-11 03:02:13|tbone|sheep|sf|zm|Unknown|Unknown
+2025-08-11 05:40:56|jackmartin|bhb|im|ro|science pile|norose
+2025-08-11 05:40:56|jackmartin|bhb|pb|wk|jackstache|chemo
+2025-08-11 05:40:56|jackmartin|bhb|sf|pb|freight|brickster
+2025-08-11 05:40:56|jackmartin|bhb|wk|im|chemo|bighairyticia
+2025-08-11 06:34:24|jackmartin|walter|nt|nc|Unknown|Unknown
+2025-08-11 06:34:24|jackmartin|walter|sf|im|Unknown|Unknown
+2025-08-11 06:34:24|walter|jackmartin|nt|cc|Unknown|Unknown
+2025-08-11 06:34:24|walter|jackmartin|sf|bf|Unknown|Unknown
+2025-08-11 06:34:24|walter|jackmartin|zm|gk|Unknown|Unknown
+2025-08-11 06:41:22|sheep|slewer|bc|hg|Unknown|Unknown
+2025-08-11 06:41:22|sheep|slewer|cc|bf|Unknown|Unknown
+2025-08-11 06:41:22|sheep|slewer|pb|sf|Unknown|Unknown
+2025-08-11 06:41:22|sheep|slewer|ro|eb|Unknown|Unknown
+2025-08-11 06:41:22|slewer|sheep|ct|rb|Unknown|Unknown
+2025-08-11 11:53:48|sheep|tbone|cz|eb|Unknown|hunt gargs
+2025-08-11 11:53:48|sheep|tbone|gk|nt|Unknown|muglord
+2025-08-11 11:53:48|tbone|sheep|cz|hg|pepper otk|Unknown
+2025-08-11 11:53:48|tbone|sheep|gk|rb|omose|Unknown
+2025-08-11 11:53:48|tbone|sheep|nt|cc|muglord|Unknown
+2025-08-11 11:53:48|tbone|sheep|sf|if|rampkale|Unknown
+2025-08-11 12:39:54|cursed|div|bf|sf|nerf bf|buff sf
+2025-08-11 12:39:54|cursed|div|gk|rb|pea patch ✅|buff rb
+2025-08-11 12:39:54|cursed|div|im|bc|nerf im|buff bc
+2025-08-11 12:39:54|div|cursed|ro|zm|nerf ro|nerf zm
+2025-08-11 12:39:54|div|cursed|zm|sp|nerf zm|root pile
+2025-08-11 13:28:40|tqm|div|cz|sm|Unknown|Unknown
+2025-08-11 13:28:40|tqm|div|nc|im|Unknown|Unknown
+2025-08-11 13:28:40|tqm|div|rb|cz|Unknown|Unknown
+2025-08-11 14:58:29|tbone|wild|eb|wk|Unknown|Unknown
+2025-08-11 14:58:29|tbone|wild|sf|zm|Unknown|Unknown
+2025-08-11 14:58:29|tbone|wild|zm|sf|Unknown|Unknown
+2025-08-11 14:58:29|wild|tbone|cc|nt|Unknown|Unknown
+2025-08-11 14:58:29|wild|tbone|eb|cz|Unknown|Unknown
+2025-08-11 14:58:29|wild|tbone|gs|rb|Unknown|Unknown
+2025-08-11 14:58:29|wild|tbone|if|cc|Unknown|Unknown
+2025-08-13 05:38:41|slewer|snake eyes|bf|bc|otk cryo|Unknown
+2025-08-13 05:38:41|slewer|snake eyes|ct|bf|mud|Unknown
+2025-08-13 05:38:41|slewer|snake eyes|cz|rb|otk any%|Unknown
+2025-08-13 05:38:41|slewer|snake eyes|ro|zm|hmr modded|Unknown
+2025-08-13 05:38:41|snake eyes|slewer|nc|sb|Unknown|pirates
+2025-08-13 05:38:41|snake eyes|slewer|sf|eb|Unknown|splash gargs
+2025-08-13 10:32:43|bass|michael|cc|sm|Unknown|Unknown
+2025-08-13 10:32:43|bass|michael|im|gk|Unknown|Unknown
+2025-08-13 10:32:43|bass|michael|rb|sp|Unknown|Unknown
+2025-08-13 10:32:43|bass|michael|ro|if|Unknown|Unknown
+2025-08-13 10:32:43|michael|bass|im|bc|Unknown|Unknown
+2025-08-13 10:32:43|michael|bass|sp|hg|Unknown|Unknown
+2025-08-13 16:27:12|bass|michael|bc|sm|Unknown|Unknown
+2025-08-13 16:27:12|bass|michael|hg|cc|Unknown|Unknown
+2025-08-13 16:27:12|bass|michael|im|sf|Unknown|Unknown
+2025-08-13 16:27:12|bass|michael|ro|im|Unknown|Unknown
+2025-08-13 16:27:12|michael|bass|cc|rb|Unknown|Unknown
+2025-08-13 16:27:12|michael|bass|gk|hg|Unknown|Unknown
+2025-08-13 16:27:12|michael|bass|im|sp|Unknown|Unknown
+2025-08-13 21:37:11|bass|michael|eb|gs|Unknown|Unknown
+2025-08-13 21:37:11|bass|michael|im|wk|Unknown|Unknown
+2025-08-13 21:37:11|bass|michael|ro|sm|Unknown|Unknown
+2025-08-13 21:37:11|bass|michael|sp|sm|Unknown|Unknown
+2025-08-14 09:57:54|michael|slewer|cc|eb|Unknown|Unknown
+2025-08-14 09:57:54|michael|slewer|ct|sm|Unknown|Unknown
+2025-08-14 09:57:54|michael|slewer|eb|ct|Unknown|Unknown
+2025-08-14 09:57:54|michael|slewer|sm|ro|Unknown|Unknown
+2025-08-14 09:57:54|slewer|michael|sb|ct|Unknown|Unknown
+2025-08-14 10:22:05|bass|huyseidon|im|gk|Unknown|Unknown
+2025-08-14 10:22:05|bass|huyseidon|sf|im|Unknown|Unknown
+2025-08-14 10:22:05|bass|huyseidon|zm|gk|Unknown|Unknown
+2025-08-14 10:22:05|huyseidon|bass|rb|ro|Unknown|Unknown
+2025-08-14 10:22:05|huyseidon|bass|wk|eb|Unknown|Unknown
+2025-08-14 10:27:08|huyn|michael|cc|eb|Unknown|Unknown
+2025-08-14 10:27:08|huyn|michael|nc|sm|Unknown|Unknown
+2025-08-14 10:27:08|huyn|michael|sm|gk|Unknown|Unknown
+2025-08-14 10:27:08|michael|huyn|cc|zm|Unknown|Unknown
+2025-08-14 10:27:08|michael|huyn|ct|nt|Unknown|Unknown
+2025-08-14 21:36:18|first hero|maker|eb|gk|Unknown|Unknown
+2025-08-14 21:36:18|first hero|maker|nc|nt|Unknown|Unknown
+2025-08-14 21:36:18|first hero|maker|sf|eb|Unknown|Unknown
+2025-08-14 21:36:18|maker|first hero|ct|bf|Unknown|Unknown
+2025-08-15 09:07:52|div|bass|eb|gk|aggro x gargs|Unknown
+2025-08-15 09:07:52|div|bass|gs|rb|gs is buns|Unknown
+2025-08-15 09:07:52|div|bass|if|sf|no hokai stars|Unknown
+2025-08-15 09:39:27|bass|huyseidon|bc|zm|Unknown|Unknown
+2025-08-15 09:39:27|bass|huyseidon|bf|cz|Unknown|Unknown
+2025-08-15 09:39:27|bass|huyseidon|sf|hg|Unknown|Unknown
+2025-08-15 13:30:56|jaytrap|tqm|eb|sf|Unknown|Unknown
+2025-08-15 13:30:56|tqm|jaytrap|bc|zm|Unknown|Unknown
+2025-08-15 13:30:56|tqm|jaytrap|rb|gk|Unknown|Unknown
+2025-08-15 13:30:56|tqm|jaytrap|sm|gs|Unknown|Unknown
+2025-08-15 15:17:21|first hero|sheep|bc|im|Unknown|Unknown
+2025-08-15 15:17:21|first hero|sheep|cc|if|Unknown|Unknown
+2025-08-15 15:17:21|first hero|sheep|ro|if|Unknown|Unknown
+2025-08-15 15:17:21|first hero|sheep|zm|gk|Unknown|Unknown
+2025-08-15 15:17:21|sheep|first hero|cz|nt|Unknown|Unknown
+2025-08-15 15:17:21|sheep|first hero|sp|hg|Unknown|Unknown
+2025-08-15 16:00:19|huyseidon|jackmartin|cc|sm|Unknown|Unknown
+2025-08-15 16:00:19|huyseidon|jackmartin|eb|sf|Unknown|Unknown
+2025-08-15 16:00:19|huyseidon|jackmartin|im|wk|Unknown|Unknown
+2025-08-15 16:00:19|jackmartin|huyseidon|im|sp|Unknown|Unknown
+2025-08-15 21:24:16|slewer|tqm|eb|ro|splash gargs|Unknown
+2025-08-15 21:24:16|slewer|tqm|rb|bc|poggerazi|Unknown
+2025-08-15 21:24:16|slewer|tqm|ro|sm|hmr modded|Unknown
+2025-08-15 21:24:16|slewer|tqm|sb|bc|pirates|Unknown
+2025-08-15 21:24:16|tqm|slewer|cz|bf|Unknown|otk cryo
+2025-08-15 21:24:16|tqm|slewer|im|cz|Unknown|otk any %
+2025-08-15 21:24:16|tqm|slewer|pb|ct|Unknown|mud
+2025-08-15 23:57:23|slewer|tbone|nc|im|cyclecap|otk mecha
+2025-08-15 23:57:23|tbone|slewer|cc|rb|infinite cliques|poggerazi
+2025-08-15 23:57:23|tbone|slewer|gk|sb|appeasment|pirates
+2025-08-15 23:57:23|tbone|slewer|sf|bf|rampkale|otk cryo
+2025-08-15 23:57:23|tbone|slewer|zm|ct|pyro|mud
+2025-08-16 05:34:21|hai|slewer|eb|cz|necromancer|Unknown
+2025-08-16 05:34:21|hai|slewer|gk|sb|valanga|Unknown
+2025-08-16 05:34:21|hai|slewer|sf|bf|latam tempo mod|Unknown
+2025-08-16 05:34:21|hai|slewer|zm|nc|plan 8|Unknown
+2025-08-16 13:58:14|sheep|tqm|ct|bf|Unknown|Unknown
+2025-08-16 13:58:14|sheep|tqm|im|ro|Unknown|Unknown
+2025-08-16 13:58:14|sheep|tqm|rb|sp|Unknown|Unknown
+2025-08-16 13:58:14|sheep|tqm|sf|sm|Unknown|Unknown
+2025-08-16 13:58:14|tqm|sheep|nc|rb|Unknown|Unknown
+2025-08-16 13:58:14|tqm|sheep|rb|cz|Unknown|Unknown
+2025-08-16 16:26:08|sheep|walter|ct|sb|wetron|white chick
+2025-08-16 16:26:08|sheep|walter|if|gk|stardust|pawn
+2025-08-16 16:26:08|sheep|walter|rb|sf|cardsbolt|go beyond modded
+2025-08-16 16:26:08|sheep|walter|sf|nt|new 1.6 aggro|slugged
+2025-08-16 16:26:08|walter|sheep|gs|rb|lpb|bolt bolt
+2025-08-16 18:32:59|first hero|bass|bf|sp|Unknown|Unknown
+2025-08-16 18:32:59|first hero|bass|if|cc|Unknown|Unknown
+2025-08-16 18:32:59|first hero|bass|ro|rb|Unknown|Unknown
+2025-08-16 18:32:59|first hero|bass|wk|zm|Unknown|Unknown
+2025-08-16 20:52:14|bass|craquinho|bc|eb|Unknown|gargs
+2025-08-16 20:52:14|bass|craquinho|nt|ro|Unknown|hmr
+2025-08-16 20:52:14|bass|craquinho|sf|if|Unknown|spacestars
+2025-08-16 20:52:14|craquinho|bass|gk|im|midrange|Unknown
+2025-08-16 21:17:03|michael|tbone|eb|cc|Unknown|Unknown
+2025-08-16 21:17:03|michael|tbone|gk|zm|Unknown|Unknown
+2025-08-16 21:17:03|michael|tbone|rb|cz|Unknown|Unknown
+2025-08-16 21:17:03|michael|tbone|sp|bf|Unknown|Unknown
+2025-08-16 23:57:21|michael|tbone|ct|eb|Unknown|Unknown
+2025-08-16 23:57:21|michael|tbone|eb|sf|Unknown|Unknown
+2025-08-16 23:57:21|michael|tbone|wk|bf|Unknown|Unknown
+2025-08-17 01:08:31|michael|saturn|ct|im|Unknown|Unknown
+2025-08-17 01:08:31|michael|saturn|pb|ro|Unknown|Unknown
+2025-08-17 01:08:31|michael|saturn|sf|hg|Unknown|Unknown
+2025-08-17 01:08:31|michael|saturn|zm|gk|Unknown|Unknown
+2025-08-17 01:08:31|saturn|michael|nc|pb|Unknown|Unknown
+2025-08-17 01:08:31|saturn|michael|nt|sf|Unknown|Unknown
+2025-08-17 02:09:45|saturn|tbone|bf|sf|Unknown|Unknown
+2025-08-17 02:09:45|saturn|tbone|gk|im|Unknown|Unknown
+2025-08-17 02:09:45|saturn|tbone|rb|nc|Unknown|Unknown
+2025-08-17 02:09:45|saturn|tbone|zm|nc|Unknown|Unknown
+2025-08-17 02:09:45|tbone|saturn|nt|cc|Unknown|Unknown
+2025-08-17 02:09:45|tbone|saturn|zm|gk|Unknown|Unknown
+2025-08-17 02:46:13|huyseidon|saturn|im|gk|Unknown|Unknown
+2025-08-17 02:46:13|huyseidon|saturn|sf|if|Unknown|Unknown
+2025-08-17 02:46:13|huyseidon|saturn|sp|nt|Unknown|Unknown
+2025-08-17 02:46:13|saturn|huyseidon|cz|sm|Unknown|Unknown
+2025-08-17 05:22:36|huyseidon|snake eyes|if|sf|Unknown|Unknown
+2025-08-17 05:22:36|huyseidon|snake eyes|im|cz|Unknown|Unknown
+2025-08-17 05:22:36|huyseidon|snake eyes|sm|nc|Unknown|Unknown
+2025-08-17 05:22:36|snake eyes|huyseidon|bf|ct|Unknown|Unknown
+2025-08-17 05:22:36|snake eyes|huyseidon|zm|gk|Unknown|Unknown
+2025-08-17 10:11:26|bass|huyn|bc|rb|Unknown|Unknown
+2025-08-17 10:11:26|bass|huyn|cz|rb|Unknown|Unknown
+2025-08-17 10:11:26|bass|huyn|gk|zm|Unknown|Unknown
+2025-08-17 10:11:26|huyn|bass|cc|rb|Unknown|Unknown
+2025-08-17 10:11:26|huyn|bass|gs|rb|Unknown|Unknown
+2025-08-17 10:41:49|bass|michael|zm|nc|Unknown|Unknown
+2025-08-17 10:41:49|michael|bass|eb|cc|Unknown|Unknown
+2025-08-17 10:41:49|michael|bass|if|nc|Unknown|Unknown
+2025-08-17 10:41:49|michael|bass|nc|hg|Unknown|Unknown
+2025-08-17 10:41:49|michael|bass|sf|if|Unknown|Unknown
+2025-08-17 11:21:01|huyseidon|tbone|if|sf|Unknown|Unknown
+2025-08-17 11:21:01|huyseidon|tbone|sf|zm|Unknown|Unknown
+2025-08-17 11:21:01|tbone|huyseidon|cc|zm|Unknown|Unknown
+2025-08-17 11:21:01|tbone|huyseidon|rb|wk|Unknown|Unknown
+2025-08-17 11:21:01|tbone|huyseidon|sf|eb|Unknown|Unknown
+2025-08-17 12:55:00|huyseidon|michael|ct|rb|Unknown|Unknown
+2025-08-17 12:55:00|huyseidon|michael|im|ct|Unknown|Unknown
+2025-08-17 12:55:00|huyseidon|michael|nc|im|Unknown|Unknown
+2025-08-17 12:55:00|huyseidon|michael|rb|ct|Unknown|Unknown
+2025-08-17 12:55:00|michael|huyseidon|eb|gk|Unknown|Unknown
+2025-08-17 12:55:00|michael|huyseidon|sf|hg|Unknown|Unknown
+2025-08-17 17:37:46|michael|huyseidon|eb|bc|Unknown|Unknown
+2025-08-17 17:37:46|michael|huyseidon|gs|rb|Unknown|Unknown
+2025-08-17 17:37:46|michael|huyseidon|sm|ct|Unknown|Unknown
+2025-08-17 18:38:02|saturn|tbone|gs|nt|Unknown|Unknown
+2025-08-17 18:38:02|saturn|tbone|if|sf|Unknown|Unknown
+2025-08-17 18:38:02|saturn|tbone|nc|im|Unknown|Unknown
+2025-08-17 18:38:02|saturn|tbone|zm|sf|Unknown|Unknown
+2025-08-17 18:38:02|tbone|saturn|ct|zm|Unknown|Unknown
+2025-08-17 21:45:19|bass|saturn|cz|if|Unknown|Unknown
+2025-08-17 21:45:19|bass|saturn|im|gk|Unknown|Unknown
+2025-08-17 21:45:19|bass|saturn|rb|cc|Unknown|Unknown
+2025-08-17 21:45:19|saturn|bass|zm|sf|Unknown|Unknown
+2025-08-17 22:43:45|michael|saturn|eb|cz|Unknown|Unknown
+2025-08-17 22:43:45|michael|saturn|sm|nc|Unknown|Unknown
+2025-08-17 22:43:45|michael|saturn|sp|nt|Unknown|Unknown
+2025-08-17 22:43:45|michael|saturn|wk|bf|Unknown|Unknown
+2025-08-17 22:43:45|saturn|michael|if|sp|Unknown|Unknown
+2025-08-17 22:43:45|saturn|michael|sf|sm|Unknown|Unknown
+2025-08-17 22:43:45|saturn|michael|sm|gk|Unknown|Unknown
+2025-08-18 00:22:50|saturn|tbone|cz|if|Unknown|midraiser
+2025-08-18 00:22:50|saturn|tbone|if|sf|Unknown|ramp kale
+2025-08-18 00:22:50|tbone|saturn|bf|gk|otk swabbie|Unknown
+2025-08-18 00:22:50|tbone|saturn|cc|nt|infinite cliques|Unknown
+2025-08-18 00:22:50|tbone|saturn|sf|nt|ramp kale|Unknown
+2025-08-18 00:22:50|tbone|saturn|zm|gk|pyro|Unknown
+2025-08-18 01:27:07|saturn|tbone|if|sf|Unknown|ramp kale
+2025-08-18 01:27:07|tbone|saturn|cc|hg|infinite cliques|Unknown
+2025-08-18 01:27:07|tbone|saturn|im|cc|ramp mecha|Unknown
+2025-08-18 01:27:07|tbone|saturn|rb|gk|poggerazzi|Unknown
+2025-08-18 01:27:07|tbone|saturn|zm|gs|pyro|Unknown
+2025-08-18 01:43:12|alan|tqm|eb|cz|highlander|apotk
+2025-08-18 01:43:12|alan|tqm|zm|sf|highlander|fig lottery
+2025-08-18 01:43:12|tqm|alan|cz|rb|apotk|highlander
+2025-08-18 01:43:12|tqm|alan|if|gk|spacestars|highlander
+2025-08-18 01:43:12|tqm|alan|im|gs|kaleidoscope|highlander
+2025-08-18 02:25:19|saturn|sheep|ct|pb|Unknown|Unknown
+2025-08-18 02:25:19|sheep|saturn|ct|zm|Unknown|Unknown
+2025-08-18 02:25:19|sheep|saturn|cz|sm|Unknown|Unknown
+2025-08-18 02:25:19|sheep|saturn|rb|sp|Unknown|Unknown
+2025-08-18 02:25:19|sheep|saturn|sf|if|Unknown|Unknown
+2025-08-18 09:22:06|huyseidon|snake eyes|ct|bf|Unknown|Unknown
+2025-08-18 09:22:06|huyseidon|snake eyes|if|bc|Unknown|Unknown
+2025-08-18 09:22:06|huyseidon|snake eyes|sf|rb|Unknown|Unknown
+2025-08-18 09:22:06|snake eyes|huyseidon|cz|sb|Unknown|Unknown
+2025-08-18 12:37:08|tbone|wild|cz|sm|otk pepper|Unknown
+2025-08-18 12:37:08|tbone|wild|if|ro|midraiser|Unknown
+2025-08-18 12:37:08|tbone|wild|sf|hg|rampkale|Unknown
+2025-08-18 12:37:08|tbone|wild|zm|ro|pyro|Unknown
+2025-08-18 12:37:08|wild|tbone|sb|ct|Unknown|amphibious
+2025-08-18 15:48:29|hai|michael|gk|im|valanga|Unknown
+2025-08-18 15:48:29|hai|michael|rb|ct|pogger|Unknown
+2025-08-18 16:21:14|huyn|huyseidon|cc|if|Unknown|Unknown
+2025-08-18 16:21:14|huyn|huyseidon|nt|bc|Unknown|Unknown
+2025-08-18 16:21:14|huyseidon|huyn|bc|if|Unknown|Unknown
+2025-08-18 16:21:14|huyseidon|huyn|im|gk|Unknown|Unknown
+2025-08-18 16:21:14|huyseidon|huyn|sp|sm|Unknown|Unknown
+2025-08-18 16:54:50|hai|jaytrap|im|gs|bakery|freeze mid
+2025-08-18 16:54:50|hai|jaytrap|nt|gk|muglord|expresso aggro
+2025-08-18 16:54:50|hai|jaytrap|sm|ro|healmidgargs|mid amphibious
+2025-08-18 16:54:50|jaytrap|hai|sm|bc|memento|control
+2025-08-18 16:54:50|jaytrap|hai|zm|gk|speed mech|valanga
+2025-08-18 20:06:16|autony|michael|cc|if|comboss|Unknown
+2025-08-18 20:06:16|michael|autony|cc|im|Unknown|otk catgirl
+2025-08-18 20:06:16|michael|autony|ct|im|Unknown|otk catgirl
+2025-08-18 20:06:16|michael|autony|im|gs|Unknown|lily tempo
+2025-08-18 20:22:12|bass|mono|bc|im|Unknown|Unknown
+2025-08-18 20:22:12|bass|mono|im|cz|Unknown|Unknown
+2025-08-18 20:22:12|bass|mono|ro|zm|Unknown|Unknown
+2025-08-18 20:22:12|mono|bass|cz|hg|Unknown|Unknown
+2025-08-18 20:22:12|mono|bass|gs|eb|Unknown|Unknown
+2025-08-18 20:22:12|mono|bass|sp|bf|Unknown|Unknown
+2025-08-18 20:22:12|mono|bass|zm|cz|Unknown|Unknown
+2025-08-18 21:31:34|saturn|tbone|wk|nt|Unknown|muglord
+2025-08-18 21:31:34|tbone|saturn|nc|zm|kalecap|Unknown
+2025-08-18 21:31:34|tbone|saturn|sf|sm|rampkale|Unknown
+2025-08-18 21:31:34|tbone|saturn|sp|zm|dino roots|Unknown
+2025-08-18 21:31:34|tbone|saturn|zm|nc|pyro|Unknown
+2025-08-18 23:00:45|tbone|tqm|zm|gk|Unknown|Unknown
+2025-08-18 23:00:45|tqm|tbone|cz|sb|Unknown|Unknown
+2025-08-18 23:00:45|tqm|tbone|rb|cc|Unknown|Unknown
+2025-08-18 23:00:45|tqm|tbone|sm|ro|Unknown|Unknown
+2025-08-18 23:00:45|tqm|tbone|zm|sf|Unknown|Unknown
+2025-08-19 00:33:34|first hero|saturn|cz|bf|Unknown|Unknown
+2025-08-19 00:33:34|first hero|saturn|gk|nt|Unknown|Unknown
+2025-08-19 00:33:34|first hero|saturn|pb|gk|Unknown|Unknown
+2025-08-19 00:33:34|first hero|saturn|zm|cz|Unknown|Unknown
+2025-08-19 00:33:34|saturn|first hero|if|nc|Unknown|Unknown
+2025-08-19 00:34:01|michael|saturn|eb|gs|Unknown|Unknown
+2025-08-19 00:34:01|michael|saturn|sf|bf|Unknown|Unknown
+2025-08-19 00:34:01|michael|saturn|sm|cz|Unknown|Unknown
+2025-08-19 01:17:16|tbone|saturn|gk|hg|omose|Unknown
+2025-08-19 01:17:16|tbone|saturn|nt|sf|muglord|Unknown
+2025-08-19 01:17:16|tbone|saturn|sf|rb|ramp kale|Unknown
+2025-08-19 01:17:16|tbone|saturn|zm|wk|pyro|Unknown
+2025-08-19 06:22:33|creeper|padboy|gk|hg|espresso midrange|telimps
+2025-08-19 06:22:33|creeper|padboy|sf|bf|mossflare|midgraves
+2025-08-19 06:22:33|creeper|padboy|zm|gs|red flag|abeans
+2025-08-19 10:12:09|autony|sheep|nt|gk|basics|pile
+2025-08-19 10:12:09|autony|sheep|ro|if|heal-bog rose|pile
+2025-08-19 10:12:09|autony|sheep|sp|im|root package|pile
+2025-08-19 10:12:09|autony|sheep|zm|ct|blizzard modded|pile
+2025-08-19 13:09:47|autony|snake eyes|bf|nc|lock the bathroom|homebrew
+2025-08-19 13:09:47|autony|snake eyes|gs|bf|pea tempo|homebrew
+2025-08-19 13:09:47|autony|snake eyes|ro|hg|heal-bog rose|homebrew
+2025-08-19 13:09:47|autony|snake eyes|sf|zm|psychoflare|homebrew
+2025-08-19 13:09:47|snake eyes|autony|bc|if|homebrew|smokestack
+2025-08-19 13:37:12|bass|michael|bc|eb|Unknown|Unknown
+2025-08-19 13:37:12|bass|michael|cz|eb|Unknown|Unknown
+2025-08-19 13:37:12|bass|michael|gk|eb|Unknown|Unknown
+2025-08-19 13:37:12|bass|michael|rb|sf|Unknown|Unknown
+2025-08-19 13:37:12|michael|bass|sf|hg|Unknown|Unknown
+2025-08-19 21:20:58|first hero|walter|cz|if|apotk|spacestars
+2025-08-19 21:20:58|first hero|walter|gk|rb|full conjure|Unknown
+2025-08-19 21:20:58|first hero|walter|if|gs|glizzy control|lpb
+2025-08-19 21:57:37|michael|first hero|eb|bc|Unknown|Unknown
+2025-08-19 21:57:37|michael|first hero|im|cz|Unknown|Unknown
+2025-08-19 21:57:37|michael|first hero|sf|hg|Unknown|Unknown
+2025-08-20 00:03:43|bhb|walter|eb|gs|boogalotherapy|lpb
+2025-08-20 00:03:43|bhb|walter|nt|gs|smash mouth|lpb
+2025-08-20 00:03:43|bhb|walter|pb|gs|brickster|lpb
+2025-08-20 00:03:43|bhb|walter|wk|rb|bighairytherapy|chumster
+2025-08-20 00:03:43|walter|bhb|rb|ct|chumster|go-flickurbean
+2025-08-20 00:03:43|walter|bhb|rb|gk|chumster|fuckles
+2025-08-20 01:07:10|saturn|tqm|cc|sm|Unknown|Unknown
+2025-08-20 01:07:10|saturn|tqm|cz|rb|Unknown|Unknown
+2025-08-20 01:07:10|saturn|tqm|ro|im|Unknown|Unknown
+2025-08-20 01:07:10|saturn|tqm|sf|zm|Unknown|Unknown
+2025-08-20 01:07:10|tqm|saturn|ct|im|Unknown|Unknown
+2025-08-20 01:07:10|tqm|saturn|cz|bf|Unknown|Unknown
+2025-08-20 01:07:10|tqm|saturn|nc|sm|Unknown|Unknown
+2025-08-20 02:18:21|saturn|walter|sf|im|aggro|portal gun
+2025-08-20 02:18:21|walter|saturn|cz|sm|modded machina|pepega smash
+2025-08-20 02:18:21|walter|saturn|rb|nc|chumster|aggro
+2025-08-20 02:18:21|walter|saturn|sf|zm|clone em up|gravemech
+2025-08-20 03:34:16|tbone|snake eyes|cc|rb|infinite cliques|Unknown
+2025-08-20 03:34:16|tbone|snake eyes|sf|eb|rampkale|Unknown
+2025-08-20 03:34:16|tbone|snake eyes|zm|gs|pyromania|Unknown
+2025-08-20 10:36:24|autony|bass|bf|gk|lock the bathroom|Unknown
+2025-08-20 10:36:24|bass|autony|hg|sf|Unknown|snowstorm modded
+2025-08-20 10:36:24|bass|autony|im|sf|Unknown|psychoflare
+2025-08-20 10:36:24|bass|autony|ro|rb|Unknown|cardsbolt
+2025-08-20 10:36:24|bass|autony|sm|gk|Unknown|root package
+2025-08-20 11:30:39|autony|creeper|bf|gk|lock the bathroom|espresso midrange
+2025-08-20 11:30:39|autony|creeper|cc|if|new comboss|spacestars
+2025-08-20 11:30:39|autony|creeper|cz|zm|apotk|red flag
+2025-08-20 11:30:39|autony|creeper|gs|im|abeans|shovester
+2025-08-20 11:30:39|creeper|autony|sf|hg|mossflare|otk blob
+2025-08-20 12:44:54|hai|michael|cc|eb|1.61 log bait|Unknown
+2025-08-20 12:44:54|hai|michael|eb|cz|necromancer|Unknown
+2025-08-20 12:44:54|hai|michael|gk|im|valanga|Unknown
+2025-08-20 12:44:54|hai|michael|rb|ct|pogger|Unknown

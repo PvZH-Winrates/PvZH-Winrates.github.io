@@ -1,0 +1,72 @@
+2025-07-03 18:27:01|jackmartin|pipo|sp|sm|Unknown|control
+2025-07-03 18:27:01|pipo|jackmartin|gk|rb|control|Unknown
+2025-07-03 18:27:01|pipo|jackmartin|if|cz|tempo|Unknown
+2025-07-03 18:27:01|pipo|jackmartin|sp|im|control|Unknown
+2025-07-04 01:32:57|pipo|tbone|if|sp|tempo|roots
+2025-07-04 01:32:57|pipo|tbone|sm|cz|control|apotk
+2025-07-04 01:32:57|tbone|pipo|bc|im|sham control|control
+2025-07-04 01:32:57|tbone|pipo|eb|ct|hunt gargs|control
+2025-07-04 01:32:57|tbone|pipo|if|gk|midraiser|control
+2025-07-06 23:38:50|lolo|boyca|cz|sm|pea patch|gaggle of gargs #3
+2025-07-06 23:38:50|lolo|boyca|hg|cz|cryoboy|modded valuezilla
+2025-07-06 23:38:50|lolo|boyca|zm|sp|arishem|new stuff control
+2025-07-09 21:42:21|alan|xera|if|bc|1.6 deadly splash pile|neurotherapy
+2025-07-09 21:42:21|xera|alan|bf|bc|nuevo watersports|1.61 trolltina
+2025-07-09 21:42:21|xera|alan|gs|zm|birdshadow|1.6 flamecho
+2025-07-09 21:42:21|xera|alan|zm|gk|bimpmech|1.61 trying to tempo
+2025-07-15 14:21:28|boyca|pipo|nc|sm|control|control
+2025-07-15 14:21:28|boyca|pipo|nt|nc|control|control
+2025-07-15 14:21:28|boyca|pipo|sp|if|control|tempo
+2025-07-16 20:21:58|coffee|maker|ct|im|mud|big
+2025-07-16 20:21:58|coffee|maker|im|nc|portal gun|midrange
+2025-07-16 20:21:58|coffee|maker|sf|nt|Unknown|control
+2025-07-16 20:21:58|maker|coffee|ro|rb|heal flower|4x stone bolt bolt
+2025-07-16 20:21:58|maker|coffee|sf|eb|latam tempo mod|antiggro
+2025-07-17 00:37:56|lolo|tqm|gs|zm|Unknown|garg mech
+2025-07-17 00:37:56|lolo|tqm|hg|nc|Unknown|transposition
+2025-07-17 00:37:56|lolo|tqm|ro|bf|Unknown|lock boris out
+2025-07-17 00:37:56|tqm|lolo|ro|zm|heal midrose|Unknown
+2025-07-17 17:52:16|xera|evan|if|bc|neostars|control pile
+2025-07-17 17:52:16|xera|evan|nc|pb|toyota controlla|trickstache pile
+2025-07-17 17:52:16|xera|evan|sb|sp|limerence|control pile
+2025-07-20 22:30:05|alan|maker|cc|eb|1.6 hate nibble|aggro
+2025-07-20 22:30:05|maker|alan|cz|im|venice mod|1.6 unsynchronized
+2025-07-20 22:30:05|maker|alan|if|bc|deadly tempo|1.6 trolltina
+2025-07-20 22:30:05|maker|alan|ro|sm|heal flower|1.6 mid-heal
+2025-07-22 20:07:28|jackmartin|tqm|sf|im|freight|kaleidoscope
+2025-07-22 20:07:28|tqm|jackmartin|bc|zm|sham control|prototype
+2025-07-22 20:07:28|tqm|jackmartin|ro|rb|heal midrose|boltbolt
+2025-07-22 20:07:28|tqm|jackmartin|sm|cz|midgargs|brotk
+2025-07-23 14:57:13|coffee|tbone|ct|im|mud v15|otk mecha
+2025-07-23 14:57:13|coffee|tbone|nc|if|cyburn mod|midraiser
+2025-07-23 14:57:13|tbone|coffee|cz|if|rampzilla|fl v8
+2025-07-23 14:57:13|tbone|coffee|ro|sm|ramp|dui
+2025-07-23 14:57:13|tbone|coffee|zm|sf|pyro|furst hero
+2025-07-23 22:49:52|lolo|xera|bc|if|Unknown|Unknown
+2025-07-23 22:49:52|lolo|xera|nt|nc|Unknown|Unknown
+2025-07-23 22:49:52|lolo|xera|sp|im|Unknown|Unknown
+2025-07-26 02:41:54|lolo|tbone|ro|im|Unknown|portal gun
+2025-07-26 02:41:54|tbone|lolo|nt|bc|tanktuna|Unknown
+2025-07-26 02:41:54|tbone|lolo|ro|zm|ramp|Unknown
+2025-07-26 02:41:54|tbone|lolo|sf|nt|go beyond|Unknown
+2025-07-30 13:34:13|boyca|maker|bc|eb|control|aggro
+2025-07-30 13:34:13|maker|boyca|cc|sm|the shooting star|gaggle of gargs #3
+2025-07-30 13:34:13|maker|boyca|im|sf|vietnamstaches|labubu
+2025-07-30 13:34:13|maker|boyca|sf|zm|latam tempo mod|boygargs
+2025-07-31 18:05:37|evan|tqm|hg|gs|pile|peabound
+2025-07-31 18:05:37|evan|tqm|im|nc|pile|transposition
+2025-07-31 18:05:37|evan|tqm|ro|sm|Unknown|midgargs
+2025-08-05 19:14:44|maker|xera|gk|zm|trying to espresso|oat milk
+2025-08-05 19:14:44|maker|xera|im|bc|vietnamstaches|neurotherapy
+2025-08-05 19:14:44|maker|xera|sf|rb|on little cat feet|handbolt
+2025-08-05 19:14:44|xera|maker|ro|nt|king leap|original name
+2025-08-07 20:47:51|evan|tqm|hg|gs|pile|peabound
+2025-08-09 19:38:36|evan|maker|cz|im|pile|vietnamstaches
+2025-08-09 19:38:36|evan|maker|ro|nt|pile|original name
+2025-08-09 19:38:36|maker|evan|gk|im|peace and tranquility|pile
+2025-08-09 19:38:36|maker|evan|hg|bc|otk blob|pile
+2025-08-09 19:38:36|maker|evan|sp|rb|salty control|pile
+2025-08-18 15:03:10|maker|tbone|cz|nt|venice mod|tanktuna
+2025-08-18 15:03:10|maker|tbone|if|sf|deadly tempo|rampkale
+2025-08-18 15:03:10|maker|tbone|nc|rb|turles|pogger
+2025-08-18 15:03:10|maker|tbone|nt|sf|original name|rampkale

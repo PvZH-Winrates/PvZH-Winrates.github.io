@@ -1,0 +1,51 @@
+2025-07-31 21:51:30|diego|fluke|hg|cz|latam staches|budget mopzilla
+2025-07-31 21:51:30|fluke|diego|eb|sf|seacret|latam tempo
+2025-07-31 21:51:30|fluke|diego|if|sp|spacestars|control?
+2025-07-31 21:51:30|fluke|diego|sf|if|troller flare|diego's splash
+2025-08-01 12:24:37|huyn|xera|sm|bc|plabo's wall|neurotherapy
+2025-08-01 12:24:37|xera|huyn|eb|nc|arsenic|get rekt v6.9
+2025-08-01 12:24:37|xera|huyn|im|cz|tempo leap|brothis deck
+2025-08-01 12:24:37|xera|huyn|sp|eb|fdr|fuckass
+2025-08-09 18:17:24|alan|fluke|cc|im|1.6 hate nibble|test 8
+2025-08-09 18:17:24|alan|fluke|gk|bf|1.6 trying to tempo|bf racism
+2025-08-09 18:17:24|fluke|alan|cz|sm|budget mopzilla|1.6 mid-heal
+2025-08-09 18:17:24|fluke|alan|rb|sf|tempest|1.6 pile
+2025-08-09 18:17:24|fluke|alan|ro|zm|buff zm|"1.6 flamecho"
+2025-08-10 16:13:52|maker|michael|bc|hg|control|gravestaches
+2025-08-10 16:13:52|maker|michael|if|ct|no hokai stars|package
+2025-08-10 16:13:52|michael|maker|cc|zm|log bait|pyro
+2025-08-10 16:13:52|michael|maker|sf|sm|thanos|midgargs
+2025-08-10 16:13:52|michael|maker|sm|ro|midgargs|briar hmr
+2025-08-10 19:27:09|boris|xera|gk|bf|boris espresso aggro|lockdown
+2025-08-10 19:27:09|boris|xera|im|wk|staches|rootknight anti-tempo
+2025-08-10 19:27:09|boris|xera|sp|zm|radiotherapy|dozza's mech
+2025-08-10 20:42:32|michael|alan|gk|if|expresso aggro|1.6 deadly splash pile
+2025-08-10 20:42:32|michael|alan|im|cz|deck created 1 minute after the match|1.6 apollination
+2025-08-10 20:42:32|michael|alan|sm|gs|flag gargs|1.61 pile
+2025-08-12 20:00:19|boris|maker|cc|nt|log bait|control
+2025-08-12 20:00:19|boris|maker|im|cc|staches|the shooting star
+2025-08-12 20:00:19|maker|boris|gs|hg|collapsing rift|otk blob
+2025-08-12 20:00:19|maker|boris|rb|bc|cardsbolt mod|sham control
+2025-08-12 20:00:19|maker|boris|zm|gk|trick mech|boris espresso aggro
+2025-08-13 20:15:23|fluke|xera|nt|cz|aggro|moss def
+2025-08-13 20:15:23|fluke|xera|rb|cc|tempest|figboss
+2025-08-13 20:15:23|fluke|xera|sp|zm|buff sp|dragon's fury
+2025-08-14 15:37:19|michael|boris|cc|hg|log bait|otk blob
+2025-08-14 15:37:19|michael|boris|eb|cc|mid gargs|log bait
+2025-08-14 15:37:19|michael|boris|sm|cz|mid gargs|venice
+2025-08-15 22:25:46|alan|xera|gk|im|1.6 trying to tempo|parascope
+2025-08-15 22:25:46|alan|xera|sf|hg|rng control|telimps
+2025-08-15 22:25:46|alan|xera|zm|cc|1.6 flamecho|xeraflourished
+2025-08-15 22:25:46|xera|alan|nc|bf|midcap|1.6 unfreeze the raptor
+2025-08-16 22:41:19|fluke|maker|cz|nt|pea patch|original name
+2025-08-16 22:41:19|fluke|maker|nc|sm|tech but unteched|midgargs
+2025-08-16 22:41:19|fluke|maker|sm|ct|deck|tcc watertron
+2025-08-16 22:41:19|maker|fluke|sf|sb|on little cat feet|modded gps
+2025-08-17 13:30:10|boris|fluke|cc|rb|log bait|tempest
+2025-08-17 13:30:10|boris|fluke|gk|hg|modded espresso aggro|otkb
+2025-08-17 13:30:10|boris|fluke|sm|gs|midgargs|wrong mu
+2025-08-17 13:30:10|fluke|boris|nc|if|tech but unteched|no-hokai stars
+2025-08-17 21:47:56|michael|xera|eb|cz|michael hunt gargs|leafy strike
+2025-08-17 21:47:56|michael|xera|gk|hg|aggro bullseye|otk blob
+2025-08-17 21:47:56|michael|xera|sm|nc|michael gargs|midcap
+2025-08-17 21:47:56|xera|michael|bf|sp|quinjet dino renewed|michael dino roots

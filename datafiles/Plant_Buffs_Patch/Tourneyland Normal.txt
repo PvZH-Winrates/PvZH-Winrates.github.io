@@ -1,0 +1,40 @@
+2025-06-21 01:43:32|tbone|tornillo|gk|bf|espresso aggro mod|Unknown
+2025-06-21 01:43:32|tbone|tornillo|if|cc|midraiser|Unknown
+2025-06-21 01:43:32|tbone|tornillo|sm|ro|whaleorah|Unknown
+2025-06-21 01:43:32|tornillo|tbone|eb|cz|Unknown|apotk
+2025-06-21 05:38:18|jackmartin|voof|cz|bf|brotk|imps
+2025-06-21 05:38:18|jackmartin|voof|eb|gk|midroll|otk
+2025-06-21 05:38:18|jackmartin|voof|sm|cz|air jordan|otk
+2025-06-21 05:38:18|voof|jackmartin|if|bc|imps|control
+2025-06-21 05:38:18|voof|jackmartin|nt|gk|imps|petrol
+2025-06-21 10:09:18|bass|huyn|bf|nc|gargfest|get rekt v6.9
+2025-06-21 10:09:18|huyn|bass|cz|im|im sorry boris no psf|mechaspree
+2025-06-21 10:09:18|huyn|bass|eb|bc|huynea|def manipulation
+2025-06-21 10:09:18|huyn|bass|zm|cc|t4g|blauncher blast
+2025-06-21 15:13:46|a_person|tqm|bc|im|sham ctrl|otk trickster
+2025-06-21 15:13:46|a_person|tqm|gk|hg|apogk|telimps
+2025-06-21 15:13:46|a_person|tqm|rb|sf|pogbolt|mushroom cloud
+2025-06-21 15:13:46|tqm|a_person|nc|zm|transposition|pyromania
+2025-06-21 16:14:53|diego|michael|nt|gs|control|infinity beanstalk
+2025-06-21 16:14:53|diego|michael|sm|ro|mid gargs|hmr
+2025-06-21 16:14:53|michael|diego|hg|ro|gravestaches|hmr
+2025-06-21 16:14:53|michael|diego|im|gk|anti control|tempo
+2025-06-21 16:14:53|michael|diego|rb|cc|bolt bolt|log bait
+2025-06-21 16:41:59|river|autony|bc|sm|aggro|midgargs
+2025-06-21 16:41:59|river|autony|hg|ro|midrange combo|ramp
+2025-06-21 16:41:59|river|autony|if|gk|aggro|tree espresso
+2025-06-21 17:38:46|alan|jackjack|eb|cz|1.6 explosive area|apotk
+2025-06-21 17:38:46|alan|jackjack|pb|gk|1.6 vikingster|3int
+2025-06-21 17:38:46|jackjack|alan|ct|bf|speed bump|1.6 unfreeze the raptor
+2025-06-21 17:38:46|jackjack|alan|if|bc|flamenco mug|1.6 trolltina
+2025-06-21 17:38:46|jackjack|alan|im|nc|frenzy monument|1.6 fig midrange
+2025-06-21 19:21:12|maker|slewer|cz|im|coffee mid|portal gun
+2025-06-21 19:21:12|maker|slewer|hg|cz|quarterimps|apotk
+2025-06-21 19:21:12|maker|slewer|rb|gs|mecha control|savage tempo
+2025-06-21 19:21:12|slewer|maker|gk|if|control|deadly tempo
+2025-06-21 19:21:12|slewer|maker|rb|bc|bolt bolt|temproots
+2025-06-22 19:10:15|hexada|valencia|gk|hg|espresso tempo|fatality
+2025-06-22 19:10:15|hexada|valencia|nt|sp|conjure flag|grapherapy
+2025-06-22 19:10:15|valencia|hexada|eb|sf|gargs|heal combo
+2025-06-22 19:10:15|valencia|hexada|gs|rb|amphigrow|unhexable
+2025-06-22 19:10:15|valencia|hexada|sf|hg|fig head|telimps

@@ -1,0 +1,152 @@
+2025-07-29 20:56:52|senti|tornillo|bf|sf|no fun allowed|Unknown
+2025-07-29 20:56:52|senti|tornillo|gk|im|bbp|Unknown
+2025-07-29 20:56:52|senti|tornillo|ro|if|no fun allowed|Unknown
+2025-07-29 22:29:53|boyca|ocean man|cz|bf|modded valuezilla|lock the bathroom
+2025-07-29 22:29:53|boyca|ocean man|ro|sm|midded modrose|pablo yeezys
+2025-07-29 22:29:53|boyca|ocean man|sm|gk|gaggle of gargs #3|august 14th
+2025-07-29 22:29:53|ocean man|boyca|cc|if|reflourished|spacestars
+2025-07-29 22:29:53|ocean man|boyca|if|cz|spacestars|modded valuezilla
+2025-07-30 13:26:45|mono|wild|cz|hg|moonlander|ykm
+2025-07-30 13:26:45|mono|wild|ro|zm|shortbow|anti
+2025-07-30 13:26:45|mono|wild|zm|nc|copyswarm|control
+2025-07-30 13:26:45|wild|mono|ro|bf|hmr|pile
+2025-07-30 13:44:21|franek|pearce|cz|hg|flower power|baby with a gun
+2025-07-30 13:44:21|franek|pearce|zm|cz|garg burn|deck #1
+2025-07-30 13:44:21|pearce|franek|bc|rb|control|bolt bolt
+2025-07-30 13:44:21|pearce|franek|bf|cc|the bathroom|hope
+2025-07-30 13:44:21|pearce|franek|if|sf|no honkai|consine
+2025-07-30 18:52:47|michael|bayoyo|if|bc|no hokai stars|Unknown
+2025-07-30 18:52:47|michael|bayoyo|im|gk|comboticia|Unknown
+2025-07-30 18:52:47|michael|bayoyo|sf|if|tempo|Unknown
+2025-07-30 20:55:03|j.s|jackmartin|gk|rb|no podpatch|boltbolt
+2025-07-30 20:55:03|j.s|jackmartin|sf|bf|michael tempo|alchemic
+2025-07-30 20:55:03|j.s|jackmartin|sm|cc|solstice|ramona
+2025-07-30 20:55:03|jackmartin|j.s|sf|nt|freight|heavy control
+2025-07-30 23:01:51|hystorian|pipo|ct|if|amphibious|tempo
+2025-07-30 23:01:51|hystorian|pipo|eb|ct|dancing rework|control
+2025-07-30 23:01:51|hystorian|pipo|ro|im|mixed salada|control
+2025-07-30 23:01:51|pipo|hystorian|gk|zm|pea patch control|lawnmower modded
+2025-07-30 23:01:51|pipo|hystorian|sm|ro|control|mixed salada
+2025-07-31 00:57:27|baron|tqm|gk|bf|aggro|lock boris out
+2025-07-31 00:57:27|baron|tqm|rb|bc|bustbolt|sham control
+2025-07-31 00:57:27|baron|tqm|sf|sm|rejection|midgargs
+2025-07-31 02:45:51|creeper|lolo|cc|hg|reflourished mod|Unknown
+2025-07-31 02:45:51|creeper|lolo|im|ro|shovester|Unknown
+2025-07-31 02:45:51|creeper|lolo|zm|bc|first hero gargs|Unknown
+2025-07-31 18:57:32|div|hyshew|cz|bf|ramp pile|locked out
+2025-07-31 18:57:32|div|hyshew|im|cc|no-scope|blitz
+2025-07-31 18:57:32|div|hyshew|rb|gk|cardsbolt|expresso aggro
+2025-07-31 18:57:32|hyshew|div|im|bc|scticia|control
+2025-08-01 01:12:48|coffee|voof|ct|sm|mud v16|gargs
+2025-08-01 01:12:48|coffee|voof|zm|bc|boingmech|control
+2025-08-01 01:12:48|voof|coffee|gk|sb|stats|sblobfish
+2025-08-01 01:12:48|voof|coffee|if|cc|imps|bayonet v26
+2025-08-01 01:12:48|voof|coffee|sf|eb|sjw|flummox v8
+2025-08-01 04:36:01|alan|evan|gs|im|1.61 pile|pile
+2025-08-01 04:36:01|alan|evan|sm|bc|1.6 mid-heal|control
+2025-08-01 04:36:01|evan|alan|cz|sb|evanzilla 2.0|1.6 aggro pile
+2025-08-01 04:36:01|evan|alan|ro|eb|hmr|1.6 explosive area
+2025-08-01 04:36:01|evan|alan|sm|nc|pile|1.6 fig midrange
+2025-08-01 06:19:51|may|slewer|hg|gk|telimps|moose
+2025-08-01 06:19:51|may|slewer|nc|sm|kalenana|pablo's yeezys
+2025-08-01 06:19:51|may|slewer|sf|if|enviroflare|spacestars
+2025-08-01 06:19:51|slewer|may|bc|pb|control|conjure trickstashe
+2025-08-01 06:19:51|slewer|may|ro|im|hmr mod|otkster
+2025-08-01 13:48:39|hexada|lang|im|gk|bonus science|the dumb strategy
+2025-08-01 13:48:39|hexada|lang|ro|rb|quick deck|Unknown
+2025-08-01 13:48:39|hexada|lang|sm|bc|temportist|control
+2025-08-01 13:48:39|lang|hexada|if|sf|spacestars|flowerman
+2025-08-02 17:21:43|zzyzx|jackjack|nt|gk|swarmtuna 2.0|modded treespresso
+2025-08-02 17:21:43|zzyzx|jackjack|pb|ct|modded trickstache|speed bump
+2025-08-02 17:21:43|zzyzx|jackjack|ro|eb|ramp rose|gargaloo
+2025-08-02 19:54:10|fuego|valencia|cz|nt|average|darkeavy
+2025-08-02 19:54:10|valencia|fuego|if|sf|paintrolla|average
+2025-08-02 19:54:10|valencia|fuego|sf|nt|headache|plank control
+2025-08-02 19:54:10|valencia|fuego|wk|rb|imperfecterial|tech bandits
+2025-08-03 06:27:47|evan|mono|im|sf|Unknown|Unknown
+2025-08-03 06:27:47|mono|evan|eb|ro|Unknown|Unknown
+2025-08-03 06:27:47|mono|evan|nt|bc|Unknown|Unknown
+2025-08-03 06:27:47|mono|evan|wk|sm|Unknown|Unknown
+2025-08-03 16:46:01|div|fluke|sm|cz|Unknown|Unknown
+2025-08-03 16:46:01|div|fluke|sp|bf|Unknown|Unknown
+2025-08-03 16:46:01|fluke|div|ct|im|Unknown|Unknown
+2025-08-03 16:46:01|fluke|div|eb|cz|Unknown|Unknown
+2025-08-03 16:46:01|fluke|div|im|bc|Unknown|Unknown
+2025-08-03 19:34:10|boris|may|bc|rb|sham control|roar ramp
+2025-08-03 19:34:10|boris|may|if|nc|hokaistars|kalenana
+2025-08-03 19:34:10|boris|may|im|sf|staches|enviroflare
+2025-08-03 19:34:10|may|boris|hg|cz|bmr ramp|venice
+2025-08-03 21:44:58|j.s|xera|gs|nt|new generation|muglord
+2025-08-03 21:44:58|xera|j.s|bc|zm|neurotherapy/sham control|coffee mech
+2025-08-03 21:44:58|xera|j.s|eb|cz|arsenic|pile
+2025-08-03 21:44:58|xera|j.s|sf|hg|nowy cosinus|mustaches
+2025-08-03 23:53:03|voof|boyca|bc|eb|control|nogargstar
+2025-08-03 23:53:03|voof|boyca|im|nc|mustache combo|control
+2025-08-03 23:53:03|voof|boyca|rb|nc|boltbolt|control
+2025-08-04 16:48:39|creeper|senti|im|cc|shovester|other
+2025-08-04 16:48:39|senti|creeper|bf|cz|no fun allowed|venice mod
+2025-08-04 16:48:39|senti|creeper|im|cc|kadog|reflourished mod
+2025-08-04 16:48:39|senti|creeper|sf|rb|rejection|first hero
+2025-08-05 16:10:40|valencia|michael|cc|zm|other|pyro
+2025-08-05 16:10:40|valencia|michael|rb|sf|masterbolt|latam tempo
+2025-08-05 16:10:40|valencia|michael|zm|sp|pyrostars|starch control
+2025-08-07 01:08:36|fluke|hexada|bf|gk|bf racism|Unknown
+2025-08-07 01:08:36|fluke|hexada|im|sf|test 8|latam tempo
+2025-08-07 01:08:36|fluke|hexada|ro|sm|hmr|Unknown
+2025-08-07 13:12:38|boris|zzyzx|cz|im|venice|nauka
+2025-08-07 13:12:38|boris|zzyzx|gk|rb|boris espresso aggro|modded bolt bolt
+2025-08-07 13:12:38|boris|zzyzx|im|nc|staches|audi control
+2025-08-07 13:12:38|zzyzx|boris|gs|if|peas galore|hokaistars
+2025-08-07 20:57:29|hystorian|xera|cc|nt|leaf the war|muglord
+2025-08-07 20:57:29|hystorian|xera|hg|nc|teleimps|starcap
+2025-08-07 20:57:29|hystorian|xera|zm|sf|lawnmower|nowy cosinus
+2025-08-08 03:06:58|diego|baron|im|ro|taches|ramp
+2025-08-08 03:06:58|diego|baron|rb|sf|tricks|rejection
+2025-08-08 03:06:58|diego|baron|sf|bf|new latam control|no fun
+2025-08-10 17:49:46|hystorian|voof|cc|if|leaf the war|imps
+2025-08-10 17:49:46|hystorian|voof|gs|im|bean pea leafy|mustache combo
+2025-08-10 17:49:46|hystorian|voof|hg|gk|competitive mustaches|stats
+2025-08-10 17:49:46|voof|hystorian|bc|eb|control|dancing rework
+2025-08-10 19:43:45|fluke|valencia|nc|eb|tech|test
+2025-08-10 19:43:45|fluke|valencia|nt|nc|aggro|midrange
+2025-08-10 19:43:45|fluke|valencia|sm|gk|tech|gravipatch
+2025-08-10 19:43:45|valencia|fluke|cz|hg|apotk|otkb
+2025-08-10 19:43:45|valencia|fluke|rb|ro|masterbolt|hmr
+2025-08-10 20:24:02|boris|senti|cz|bf|venice|no fun
+2025-08-10 20:24:02|boris|senti|if|ro|hokaistars|no fun
+2025-08-10 20:24:02|boris|senti|im|gk|staches|bbp
+2025-08-11 15:57:31|diego|mono|cz|eb|venidiego|maiden heaven
+2025-08-11 15:57:31|diego|mono|gk|zm|mid|composite
+2025-08-11 15:57:31|diego|mono|sm|ro|control gargs|heal mid mod
+2025-08-11 15:57:31|mono|diego|gk|im|variable|tache
+2025-08-11 23:41:33|valencia|voof|ct|rb|megamphitrión|bolt bolt
+2025-08-11 23:41:33|voof|valencia|cc|zm|aggro|pyro
+2025-08-11 23:41:33|voof|valencia|gs|rb|midrange|masterbolt
+2025-08-11 23:41:33|voof|valencia|hg|gk|otkb|gravipatch
+2025-08-15 01:54:59|fluke|hystorian|ro|eb|hmr|dancing rework
+2025-08-15 01:54:59|hystorian|fluke|ct|nt|amphibious|aggro
+2025-08-15 01:54:59|hystorian|fluke|gs|sm|bean pea leafy|midgargs
+2025-08-15 01:54:59|hystorian|fluke|zm|cz|lawnmower|pile
+2025-08-15 14:55:18|boris|diego|im|cc|staches|fig
+2025-08-15 14:55:18|diego|boris|cz|nt|venidiego|tombstone
+2025-08-15 14:55:18|diego|boris|im|bc|taches|control
+2025-08-15 14:55:18|diego|boris|rb|gk|tricks papa|mid
+2025-08-15 17:48:29|mono|senti|bc|bf|sith|no fun
+2025-08-15 17:48:29|mono|senti|sf|im|gb|dog
+2025-08-15 17:48:29|mono|senti|sm|cc|midgargs|other
+2025-08-15 17:48:29|senti|mono|ro|zm|no fun|composite
+2025-08-15 17:48:29|senti|mono|sf|rb|chris paul|bolt bolt
+2025-08-17 21:36:44|boris|voof|cc|zm|log bait|trickmech
+2025-08-17 21:36:44|boris|voof|im|cc|staches|aggro
+2025-08-17 21:36:44|voof|boris|cz|hg|apmop|teleimps
+2025-08-17 21:36:44|voof|boris|hg|gk|otkb|boris espresso aggro
+2025-08-17 21:36:44|voof|boris|wk|sm|cancerknight|pablo's yeezy's
+2025-08-18 02:55:47|diego|hystorian|if|cc|diegonity|leaf the war
+2025-08-18 02:55:47|hystorian|diego|ct|im|amphibious|🧱
+2025-08-18 02:55:47|hystorian|diego|eb|cz|burn dancing|venidiego
+2025-08-18 02:55:47|hystorian|diego|hg|sf|competitive mustaches|control
+2025-08-20 03:21:38|mono|voof|gs|hg|abeans|otkb
+2025-08-20 03:21:38|mono|voof|zm|sf|composite|sjw
+2025-08-20 03:21:38|voof|mono|bc|im|control|mustache combo
+2025-08-20 03:21:38|voof|mono|gs|rb|aggro midrange|bolt bolt
+2025-08-20 03:21:38|voof|mono|im|cc|mustache combo|aggro

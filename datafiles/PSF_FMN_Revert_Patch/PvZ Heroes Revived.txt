@@ -1,0 +1,74 @@
+2025-07-02 13:02:48|boyca|tqm|ro|zm|midded modrose|garg mech
+2025-07-02 13:02:48|boyca|tqm|sf|bf|pile|lock boris out
+2025-07-02 13:02:48|boyca|tqm|sm|bc|gaggle of gargs #3|sham control
+2025-07-02 17:22:21|jackmartin|tbone|im|sf|science pile|jp
+2025-07-02 17:22:21|jackmartin|tbone|rb|bc|boltbolt|sham control
+2025-07-02 17:22:21|jackmartin|tbone|sf|zm|freight|pyro
+2025-07-02 17:22:21|tbone|jackmartin|im|gk|otk mecha|starchspresso
+2025-07-03 16:53:51|bowling bulb|lolo|if|sf|modded spacestars|ice moon shouldn't be conjurable
+2025-07-03 16:53:51|lolo|bowling bulb|cc|bf|aquatic animal|gargs
+2025-07-03 16:53:51|lolo|bowling bulb|hg|cz|cryoboy|flowerotk
+2025-07-03 16:53:51|lolo|bowling bulb|zm|sp|arishem|ctrl
+2025-07-04 17:28:47|boyca|jackmartin|gk|zm|tempo|pile
+2025-07-04 17:28:47|boyca|jackmartin|if|cz|spacestars|pile
+2025-07-04 17:28:47|boyca|jackmartin|ro|hg|midded modrose|pile
+2025-07-04 17:28:47|jackmartin|boyca|sf|bf|pile|brain feet v3
+2025-07-04 20:56:01|boris|alan|bc|eb|sham control|1.6 explosive area
+2025-07-04 20:56:01|boris|alan|cc|zm|log bait|1.6 flamecho
+2025-07-04 20:56:01|boris|alan|sm|gk|pablo's yeezy's|1.6 trying to tempo
+2025-07-09 02:29:34|tbone|tqm|im|gk|otk mecha|amongustherapy
+2025-07-09 02:29:34|tqm|tbone|bf|nc|lock boris out|power cap
+2025-07-09 02:29:34|tqm|tbone|cc|zm|fig hell|trickmech
+2025-07-09 02:29:34|tqm|tbone|if|bc|spacestars|sham control
+2025-07-11 08:12:19|bass|pipo|cz|sm|ambidextrous|control
+2025-07-11 08:12:19|bass|pipo|sf|if|tqm and :slungus:|tempo
+2025-07-11 08:12:19|bass|pipo|sm|gk|gaggle of gargs|control
+2025-07-12 16:38:37|bowling bulb|first hero|bf|sf|midgargs|fig didn't even transferom once
+2025-07-12 16:38:37|bowling bulb|first hero|gk|hg|mid roots|new ykm
+2025-07-12 16:38:37|bowling bulb|first hero|sp|zm|dino roots|lawnmower
+2025-07-15 18:00:05|boris|xera|hg|nc|otk blob|midrange rover
+2025-07-15 18:00:05|xera|boris|bf|nc|nuevo watersports|midrange
+2025-07-15 18:00:05|xera|boris|gs|rb|birdshadow 🧌|bolt bolt
+2025-07-15 18:00:05|xera|boris|sb|sp|limerence|radiotherapy
+2025-07-15 21:41:25|alan|div|cz|zm|1.6 apollination|pyro
+2025-07-15 21:41:25|alan|div|eb|bc|1.6 explosive area|control
+2025-07-15 21:41:25|alan|div|gs|im|1.61 pile|mecha control
+2025-07-16 20:24:49|pipo|tqm|ct|if|control|spacestars
+2025-07-16 20:24:49|tqm|pipo|im|bc|kaleidoscope|control
+2025-07-16 20:24:49|tqm|pipo|nc|bf|transposition|control
+2025-07-16 20:24:49|tqm|pipo|ro|sm|heal midrose|control
+2025-07-17 18:38:52|bass|xera|hg|sf|Unknown|old cosinus
+2025-07-17 18:38:52|bass|xera|wk|bf|Unknown|nuevo watersports
+2025-07-17 18:38:52|xera|bass|cc|nt|xeraflourished|Unknown
+2025-07-17 18:38:52|xera|bass|cz|im|laserings|Unknown
+2025-07-17 18:38:52|xera|bass|if|nc|neostars|Unknown
+2025-07-20 17:09:48|boris|bowling bulb|cz|zm|venice|gargmech
+2025-07-20 17:09:48|boris|bowling bulb|hg|cz|otk blob|venice
+2025-07-20 17:09:48|boris|bowling bulb|im|gk|staches|roots aggro
+2025-07-22 21:14:29|jackmartin|lang|gk|nt|starchspresso|low battery
+2025-07-22 21:14:29|jackmartin|lang|sf|im|freight|igmaticia
+2025-07-25 13:16:26|boris|tqm|cc|im|log bait|kaleidoscope
+2025-07-25 13:16:26|boris|tqm|im|ro|staches|heal midrose
+2025-07-25 13:16:26|boris|tqm|rb|ro|bolt bolt|heal midrose
+2025-07-25 13:16:26|tqm|boris|hg|bc|telimps|sham control
+2025-07-25 13:16:26|tqm|boris|sm|sf|midgargs|thanos
+2025-07-27 01:10:30|alan|jackmartin|bc|im|1.6 trolltina|science pile
+2025-07-27 01:10:30|alan|jackmartin|gs|rb|1.61 pile|boltbolt
+2025-07-27 01:10:30|alan|jackmartin|zm|sf|1.6 flamecho|freight
+2025-08-02 17:18:36|xera|boyca|im|wk|nowy tempo leap|chemo
+2025-08-02 17:18:36|xera|boyca|nt|gk|muglord|get
+2025-08-02 17:18:36|xera|boyca|sf|zm|nowy cosinus|boygargs
+2025-08-12 00:17:08|alan|jaytrap|bc|rb|1.6 trolltina|sunbandits
+2025-08-12 00:17:08|alan|jaytrap|rb|sf|modded bolt bolt|troll
+2025-08-12 00:17:08|alan|jaytrap|zm|gs|1.6 flamecho|grow your rex
+2025-08-12 00:17:08|jaytrap|alan|eb|cz|control feet|1.6 apollination
+2025-08-16 16:17:05|alan|boyca|cc|sm|1.6 hate nibble|gaggle of gargs #3
+2025-08-16 16:17:05|alan|boyca|im|ro|1.6 unsynchronized|midded modrose
+2025-08-16 16:17:05|alan|boyca|zm|bc|1.6 flamecho|control
+2025-08-16 16:17:05|boyca|alan|sm|cz|gaggle of gargs #3|1.6 apollination
+2025-08-17 20:30:08|alan|xera|im|bc|1.6 unsynchronized|neurotherapy
+2025-08-17 20:30:08|alan|xera|sf|im|1.6 rng control|parascope
+2025-08-17 20:30:08|xera|alan|cz|eb|sun shroom apotk|1.6 explosive area
+2025-08-17 20:30:08|xera|alan|nt|sp|muglord|1.61 pile
+2025-08-17 20:30:08|xera|alan|sf|rb|nowy cosinus|modded bolt bolt
+2025-08-17 20:30:08|xera|alan|zm|gk|trojan horse|1.6 trying to tempo

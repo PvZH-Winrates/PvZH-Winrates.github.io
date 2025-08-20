@@ -1,0 +1,74 @@
+2025-06-23 21:00:03|boris|jakepeng|gk|eb|espresso aggro|control
+2025-06-23 21:00:03|boris|jakepeng|pb|gk|trickstache|geass knuckles peas
+2025-06-23 21:00:03|boris|jakepeng|sp|sm|radiotherapy|goat
+2025-06-23 21:00:03|jakepeng|boris|pb|cz|trickstache|coffeezilla
+2025-06-23 21:00:03|jakepeng|boris|sp|rb|the experiment|bolt bolt
+2025-06-24 07:06:23|voof|boing|if|wk|imps|reverted ramp
+2025-06-24 07:06:23|voof|boing|sf|if|jp grand|spacestars
+2025-06-24 07:06:23|voof|boing|wk|pb|cancerknight|trickstache
+2025-06-24 19:04:11|first hero|xera|ro|pb|good luck winning lmao|reverse catster
+2025-06-24 19:04:11|first hero|xera|wk|hg|updateknight|neo gps
+2025-06-24 19:04:11|xera|first hero|bc|pb|neurotherapy|trickstache
+2025-06-24 19:04:11|xera|first hero|gs|hg|d4c, xera's version|hero repeat
+2025-06-24 19:04:11|xera|first hero|wk|hg|cansema|ykm
+2025-06-26 23:34:42|fittypea|kingfish|if|gs|spacestars modded|nut house
+2025-06-26 23:34:42|fittypea|kingfish|sp|if|control|spacestars
+2025-06-26 23:34:42|fittypea|kingfish|wk|nt|briar control|tight grimps
+2025-06-26 23:34:42|kingfish|fittypea|gk|nt|martial law|flagtuna
+2025-06-27 15:54:45|boyca|michael|cz|pb|modded valuezilla|trickstache
+2025-06-27 15:54:45|boyca|michael|rb|sp|bolt bolt|dino roots
+2025-06-27 15:54:45|michael|boyca|if|gk|spacestars|tempo
+2025-06-27 15:54:45|michael|boyca|ro|if|hmr|spacestars
+2025-06-27 15:54:45|michael|boyca|sf|zm|tempo|pass tempo v4
+2025-06-28 01:03:59|lolo|tornillo|cc|pb|original deck|falsetache
+2025-06-28 01:03:59|lolo|tornillo|gk|nt|original deck|piportnillo
+2025-06-28 01:03:59|tornillo|lolo|bc|sm|él tio sam|original deck
+2025-06-28 01:03:59|tornillo|lolo|gk|pb|fruits tempo|original deck
+2025-06-28 01:03:59|tornillo|lolo|nc|hg|tornicontrolla|original deck
+2025-06-28 20:41:53|boris|xera|bc|im|sham control|midgargs
+2025-06-28 20:41:53|boris|xera|gk|pb|espresso aggro|reverse catster
+2025-06-28 20:41:53|boris|xera|pb|wk|tricksterlessstaches|cansema
+2025-06-28 20:41:53|xera|boris|bc|if|neurotherapy|hokaistars
+2025-06-28 20:41:53|xera|boris|sb|sp|limerence|radiotherapy mod
+2025-06-29 05:37:26|gerby|pillowy|pb|sp|Unknown|dinoraízes
+2025-06-29 05:37:26|gerby|pillowy|ro|if|ramp|spacestars
+2025-06-29 05:37:26|pillowy|gerby|cz|sm|apotk|gargs
+2025-06-29 05:37:26|pillowy|gerby|gs|im|nuevocomienzo|control mechasaur
+2025-06-29 05:37:26|pillowy|gerby|rb|sf|slightly modded boltbolt|ramp
+2025-06-30 17:11:33|may|voof|hg|sp|telimps|control
+2025-06-30 17:11:33|may|voof|im|nc|otkster|cyclecap
+2025-06-30 17:11:33|may|voof|sp|hg|control|telimps
+2025-06-30 17:11:33|voof|may|pb|gs|trickstashe|cabbage abuse
+2025-06-30 17:43:21|bass|hystorian|bc|pb|shortbow's aggro amphi pile|trickster hybrid
+2025-06-30 17:43:21|bass|hystorian|hg|ro|conjunction|mixed salada
+2025-06-30 17:43:21|bass|hystorian|wk|pb|nagito komaeda reference|trickster hybrid
+2025-06-30 17:43:21|hystorian|bass|nc|pb|toyota controlla|qss
+2025-06-30 17:43:21|hystorian|bass|rb|wk|tricksterazzi|cancerknight
+2025-07-02 15:33:11|boris|huyn|hg|gs|ykm|rings
+2025-07-02 15:33:11|boris|huyn|pb|wk|trickstache|other
+2025-07-02 15:33:11|boris|huyn|wk|nt|chemotherapy|other
+2025-07-02 15:33:11|huyn|boris|sm|sp|modded midgargs|radiotherapy
+2025-07-02 17:51:37|michael|tornillo|ro|pb|heal midrose|trickstache
+2025-07-02 17:51:37|michael|tornillo|sf|if|tempo|spacestars
+2025-07-02 17:51:37|michael|tornillo|zm|bc|pyro|control
+2025-07-02 17:51:37|tornillo|michael|rb|gk|bolt bolt modded|aggro
+2025-07-02 17:51:37|tornillo|michael|sp|im|bartin|telescope
+2025-07-05 20:52:18|bass|pillowy|sb|sf|aggro graveyard|fichestello
+2025-07-05 20:52:18|bass|pillowy|wk|pb|roots|trickstache
+2025-07-05 20:52:18|pillowy|bass|eb|sp|aggro|tempo?
+2025-07-05 20:52:18|pillowy|bass|gs|bf|cartas buenas|hunt
+2025-07-05 20:52:18|pillowy|bass|sm|cz|pablos nitrous|mid
+2025-07-08 20:35:04|fittypea|may|nt|sf|colossal conjure|enviroflare
+2025-07-08 20:35:04|fittypea|may|rb|sp|untrickabolt|lava guava
+2025-07-08 20:35:04|may|fittypea|hg|wk|telimps|flowa ii
+2025-07-08 20:35:04|may|fittypea|im|gs|otkster|cartas buenas
+2025-07-08 20:35:04|may|fittypea|pb|cc|trickstashe|autoken
+2025-07-12 20:06:23|boris|pillowy|sp|im|radiotherapy|marry me
+2025-07-12 20:06:23|pillowy|boris|bc|hg|sham control|otk blob
+2025-07-12 20:06:23|pillowy|boris|cz|rb|flowers|bolt bolt
+2025-07-12 20:06:23|pillowy|boris|hg|wk|telimps|chemptherapy
+2025-07-21 01:45:15|michael|pillowy|gk|if|pea aggro|spacestars
+2025-07-21 01:45:15|michael|pillowy|sf|rb|tempo|pogger
+2025-07-21 01:45:15|pillowy|michael|bc|zm|sham control|lawnmower
+2025-07-21 01:45:15|pillowy|michael|cz|im|flores|tempo
+2025-07-21 01:45:15|pillowy|michael|hg|sp|telimps|starch control

@@ -78,3 +78,62 @@
 2025-06-08 01:13:53|slewer|michael|rb|ro|bolt bolt|ladder
 2025-06-08 01:13:53|slewer|michael|ro|bf|hmr|lockout
 2025-06-08 01:13:53|slewer|michael|sf|im|sunscreen|anti control
+2025-06-08 17:16:40|aldogael|boris|hg|cc|jdeck|lag bait
+2025-06-08 17:16:40|aldogael|boris|nt|bc|salty salad|sham control
+2025-06-08 17:16:40|aldogael|boris|ro|hg|no skill heal control|ykm mod
+2025-06-08 17:16:40|aldogael|boris|sf|sm|flaming berries|pablo's yeezy's mod
+2025-06-08 17:16:40|boris|aldogael|rb|cc|bolt bolt|dandy moss
+2025-06-08 20:59:30|baron|dericop|bf|wk|grave boy|chemo
+2025-06-08 20:59:30|baron|dericop|ct|nt|watertron|piport
+2025-06-08 20:59:30|baron|dericop|gk|zm|aggro|pyro
+2025-06-08 20:59:30|baron|dericop|gs|sb|abeans|pile
+2025-06-08 20:59:30|dericop|baron|nc|eb|pile|gargs22
+2025-06-08 20:59:30|dericop|baron|sf|zm|jp flare|garg mech
+2025-06-09 01:36:38|alan|valencia|cc|if|hate nibble|chickenary
+2025-06-09 01:36:38|alan|valencia|cz|rb|apollination|highroll
+2025-06-09 01:36:38|alan|valencia|rb|cz|tempo pile|ringmegistus
+2025-06-09 01:36:38|valencia|alan|ct|eb|megamphitrión|explosive area
+2025-06-09 01:36:38|valencia|alan|gk|im|pea patch|unsynchronized
+2025-06-09 01:36:38|valencia|alan|hg|gk|fatality|trying to tempo
+2025-06-09 01:36:38|valencia|alan|nt|sp|darkspace|fig roots
+2025-06-09 18:01:18|jhonson|tqm|hg|gk|bombazo|amongustherapy
+2025-06-09 18:01:18|jhonson|tqm|sf|im|destrello trollar|otk trickster
+2025-06-09 18:01:18|jhonson|tqm|sm|ro|elbaf|heal midrose
+2025-06-09 18:01:18|tqm|jhonson|bf|cc|lock boris out|midgrance
+2025-06-09 18:01:18|tqm|jhonson|eb|ro|seacret|midgrance
+2025-06-09 18:01:18|tqm|jhonson|nc|im|transposition|troll
+2025-06-09 18:01:18|tqm|jhonson|zm|bc|garg mech|control
+2025-06-10 06:10:39|boing|tomaselli|cc|if|Unknown|Unknown
+2025-06-10 06:10:39|boing|tomaselli|cz|nt|Unknown|Unknown
+2025-06-10 06:10:39|boing|tomaselli|rb|ct|Unknown|Unknown
+2025-06-10 06:10:39|boing|tomaselli|zm|cz|Unknown|Unknown
+2025-06-10 06:10:39|tomaselli|boing|im|sp|Unknown|Unknown
+2025-06-10 06:10:39|tomaselli|boing|wk|pb|Unknown|Unknown
+2025-06-12 01:21:16|aldogael|tqm|cz|rb|pile|pile
+2025-06-12 01:21:16|aldogael|tqm|gs|im|pile|pile
+2025-06-12 01:21:16|aldogael|tqm|hg|gk|pile|pile
+2025-06-12 01:21:16|aldogael|tqm|nt|cc|pile|pile
+2025-06-12 01:21:16|tqm|aldogael|bf|cc|pile|pile
+2025-06-12 01:21:16|tqm|aldogael|nc|bf|pile|pile
+2025-06-12 01:21:16|tqm|aldogael|sm|ro|deck|pile
+2025-06-12 05:10:13|boing|dericop|cc|rb|token aggro|pile
+2025-06-12 05:10:13|boing|dericop|zm|sf|weekend trickmech|pile
+2025-06-12 05:10:13|dericop|boing|gs|hg|pile|teleimps
+2025-06-12 05:10:13|dericop|boing|im|cz|pile|original deck
+2025-06-12 05:10:13|dericop|boing|sm|ro|pile|hmr
+2025-06-12 05:10:13|dericop|boing|wk|rb|funny knight modded|pogger
+2025-06-13 19:38:01|baron|foxi|bf|gs|grave boy|Unknown
+2025-06-13 19:38:01|baron|foxi|if|sf|graggro|Unknown
+2025-06-13 19:38:01|baron|foxi|rb|wk|bolt bolt|Unknown
+2025-06-13 19:38:01|baron|foxi|sp|eb|radiotherapy|Unknown
+2025-06-13 19:38:01|foxi|baron|nt|gk|Unknown|aggro
+2025-06-14 19:29:55|cascade|hexada|cc|eb|modded mosu|gargs22
+2025-06-14 19:29:55|cascade|hexada|sp|im|control|environment trouble
+2025-06-14 19:29:55|hexada|cascade|gk|sm|no sneaky|pablo's yeezys
+2025-06-14 19:29:55|hexada|cascade|nt|wk|flag|control
+2025-06-14 19:29:55|hexada|cascade|ro|bf|heal me|lock the bathroom
+2025-06-14 19:29:55|hexada|cascade|sf|nt|flowerman|modded piport
+2025-06-14 22:49:19|fluke|valencia|bf|gk|deep space|podpatch
+2025-06-14 22:49:19|fluke|valencia|cz|nt|budget mopzilla|darkspace
+2025-06-14 22:49:19|fluke|valencia|im|cz|test 5|ringmegistus
+2025-06-14 22:49:19|fluke|valencia|sf|bf|mono reference|lockout

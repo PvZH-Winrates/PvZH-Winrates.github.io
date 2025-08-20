@@ -1,0 +1,49 @@
+2025-06-21 18:22:48|coffee|fluke|hg|bc|broth gang!|misclicked and picked a non broth deck
+2025-06-21 18:22:48|fluke|coffee|rb|cz|broth gang!|aportk
+2025-06-21 18:22:48|fluke|coffee|ro|rb|broth gang!|*modded bolt bolt*
+2025-06-21 18:23:20|hexada|natz|sf|bf|Unknown|lockthebathroom
+2025-06-21 18:23:20|natz|hexada|cc|if|aggro|???
+2025-06-21 18:23:20|natz|hexada|gk|nt|aggro|???
+2025-06-21 18:24:23|michael|fittypea|cc|nt|plant mop|colossal conjure
+2025-06-21 18:24:23|michael|fittypea|cz|nt|aggro|colossal conjure
+2025-06-21 18:24:23|michael|fittypea|im|gk|anti control|control
+2025-06-21 18:49:50|michael|xera|cc|sm|plant mop|non-do mid
+2025-06-21 18:49:50|michael|xera|eb|cz|dance aggro|leafy hadron collider
+2025-06-21 18:49:50|michael|xera|im|gk|anti control|pot otk
+2025-06-21 18:59:11|fittypea|tornillo|cc|hg|autoken|jdmustache
+2025-06-21 18:59:11|fittypea|tornillo|if|sf|raiding curse|micheal control
+2025-06-21 18:59:11|fittypea|tornillo|nt|bc|colossal conjure|watertina
+2025-06-21 19:00:01|natz|fluke|cz|if|redmid|spacestars
+2025-06-21 19:00:01|natz|fluke|gs|im|modded aggro|test 5
+2025-06-21 19:00:01|natz|fluke|nt|sp|grinch|spudow still needs buffs
+2025-06-21 19:01:55|coffee|hexada|bf|gk|wildcard|Unknown
+2025-06-21 19:01:55|coffee|hexada|hg|ro|otkb|Unknown
+2025-06-21 19:01:55|hexada|coffee|rb|nc|Unknown|cyburn
+2025-06-21 19:24:36|michael|natz|im|cc|anti control|aggro
+2025-06-21 19:24:36|michael|natz|sf|nt|aggro|imps
+2025-06-21 19:24:36|natz|michael|bf|cc|lock the bathroom|plant mop
+2025-06-21 19:31:44|fluke|xera|gk|nt|flow|neo tanktuna
+2025-06-21 19:31:44|fluke|xera|nc|hg|cyburn|neo gps
+2025-06-21 19:31:44|xera|fluke|nc|pb|toyota controlla|wrong tech slot
+2025-06-21 19:31:46|hexada|tornillo|gk|hg|roots and fruits|jdmustache
+2025-06-21 19:31:46|hexada|tornillo|rb|gk|unhexable|fruit
+2025-06-21 19:31:46|tornillo|hexada|nc|hg|controlla|broth
+2025-06-21 19:37:11|coffee|fittypea|hg|gk|otkb|control
+2025-06-21 19:37:11|coffee|fittypea|sf|nt|sunscreen|colossal conjure
+2025-06-21 19:37:11|fittypea|coffee|wk|hg|control|otkb
+2025-06-21 19:53:36|fittypea|natz|cc|nt|autoken|imps
+2025-06-21 19:53:36|natz|fittypea|gk|nt|tempo|colossal conjure
+2025-06-21 19:53:36|natz|fittypea|gs|nt|modded aggro|colossal conjure
+2025-06-21 20:01:07|fluke|tornillo|gs|nt|abeans|piportnillo
+2025-06-21 20:01:07|tornillo|fluke|gs|hg|leaf agent|otkb
+2025-06-21 20:01:07|tornillo|fluke|rb|nc|el deporte no es lo admiro|cyburn
+2025-06-21 20:03:56|coffee|michael|hg|sf|otkb|aggro
+2025-06-21 20:03:56|coffee|michael|im|cz|portal gun|aggro
+2025-06-21 20:03:56|coffee|michael|sf|im|sunscreen|anti control
+2025-06-21 20:19:21|hexada|xera|gk|hg|tempo|young freeze martin
+2025-06-21 20:19:21|xera|hexada|nt|sf|conjure qb / muglord|control
+2025-06-21 20:19:21|xera|hexada|sf|pb|cosine|vss homemade
+2025-06-21 21:09:14|michael|natz|cc|bf|plant mop|lock the bathroom
+2025-06-21 21:09:14|natz|michael|cc|im|aggro|anti control
+2025-06-21 21:09:14|natz|michael|gs|zm|aggro|pyro
+2025-06-21 21:09:14|natz|michael|hg|cz|telimps|aggro
