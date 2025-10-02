@@ -72,3 +72,13 @@
 2025-08-17 20:30:08|xera|alan|nt|sp|muglord|1.61 pile
 2025-08-17 20:30:08|xera|alan|sf|rb|nowy cosinus|modded bolt bolt
 2025-08-17 20:30:08|xera|alan|zm|gk|trojan horse|1.6 trying to tempo
+2025-09-27 20:31:33|slewer|xera|cc|eb|college ball|eb avimp
+2025-09-27 20:31:33|slewer|xera|eb|gk|flummox|smack dat
+2025-09-27 20:31:33|slewer|xera|rb|cz|pogger|cosmic pea aggro
+2025-09-27 20:31:33|xera|slewer|sp|im|bartout|portal gun
+2025-09-27 20:31:33|xera|slewer|zm|cz|dozzamech|aportk
+2025-09-28 18:31:36|autony|jackmartin|bf|wk|lock the bathroom|modded chemo
+2025-09-28 18:31:36|autony|jackmartin|rb|sp|cardsbolt|reliakale 2
+2025-09-28 18:31:36|autony|jackmartin|sf|zm|snowstorm mod|lawnmower
+2025-09-28 18:31:36|jackmartin|autony|pb|gk|shortstache|pea tempo
+2025-09-28 18:31:36|jackmartin|autony|wk|nt|modded chemo|basics

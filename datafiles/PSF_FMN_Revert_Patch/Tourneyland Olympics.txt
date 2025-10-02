@@ -150,3 +150,15 @@
 2025-08-20 03:21:38|voof|mono|bc|im|control|mustache combo
 2025-08-20 03:21:38|voof|mono|gs|rb|aggro midrange|bolt bolt
 2025-08-20 03:21:38|voof|mono|im|cc|mustache combo|aggro
+2025-08-24 22:39:25|diego|voof|hg|bc|mostaches|water aggro
+2025-08-24 22:39:25|diego|voof|im|gs|staches|aggro
+2025-08-24 22:39:25|voof|diego|cc|sm|aggro|gargs control
+2025-08-24 22:39:25|voof|diego|im|sf|mustache combo|troll
+2025-08-24 22:39:25|voof|diego|rb|nc|bolt bolt|troll fun
+2025-08-29 03:33:06|hystorian|voof|ro|if|hmr|spacestars
+2025-08-29 03:33:06|voof|hystorian|bc|eb|water aggro|burn dancing
+2025-08-29 03:33:06|voof|hystorian|gs|hg|aggromidrange|competitive mustaches
+2025-08-29 03:33:06|voof|hystorian|zm|gs|midrange|bean pea leafy
+2025-08-29 03:35:00|hystorian|voof|nc|im|toyota controlla|mustache combo
+2025-08-29 03:35:00|hystorian|voof|rb|cc|tricksterazzi|aggro
+2025-08-29 03:35:00|hystorian|voof|ro|zm|hmr|midrange

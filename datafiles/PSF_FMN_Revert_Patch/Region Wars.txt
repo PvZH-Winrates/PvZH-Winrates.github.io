@@ -243,3 +243,177 @@
 2025-08-20 02:04:06|michael|voof|sf|bf|tempo|lock out
 2025-08-20 02:04:06|voof|michael|cc|eb|aggro|hunt gargs
 2025-08-20 02:04:06|voof|michael|im|gk|mustache combo|expresso aggro
+2025-08-22 15:50:55|foxi|slewer|ro|rb|Unknown|poggerazzi
+2025-08-22 15:50:55|slewer|foxi|bf|cz|otk cryo|Unknown
+2025-08-22 15:50:55|slewer|foxi|im|ct|portal gun|Unknown
+2025-08-22 15:50:55|slewer|foxi|nc|hg|cycle|Unknown
+2025-08-22 15:50:55|slewer|foxi|ro|if|hmr modded|Unknown
+2025-08-23 15:52:35|tcc|valencia|cz|rb|mono 1.61 rampzilla v7|masterbolt
+2025-08-23 15:52:35|tcc|valencia|sp|im|tcc 1.61 jp therapy v7.5|waxster
+2025-08-23 15:52:35|valencia|tcc|cc|im|mono speedway|viet gang 1.6 combostaches v6
+2025-08-23 15:52:35|valencia|tcc|ct|rb|megamphitrión|tryhard boris 1.6 boltbolt v25
+2025-08-23 15:52:35|valencia|tcc|cz|sm|salt 1.6 apotk modded|michael 1.6 pepegargs v14
+2025-08-23 15:52:35|valencia|tcc|hg|wk|latam staches|tcc flower my fruity life v9
+2025-08-23 17:27:21|tcc|tornillo|cc|nt|tcc 1.61 commonia v13|piportnillo
+2025-08-23 17:27:21|tcc|tornillo|hg|sf|sushi 1.61 teleimps v2.13|micheal tempo
+2025-08-23 17:27:21|tornillo|tcc|bc|if|él tio sam v2|tcc 1.6 星之崩壞 v9
+2025-08-23 17:27:21|tornillo|tcc|hg|cz|jdmustache|mono 1.61 rampzilla v8
+2025-08-23 17:27:21|tornillo|tcc|im|sf|environment trouble|voof 1.61 jp grand v86
+2025-08-23 17:27:21|tornillo|tcc|ro|rb|rcch 1.6 heal midrose|tryhard boris 1.61 bolt bolt v25
+2025-08-23 20:59:25|mono|tornillo|ro|eb|Unknown|Unknown
+2025-08-23 20:59:25|tornillo|mono|bc|nt|Unknown|Unknown
+2025-08-23 20:59:25|tornillo|mono|cc|if|Unknown|Unknown
+2025-08-23 20:59:25|tornillo|mono|rb|gk|Unknown|Unknown
+2025-08-23 20:59:25|tornillo|mono|sf|zm|Unknown|Unknown
+2025-08-24 16:17:44|fluke|tomaselli|bf|cc|Unknown|Unknown
+2025-08-24 16:17:44|fluke|tomaselli|cc|bf|Unknown|Unknown
+2025-08-24 16:17:44|fluke|tomaselli|gk|hg|we|Unknown
+2025-08-24 16:17:44|fluke|tomaselli|ro|im|Unknown|Unknown
+2025-08-24 16:17:44|tomaselli|fluke|gk|eb|Unknown|Unknown
+2025-08-24 16:17:44|tomaselli|fluke|gs|nt|Unknown|Unknown
+2025-08-24 16:17:44|tomaselli|fluke|nt|sf|Unknown|Unknown
+2025-08-24 17:20:42|alan|foxi|gk|sm|1.6 trying to tempo|Unknown
+2025-08-24 17:20:42|alan|foxi|nt|nc|1.6 gravest sport|Unknown
+2025-08-24 17:20:42|alan|foxi|rb|ro|modded bolt bolt|Unknown
+2025-08-24 17:20:42|alan|foxi|sp|zm|1.6 fig roots|Unknown
+2025-08-24 17:20:42|foxi|alan|sb|cc|Unknown|1.6 hate nibble
+2025-08-24 17:25:23|diego|tcc|cc|rb|fig|tryhard boris 1.6 bolt bolt v25
+2025-08-24 17:25:23|diego|tcc|zm|cc|new diego modded|tcc 1.61 commonia v13
+2025-08-24 17:25:23|tcc|diego|gk|rb|salt 1.61 tree otk v14|tricks salad
+2025-08-24 17:25:23|tcc|diego|if|gk|tcc 1.6 星之崩壞 v10|mid
+2025-08-24 17:25:23|tcc|diego|sf|if|voof 1.61 jp grand v88|diegonity
+2025-08-24 17:25:23|tcc|diego|zm|cz|mono 1.6 vortice starmech v14|venidiego
+2025-08-24 18:50:37|tcc|lolo|bf|bc|boris 1.6 lock the bathroom v10|control
+2025-08-24 18:50:37|tcc|lolo|if|ro|tcc 1.6 星之崩壞 v10|rcch heal midrose
+2025-08-24 18:50:37|tcc|lolo|ro|zm|mono watchdog v4|sushi salt 1.6 garg burn
+2025-08-24 18:50:37|tcc|lolo|sf|rb|voof 1.61 jp grand v88|poggerrazzi
+2025-08-24 19:38:58|div|j.s|im|bc|Unknown|Unknown
+2025-08-24 19:38:58|j.s|div|cc|bf|Unknown|Unknown
+2025-08-24 19:38:58|j.s|div|eb|ct|Unknown|Unknown
+2025-08-24 19:38:58|j.s|div|nt|ro|Unknown|Unknown
+2025-08-24 19:38:58|j.s|div|sf|hg|Unknown|Unknown
+2025-08-25 01:37:51|lang|valencia|rb|ro|poggerrazzi|cannonade
+2025-08-25 01:37:51|valencia|lang|ct|nt|megamphitrión|low battery
+2025-08-25 01:37:51|valencia|lang|cz|im|apotk modded|blob pets
+2025-08-25 01:37:51|valencia|lang|rb|wk|masterbolt|creampie
+2025-08-25 01:37:51|valencia|lang|zm|cz|pyrostars modded|valuezilla
+2025-08-25 15:07:42|jhonson|tcc|hg|sf|bombazo 2.0|voof 1.61 jp grand v88
+2025-08-25 15:07:42|jhonson|tcc|nc|bf|santoru|boris 1.6 lock the bathroom v10
+2025-08-25 15:07:42|tcc|jhonson|cc|eb|tcc 1.61 commonia v13|reversi
+2025-08-25 15:07:42|tcc|jhonson|im|cz|slew portal gun v5|extra
+2025-08-25 15:07:42|tcc|jhonson|ro|if|mono watchdog v4|letal
+2025-08-25 15:07:42|tcc|jhonson|zm|cc|mono vortice star mech v14|dstyr
+2025-08-25 23:22:23|tcc|hexada|cc|rb|tcc 1.61 commonia v13|pogger
+2025-08-26 00:42:17|baron|hexada|bf|ro|Unknown|Unknown
+2025-08-26 00:42:17|baron|hexada|eb|sf|Unknown|Unknown
+2025-08-26 00:42:17|baron|hexada|nt|gk|Unknown|Unknown
+2025-08-26 00:42:17|baron|hexada|ro|hg|Unknown|Unknown
+2025-08-26 00:42:17|hexada|baron|nt|gk|Unknown|Unknown
+2025-08-26 00:42:17|hexada|baron|wk|rb|Unknown|Unknown
+2025-08-26 00:42:17|hexada|baron|zm|cz|Unknown|Unknown
+2025-08-26 14:54:13|aldogael|tcc|cc|zm|Unknown|mono vortice star mech v14
+2025-08-26 14:54:13|tcc|aldogael|cc|if|tcc 1.61 commonia v13|Unknown
+2025-08-26 14:54:13|tcc|aldogael|im|gk|slew portal gun v5|Unknown
+2025-08-26 14:54:13|tcc|aldogael|ro|zm|mono watchdog v4|Unknown
+2025-08-26 14:54:13|tcc|aldogael|sf|hg|fh go beyond v6|Unknown
+2025-08-27 14:44:35|slewer|tomaselli|eb|cc|sm reference|misplayed
+2025-08-27 14:44:35|slewer|tomaselli|im|gs|science|smarty bad
+2025-08-27 14:44:35|slewer|tomaselli|nc|bf|sonic bloom|pile
+2025-08-27 14:44:35|slewer|tomaselli|rb|gk|boltbolt|misplayed again 🧌
+2025-08-27 14:44:35|tomaselli|slewer|im|sp|idk|fluke reference
+2025-08-27 14:44:35|tomaselli|slewer|nt|ro|skilled quarterly|buff ro
+2025-08-29 01:50:43|alan|lolo|gk|hg|1.6 trying to tempo|Unknown
+2025-08-29 01:50:43|alan|lolo|im|cc|1.6 unsynchronized|Unknown
+2025-08-29 01:50:43|lolo|alan|bc|nt|Unknown|1.6 gravest sport
+2025-08-29 01:50:43|lolo|alan|nt|sp|Unknown|1.6 fig roots
+2025-08-29 01:50:43|lolo|alan|rb|nc|Unknown|1.6 fig midrange
+2025-08-29 01:50:43|lolo|alan|ro|rb|Unknown|modded bolt bolt
+2025-08-30 16:26:22|lolo|voof|bc|if|Unknown|Unknown
+2025-08-30 16:26:22|lolo|voof|rb|sf|Unknown|Unknown
+2025-08-30 16:26:22|lolo|voof|ro|rb|Unknown|Unknown
+2025-08-30 16:26:22|lolo|voof|zm|sp|Unknown|Unknown
+2025-08-30 16:26:22|voof|lolo|bf|cc|Unknown|Unknown
+2025-08-30 16:26:22|voof|lolo|im|sf|Unknown|Unknown
+2025-08-30 16:26:22|voof|lolo|ro|nt|Unknown|Unknown
+2025-08-30 18:28:53|j.s|tqm|gk|rb|espresso aggro|cardsbolt
+2025-08-30 18:28:53|tqm|j.s|bc|hg|sham control|mustaches
+2025-08-30 18:28:53|tqm|j.s|cz|nt|apotk|muglord
+2025-08-30 18:28:53|tqm|j.s|im|cc|kaleidoscope|aggro-midrange hybrid
+2025-08-30 18:28:53|tqm|j.s|sf|eb|fig lottery|autobuild
+2025-08-30 23:43:44|lolo|tqm|rb|cz|pogger|apotk
+2025-08-30 23:43:44|tqm|lolo|if|cc|spacestars|log bait
+2025-08-30 23:43:44|tqm|lolo|im|bc|kaleidoscope|control
+2025-08-30 23:43:44|tqm|lolo|rb|sf|cardsbolt|fig lottery
+2025-08-30 23:43:44|tqm|lolo|ro|nt|heal midrose|midrange
+2025-08-31 00:42:31|fluke|foxi|eb|nc|flummox v16|figrange
+2025-08-31 00:42:31|fluke|foxi|nt|sp|reverse field fixer|dino roots
+2025-08-31 00:42:31|fluke|foxi|sf|sb|modded snowstorm|telimps
+2025-08-31 00:42:31|fluke|foxi|sp|sm|harith|schooling
+2025-08-31 03:36:48|alan|j.s|cz|nt|1.6 apollination|piport
+2025-08-31 03:36:48|alan|j.s|gk|hg|1.6 trying to tempo|mustaches
+2025-08-31 03:36:48|alan|j.s|nt|gk|1.6 gravest sport|expresso aggro
+2025-08-31 03:36:48|alan|j.s|rb|sf|modded bolt bolt|latam tempo
+2025-08-31 03:36:48|j.s|alan|cc|im|no pain, no gain|1.6 unsynchronized
+2025-08-31 03:36:48|j.s|alan|eb|ct|gargs 22|1.6 tronmpo
+2025-08-31 22:07:00|tcc|tomaselli|cc|bf|tcc 1.61 commonia v13|pets
+2025-08-31 22:07:00|tcc|tomaselli|sf|nt|voof 1.61 jp grand v104|fry midtuna
+2025-08-31 22:07:00|tcc|tomaselli|sp|im|xera 1.61 dinoroots v5|science
+2025-08-31 22:07:00|tcc|tomaselli|zm|cc|mono 1.6 vortice star mech v17|autobuild
+2025-08-31 22:07:00|tomaselli|tcc|gs|im|1.6 abeans|slew portal gun v10
+2025-09-01 19:20:09|baron|diego|bf|cz|no fun|venidiego
+2025-09-01 19:20:09|baron|diego|cz|rb|venice|? no remembef
+2025-09-01 19:20:09|baron|diego|eb|cc|splash gargs|fig
+2025-09-01 19:20:09|baron|diego|sf|bf|rejection|gargs
+2025-09-01 19:20:09|diego|baron|gk|if|mid|graggro
+2025-09-01 19:20:09|diego|baron|im|gk|stache|aggro
+2025-09-04 22:15:51|j.s|lang|cc|hg|no pain, no gain|telimps
+2025-09-04 22:15:51|j.s|lang|cz|rb|new apotk|poggerazzi
+2025-09-04 22:15:51|j.s|lang|hg|bc|latam mustaches|control
+2025-09-04 22:15:51|j.s|lang|im|gk|science-staches|the dumb strategy
+2025-09-04 22:15:51|lang|j.s|cz|nt|valuezilla|heavy control
+2025-09-04 22:15:51|lang|j.s|im|bc|otk cat lady|sam control
+2025-09-04 22:15:51|lang|j.s|sf|eb|heal control|heal gargs 22
+2025-09-05 21:17:09|fluke|lolo|im|gs|Unknown|Unknown
+2025-09-05 21:17:09|fluke|lolo|nc|rb|Unknown|Unknown
+2025-09-05 21:17:09|fluke|lolo|ro|zm|Unknown|Unknown
+2025-09-05 21:17:09|fluke|lolo|sp|nt|Unknown|Unknown
+2025-09-05 21:17:09|lolo|fluke|bc|zm|Unknown|Unknown
+2025-09-05 21:17:09|lolo|fluke|hg|gk|Unknown|Unknown
+2025-09-05 21:17:09|lolo|fluke|sf|sm|Unknown|Unknown
+2025-09-06 20:32:45|cascade|tomaselli|im|gk|nursester|Unknown
+2025-09-06 20:32:45|cascade|tomaselli|nc|bf|1.6 turles|Unknown
+2025-09-06 20:32:45|cascade|tomaselli|sp|nt|dino roots|Unknown
+2025-09-06 20:32:45|tomaselli|cascade|cc|zm|Unknown|1.6 gargmech
+2025-09-07 21:10:14|tqm|valencia|cz|eb|apotk|test22
+2025-09-07 21:10:14|tqm|valencia|sp|im|radiotherapy|hybrid
+2025-09-07 21:10:14|valencia|tqm|ct|bf|megamphitrión|lock boris out
+2025-09-07 21:10:14|valencia|tqm|cz|hg|apotk|telimps
+2025-09-07 21:10:14|valencia|tqm|gs|im|groweafy|kaleidoscope
+2025-09-07 21:10:14|valencia|tqm|hg|gs|spacetache|thingy
+2025-09-08 00:35:53|lolo|slewer|bc|zm|Unknown|tempo
+2025-09-08 00:35:53|lolo|slewer|cc|rb|Unknown|poggerazi
+2025-09-08 00:35:53|lolo|slewer|if|cc|Unknown|savage
+2025-09-08 00:35:53|lolo|slewer|ro|eb|Unknown|splash gargs
+2025-09-08 00:35:53|slewer|lolo|gk|nt|moose|Unknown
+2025-09-08 00:35:53|slewer|lolo|im|sf|portal gun|Unknown
+2025-09-08 00:35:53|slewer|lolo|nc|hg|cycle|Unknown
+2025-09-09 03:13:22|baron|tornillo|bf|gk|Unknown|Unknown
+2025-09-09 03:13:22|baron|tornillo|eb|sf|Unknown|Unknown
+2025-09-09 03:13:22|baron|tornillo|gk|eb|Unknown|Unknown
+2025-09-09 03:13:22|tornillo|baron|hg|bc|Unknown|Unknown
+2025-09-18 21:29:29|j.s|slewer|bc|rb|amphitrion|pogger
+2025-09-18 21:29:29|j.s|slewer|cz|eb|new apotk|flummox
+2025-09-18 21:29:29|j.s|slewer|eb|cc|flumox|leafy pile
+2025-09-18 21:29:29|j.s|slewer|nc|im|turles|portal gun
+2025-09-18 21:29:29|slewer|j.s|cz|hg|rings|latam mustaches
+2025-09-26 20:11:39|div|michael|ro|eb|modded hmr|feast control
+2025-09-26 20:11:39|michael|div|gk|sm|pea tempo|midgargs
+2025-09-26 20:11:39|michael|div|gs|bf|leafy pile busted|ltb mod
+2025-09-26 20:11:39|michael|div|if|sf|deadly tempo|jp flare
+2025-09-26 20:11:39|michael|div|sf|zm|latam tempo|chimera
+2025-09-26 20:18:56|div|valencia|eb|cz|Unknown|apotk
+2025-09-26 20:18:56|div|valencia|im|cc|telescope|Unknown
+2025-09-26 20:18:56|div|valencia|sp|if|Unknown|paintrolla
+2025-09-26 20:18:56|div|valencia|zm|gs|Unknown|groweafy
+2025-09-26 20:18:56|valencia|div|eb|cc|gargs22|Unknown
+2025-09-26 20:18:56|valencia|div|zm|cz|pyrostars|Unknown

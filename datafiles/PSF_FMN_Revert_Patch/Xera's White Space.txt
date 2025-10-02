@@ -153,3 +153,362 @@
 2025-08-20 12:19:22|boyca|dodgygog|ro|im|midded modrose|science moon rising
 2025-08-20 12:19:22|boyca|dodgygog|zm|sf|pass tempo v4|sf control
 2025-08-20 12:19:22|dodgygog|boyca|gs|sm|leafy|gaggle of gargs #3
+2025-08-20 21:27:32|jackmartin|buggy|gk|im|starchlesspresso|waxster
+2025-08-20 21:27:32|jackmartin|buggy|if|gk|maker deadly tempo|omose
+2025-08-20 21:27:32|jackmartin|buggy|sf|im|mildy worse freight|waxster
+2025-08-21 16:08:53|boyca|slewer|hg|ct|teleimps|mud
+2025-08-21 16:08:53|boyca|slewer|sf|rb|maker modded latam tempo|pogger
+2025-08-21 16:08:53|slewer|boyca|if|bc|wrath imps|control
+2025-08-21 16:08:53|slewer|boyca|im|ro|portal gun|midded modrose
+2025-08-21 16:08:53|slewer|boyca|nc|im|cycle|bakery
+2025-08-21 16:48:35|huyn|xera|gk|if|tempogod|neostars
+2025-08-21 16:48:35|huyn|xera|nt|sp|piport|dinoroots
+2025-08-21 16:48:35|xera|huyn|bc|sm|neurotherapy|plabo's wall
+2025-08-21 16:48:35|xera|huyn|bf|gs|quinjet dino renewed|oldtechbeans
+2025-08-21 16:48:35|xera|huyn|nc|im|midcap|inhumane
+2025-08-22 23:22:03|evan|tqm|im|sf|Unknown|fig lottery
+2025-08-22 23:22:03|tqm|evan|cz|nt|apotk|Unknown
+2025-08-22 23:22:03|tqm|evan|im|ro|kaleidoscope|Unknown
+2025-08-22 23:22:03|tqm|evan|sm|cz|midgargs|Unknown
+2025-08-23 01:23:06|binaclepinnacle|jackmartin|bc|sm|homebrew|pile
+2025-08-23 01:23:06|binaclepinnacle|jackmartin|cz|im|hmz|science pile
+2025-08-23 01:23:06|binaclepinnacle|jackmartin|if|sp|hokai|reliakale
+2025-08-23 01:23:06|jackmartin|binaclepinnacle|sf|eb|freight|hyperzone
+2025-08-23 02:11:33|binaclepinnacle|hai|cz|nt|hmz|muglord
+2025-08-23 02:11:33|binaclepinnacle|hai|hg|sp|teleimps not to be confused with telimps|dinoroots
+2025-08-23 02:11:33|binaclepinnacle|hai|ro|sm|hmr|healmidgargs
+2025-08-23 02:11:33|hai|binaclepinnacle|bc|eb|control|hyperzone
+2025-08-23 14:34:16|hayri|tqm|bc|rb|Unknown|cardsbolt
+2025-08-23 14:34:16|tqm|hayri|bc|im|sham control|Unknown
+2025-08-23 14:34:16|tqm|hayri|cz|hg|apotk|Unknown
+2025-08-23 14:34:16|tqm|hayri|im|gs|kaleidoscope|Unknown
+2025-08-23 16:11:17|bakes|huyn|bc|eb|neurotherapy|huynea
+2025-08-23 16:11:17|bakes|huyn|if|cc|no hokai stars|offensive
+2025-08-23 16:11:17|huyn|bakes|gk|if|tempogod|no hokai stars
+2025-08-23 16:11:17|huyn|bakes|if|ro|kutom's will|midrose
+2025-08-23 16:11:17|huyn|bakes|nt|ro|piport|midrose
+2025-08-25 20:51:52|cursed|jackmartin|cz|if|meta apotk|maker deadly pile
+2025-08-25 20:51:52|cursed|jackmartin|gs|rb|fry bpl|boltbolt
+2025-08-25 20:51:52|cursed|jackmartin|rb|ro|poggerazzi|fmr
+2025-08-25 20:51:52|jackmartin|cursed|sf|zm|freight|modded pyro
+2025-08-28 20:40:49|binaclepinnacle|cursed|bc|im|starch merchant|scope with trickster
+2025-08-28 20:40:49|binaclepinnacle|cursed|cz|zm|hmz|modded pyro
+2025-08-28 20:40:49|cursed|binaclepinnacle|rb|ro|poggerazzi|hmr
+2025-08-28 20:40:49|cursed|binaclepinnacle|ro|if|rmr|no-hokai
+2025-08-28 20:40:49|cursed|binaclepinnacle|sp|hg|modded radiotherapy|teleimps commonly mistaken for telimps
+2025-08-29 23:09:56|lolatopia|slewer|ro|eb|brose|splash gargs
+2025-08-29 23:09:56|lolatopia|slewer|sb|ct|modded telimps|mud
+2025-08-29 23:09:56|slewer|lolatopia|nc|rb|cycle|marxbolt
+2025-08-29 23:09:56|slewer|lolatopia|pb|bc|trickstace|dino counter
+2025-08-29 23:09:56|slewer|lolatopia|rb|cc|pogger|tim hortons
+2025-09-07 15:49:41|cursed|hai|sf|sm|cosmoss heal pile|midgargs without gargs
+2025-09-07 15:49:41|hai|cursed|gk|sm|valanga|smash or pass
+2025-09-07 15:49:41|hai|cursed|hg|cz|token telimps|apotk
+2025-09-07 15:49:41|hai|cursed|ro|rb|big rose|pogger
+2025-09-09 06:08:05|mono|dodgygog|cz|sm|venice mod|sc
+2025-09-09 06:08:05|mono|dodgygog|gk|im|omose|science
+2025-09-09 06:08:05|mono|dodgygog|im|sf|pile|i'm sowwee :
+2025-09-10 15:08:14|boyca|stingray|bf|ct|nobody respects raiser|going nuts ft. poppies
+2025-09-10 15:08:14|boyca|stingray|cc|eb|goodstuff aggro|gigifts control
+2025-09-10 15:08:14|boyca|stingray|eb|gk|splash gargs|redundancy
+2025-09-10 15:24:31|jackmartin|keira|bf|gs|alchemic|beanpealeafy
+2025-09-10 15:24:31|keira|jackmartin|ct|nt|amphibious|gorgonzola
+2025-09-10 15:24:31|keira|jackmartin|nt|gs|flagswarm 2.0|birdshadow
+2025-09-10 15:24:31|keira|jackmartin|pb|gs|valktrickster hybrid 3.0|birdshadow
+2025-09-10 16:47:12|tornillo|xera|nc|if|control|potential stars
+2025-09-10 16:47:12|xera|tornillo|bf|gk|quinjet dino|conjure mid pile
+2025-09-10 16:47:12|xera|tornillo|cz|eb|sun shroom apotk|aggro
+2025-09-10 16:47:12|xera|tornillo|ro|rb|neo hmr|sports <:jerry:1413536791859822602>
+2025-09-10 16:58:21|ocean man|walter|sm|cc|pabloyezeys|aggro
+2025-09-10 16:58:21|walter|ocean man|bf|cc|fent bend|reflourished
+2025-09-10 16:58:21|walter|ocean man|gs|eb|lpb|gargstar22
+2025-09-10 16:58:21|walter|ocean man|sb|gk|limerence|august 14th
+2025-09-10 19:25:49|bakes|xera|bc|bf|neurotherapy|quinjet dino
+2025-09-10 19:25:49|xera|bakes|ct|hg|startron 2|telimps
+2025-09-10 19:25:49|xera|bakes|nt|ro|muglord|hmr
+2025-09-10 19:25:49|xera|bakes|sf|hg|nowy cosinus|telimps
+2025-09-10 23:53:12|tqm|alan|im|cc|kaleidoscope|1.61 hate nibble
+2025-09-10 23:53:12|tqm|alan|sf|sm|fig lottery|1.61 mid-heal
+2025-09-10 23:53:12|tqm|alan|sp|sb|radiotherapy|1.61 aggro pile
+2025-09-12 17:15:26|cursed|hai|gs|rb|fry bpl|terrify bolt bolt
+2025-09-12 17:15:26|cursed|hai|sm|gs|smash or pass|neo yuletide
+2025-09-12 17:15:26|cursed|hai|wk|sm|heal pile|terrify midgargs
+2025-09-12 17:15:26|hai|cursed|cc|bf|outburst|the anti-anti
+2025-09-12 17:15:26|hai|cursed|eb|cc|agent egg|busted rings pea pile
+2025-09-12 23:15:52|jackmartin|keira|bc|pb|sith|new valkster :jerry:
+2025-09-12 23:15:52|jackmartin|keira|bf|gk|raiser package omg shortbow reference|fry gravispresso
+2025-09-12 23:15:52|jackmartin|keira|cz|bf|venice i think?|ai deck
+2025-09-12 23:15:52|jackmartin|keira|hg|sp|modded limerence on the wrong hero|radiotherapy
+2025-09-12 23:15:52|jackmartin|keira|if|ct|maker deadly tempo|fry betamphibious
+2025-09-12 23:15:52|jackmartin|keira|nc|rb|midrange|bolt bolt
+2025-09-12 23:15:52|jackmartin|keira|pb|cz|trickstache|control into magspresso ultrapile
+2025-09-12 23:15:52|jackmartin|keira|rb|gs|bolt bolt|bpl
+2025-09-12 23:15:52|jackmartin|keira|ro|hg|ramp rose|conjure pile
+2025-09-12 23:15:52|jackmartin|keira|wk|eb|conjure mid|unlife egg swimmer pile
+2025-09-12 23:15:52|jackmartin|keira|zm|wk|db lawnmower|force field soul patch :jerry:
+2025-09-12 23:15:52|keira|jackmartin|cc|im|fry "leafy pot"|portal gun
+2025-09-12 23:15:52|keira|jackmartin|if|sp|unlife egg swarm|reliakale ii
+2025-09-12 23:15:52|keira|jackmartin|im|gk|telepets|moonbean mop
+2025-09-12 23:15:52|keira|jackmartin|nc|nt|cyclecap|conjure
+2025-09-12 23:15:52|keira|jackmartin|nt|sf|abysmal dogshit|freight
+2025-09-12 23:15:52|keira|jackmartin|ro|eb|fry toxic ramp|homemade midgargs
+2025-09-12 23:15:52|keira|jackmartin|sf|sm|shitty aggro|luminous
+2025-09-12 23:15:52|keira|jackmartin|zm|gs|flag swarm|xera birdshadow
+2025-09-12 23:36:18|boyca|ocean man|bc|nt|control|icebox
+2025-09-12 23:36:18|boyca|ocean man|cc|hg|goodstuff aggro|teleimps/hero repeat
+2025-09-12 23:36:18|boyca|ocean man|eb|sf|splash gargs|fig lottery
+2025-09-12 23:36:18|boyca|ocean man|gs|sb|boggy volcano|teleimps
+2025-09-12 23:36:18|boyca|ocean man|if|cc|no hokai stars|reflourished
+2025-09-12 23:36:18|boyca|ocean man|im|sp|bakery|radiotherapy
+2025-09-12 23:36:18|boyca|ocean man|rb|bc|bolt bolt|ahmtroicehihi
+2025-09-12 23:36:18|boyca|ocean man|ro|rb|midded modrose|uncrackabolt
+2025-09-12 23:36:18|boyca|ocean man|sf|if|maker modded latam tempo|spacestars
+2025-09-12 23:36:18|boyca|ocean man|wk|sm|chemo|pabloyeezys
+2025-09-12 23:36:18|boyca|ocean man|zm|cz|chimera|leafystrike
+2025-09-12 23:36:18|ocean man|boyca|eb|nc|gargstar22|control
+2025-09-12 23:36:18|ocean man|boyca|gk|nt|august 14th|warlord mug
+2025-09-12 23:36:18|ocean man|boyca|nc|pb|toyota controlla|trickstache
+2025-09-12 23:36:18|ocean man|boyca|ro|hg|hmr|teleimps
+2025-09-12 23:36:18|ocean man|boyca|zm|gk|pyrostar|get
+2025-09-13 20:16:07|may|slewer|nc|eb|kalenana mid|flummox
+2025-09-13 20:16:07|may|slewer|rb|cc|cardsbolt|savage
+2025-09-13 20:16:07|may|slewer|sf|im|enviroflare|portal gun
+2025-09-13 20:16:07|slewer|may|cz|hg|aporings|telimps
+2025-09-13 23:18:02|first hero|mono|cc|bf|skull knight|midrange
+2025-09-13 23:18:02|first hero|mono|cz|nt|cheap trick|slugged
+2025-09-13 23:18:02|first hero|mono|eb|bc|garg maker|watertina
+2025-09-13 23:18:02|first hero|mono|gk|im|huynknuckles|pile
+2025-09-13 23:18:02|first hero|mono|hg|cz|ykm|cheap trick
+2025-09-13 23:18:02|first hero|mono|if|sp|glizzy control|pile
+2025-09-13 23:18:02|first hero|mono|im|gs|lurch > qb|bird
+2025-09-13 23:18:02|first hero|mono|nt|wk|nt weird dogshit|drunkmeister
+2025-09-13 23:18:02|first hero|mono|rb|ro|bolt bolt|deck sucks
+2025-09-13 23:18:02|first hero|mono|zm|nc|lawnmower|trules
+2025-09-13 23:18:02|mono|first hero|cc|sm|speedway|kfc
+2025-09-13 23:18:02|mono|first hero|eb|bc|ingea|sucker puncher
+2025-09-13 23:18:02|mono|first hero|eb|ro|ingea|hmr
+2025-09-13 23:18:02|mono|first hero|gk|pb|freaky knuckles|trickstache
+2025-09-13 23:18:02|mono|first hero|hg|nc|conjure|kiyoko hardcarry
+2025-09-13 23:18:02|mono|first hero|if|sp|no hokai stars|very boring deck
+2025-09-13 23:18:02|mono|first hero|pb|sf|qss|go beyond
+2025-09-13 23:18:02|mono|first hero|rb|gs|bolt^2|d4c love train
+2025-09-13 23:18:02|mono|first hero|sf|bf|honeybreaker|doflamingo'smalevolentshrine2
+2025-09-13 23:18:02|mono|first hero|sm|wk|midgargs|unlosaknight
+2025-09-13 23:18:02|mono|first hero|zm|bc|chimera|sucker puncher
+2025-09-15 01:38:20|hexada|walter|bf|nc|lock the hex|saul brickmen
+2025-09-15 01:38:20|hexada|walter|cc|sm|tempo slop|faster midgargs
+2025-09-15 01:38:20|hexada|walter|eb|gs|i hate aggro|lpb
+2025-09-15 01:38:20|hexada|walter|nc|if|frosty bounce|spacestars
+2025-09-15 01:38:20|hexada|walter|rb|wk|hex bolt bolt mod|chemo
+2025-09-15 01:38:20|hexada|walter|ro|eb|heal me briar|dino dino jungle
+2025-09-15 01:38:20|hexada|walter|sf|pb|ramp pile|trickstache
+2025-09-15 01:38:20|walter|hexada|bf|bc|fent bend|control
+2025-09-15 01:38:20|walter|hexada|cc|nt|aggro|flag coffee
+2025-09-15 01:38:20|walter|hexada|cz|sm|venice|temporist
+2025-09-15 01:38:20|walter|hexada|gk|pb|esspresso aggro|vmb
+2025-09-15 01:38:20|walter|hexada|hg|gk|teleimps|dinoroots
+2025-09-15 01:38:20|walter|hexada|im|cz|controla saur|ramp pile
+2025-09-15 01:38:20|walter|hexada|nt|sp|smash mouth|dinoroots again ig
+2025-09-15 01:38:20|walter|hexada|rb|gs|cardsbolt|pile
+2025-09-15 01:38:20|walter|hexada|sf|hg|go beyond|testing deck stache
+2025-09-15 01:38:20|walter|hexada|sp|zm|dinoroots|pyro
+2025-09-15 13:41:55|tqm|wild|gk|sb|starch rings|aggro
+2025-09-15 13:41:55|tqm|wild|nc|nt|fungi|control
+2025-09-15 13:41:55|tqm|wild|rb|cc|cardsbolt|thamuz
+2025-09-15 14:42:43|dodgygog|slewer|cc|im|leafy moss|portal gun
+2025-09-15 14:42:43|dodgygog|slewer|sm|nc|sc|cycle
+2025-09-15 14:42:43|slewer|dodgygog|cz|sm|aportk|sc
+2025-09-15 14:42:43|slewer|dodgygog|eb|cc|flummox|leafy moss
+2025-09-15 14:42:43|slewer|dodgygog|im|ct|portal gun|pile
+2025-09-15 16:32:22|first hero|tcc|cc|bf|mono gang into lotv bonk|tcc 1.6 boris lock the bathroom v12
+2025-09-15 16:32:22|tcc|first hero|gs|eb|tcc 1.61 tribrid v26|first hero garg maker
+2025-09-15 16:32:22|tcc|first hero|nc|nt|tcc boris xera natz toyota corolla v8|idk i only saw 2 imposters, 1 hole, 1 lba, 1 tomb raiser, and their conjures
+2025-09-15 16:32:22|tcc|first hero|nt|gs|tcc 1.6 mergetuna v34|first hero customised sow the seeds
+2025-09-16 19:21:11|bakes|xera|bc|pb|neurotherapy|reverse catster
+2025-09-16 19:21:11|bakes|xera|bf|sf|racism|jp flare
+2025-09-16 19:21:11|bakes|xera|cc|eb|log bait|botagargs
+2025-09-16 19:21:11|bakes|xera|cz|nt|venice|gomorrah
+2025-09-16 19:21:11|bakes|xera|eb|gk|seacret|classic omose
+2025-09-16 19:21:11|bakes|xera|if|sp|spacestars|dinoroots
+2025-09-16 19:21:11|bakes|xera|nc|sm|turles|non-do mid
+2025-09-16 19:21:11|bakes|xera|pb|wk|qss|the story of adidon
+2025-09-16 19:21:11|bakes|xera|rb|nc|bolt bolt|pair of a kind
+2025-09-16 19:21:11|bakes|xera|ro|sb|midrose|limerence
+2025-09-16 19:21:11|bakes|xera|sf|rb|aggro|bolt bolt
+2025-09-16 19:21:11|xera|bakes|bf|gk|quinjet dino|espresso aggro
+2025-09-16 19:21:11|xera|bakes|cc|sm|plant mop mod|midgargs
+2025-09-16 19:21:11|xera|bakes|gs|zm|d4c new|pyro
+2025-09-16 19:21:11|xera|bakes|ro|im|neo hmr|bakery
+2025-09-18 04:42:56|alan|tornillo|bf|gs|1.61 unfreeze the cowboy|un nuevo inicio
+2025-09-18 04:42:56|alan|tornillo|eb|cz|1.61 explosive area|ctzilla
+2025-09-18 04:42:56|alan|tornillo|if|sp|1.61 deadly splash pile|bartin
+2025-09-18 04:42:56|alan|tornillo|rb|cc|modded bolt bolt|logabate
+2025-09-18 04:42:56|alan|tornillo|ro|rb|modded hmr|my old friend the rubber chicken
+2025-09-18 04:42:56|alan|tornillo|sp|if|1.61 fig roots|spacestars
+2025-09-18 04:42:56|alan|tornillo|zm|sf|1.61 flamecho|michael tempo
+2025-09-18 04:42:56|tornillo|alan|bc|im|mid range|1.61 unsynchronized
+2025-09-18 04:42:56|tornillo|alan|eb|cc|healgargs22|1.61 hate nibble
+2025-09-18 04:42:56|tornillo|alan|gk|nt|supremacy gk|1.61 gravest sport
+2025-09-18 04:42:56|tornillo|alan|hg|nc|jdmustache|1.61 fig midrange
+2025-09-18 04:42:56|tornillo|alan|im|cz|environment trouble|1.61 apollination
+2025-09-18 04:42:56|tornillo|alan|nc|sm|controlla|1.61 mid-heal
+2025-09-18 04:42:56|tornillo|alan|nt|sf|piportnillo|1.61 rng control
+2025-09-18 04:42:56|tornillo|alan|pb|ct|falsetache|1.61 tronmpo
+2025-09-18 04:42:56|tornillo|alan|ro|sb|heal me|1.61 aggro pile
+2025-09-18 04:42:56|tornillo|alan|sm|wk|the sun bothers me|1.61 heart control
+2025-09-18 04:42:56|tornillo|alan|zm|gs|coffee mech|1.61 pile
+2025-09-18 20:04:30|bakes|hexada|ct|hg|startron|ramp
+2025-09-18 20:04:30|bakes|hexada|zm|nc|pyromech|hex paradise
+2025-09-18 20:04:30|hexada|bakes|bf|sf|lock the hex|latam tempo
+2025-09-18 20:04:30|hexada|bakes|cc|sm|tempo carry|midgargs
+2025-09-18 20:04:30|hexada|bakes|ro|nt|heal me briar|muglord
+2025-09-18 20:37:45|autony|mono|bf|ro|lock the bathroom|fard
+2025-09-18 20:37:45|autony|mono|gk|hg|pea tempo|conjure
+2025-09-18 20:37:45|autony|mono|rb|wk|cardsbolt|rampmeister
+2025-09-18 20:37:45|mono|autony|nc|hg|turles|otk blob
+2025-09-18 20:37:45|mono|autony|nt|sf|slugged|psychoflare
+2025-09-20 00:43:57|mono|walter|bc|sm|watertina mod|unlucky
+2025-09-20 00:43:57|mono|walter|bf|nc|midrange|xera's toyota controlla
+2025-09-20 00:43:57|mono|walter|cc|im|speedway|science pile
+2025-09-20 00:43:57|mono|walter|eb|sf|test|pile
+2025-09-20 00:43:57|mono|walter|gk|pb|omose mod|buff pb
+2025-09-20 00:43:57|mono|walter|gs|zm|bird|buff zm
+2025-09-20 00:43:57|mono|walter|hg|cc|modded teleimps|log bait idk
+2025-09-20 00:43:57|mono|walter|if|wk|hokaistars|control
+2025-09-20 00:43:57|mono|walter|sf|if|honeybreaker|spacestars
+2025-09-20 00:43:57|mono|walter|sm|gk|midgargs|play gatling challenge
+2025-09-20 00:43:57|mono|walter|zm|bc|chimera|watertron
+2025-09-20 00:43:57|walter|mono|bf|nc|lock the zombot|turles
+2025-09-20 00:43:57|walter|mono|cz|pb|pea patch|vss
+2025-09-20 00:43:57|walter|mono|eb|ro|piano man|fuck this hero
+2025-09-20 00:43:57|walter|mono|gs|nt|rare gs win|slugged
+2025-09-20 00:43:57|walter|mono|hg|cz|teleswabbie|emperor
+2025-09-20 00:43:57|walter|mono|rb|wk|autony's cardsbolt|this hero sucks
+2025-09-20 00:43:57|walter|mono|ro|im|buff ro|monostache
+2025-09-20 03:46:51|hai|jackmartin|bc|eb|4x4 control|is a good hero
+2025-09-20 03:46:51|hai|jackmartin|gs|sm|5 lines pile|luminous comp mod
+2025-09-20 03:46:51|hai|jackmartin|nc|eb|i dont have a name for this list hmm v8|is a good hero
+2025-09-20 03:46:51|jackmartin|hai|gs|bf|xera birdshadow|deadlocked
+2025-09-20 03:46:51|jackmartin|hai|sf|sb|freight|limerence
+2025-09-20 13:24:28|tqm|xera|cc|eb|repeatflourished|botagargs
+2025-09-20 13:24:28|tqm|xera|ct|pb|wettron|reverse catster
+2025-09-20 13:24:28|tqm|xera|sm|sf|midgargs|mushroom cloud bm pick
+2025-09-20 13:24:28|xera|tqm|sp|hg|radiotherapy|telimps
+2025-09-20 21:02:42|hexada|stingray|gk|im|dinoroots v3|bad touch
+2025-09-20 21:02:42|hexada|stingray|gs|eb|leafy peas|piano man
+2025-09-20 21:02:42|hexada|stingray|sb|wk|test|chemotherapy
+2025-09-20 21:02:42|stingray|hexada|cz|zm|leafy strike|pyro
+2025-09-21 16:05:39|bayoyo|evan|cz|im|high roll|pile
+2025-09-21 16:05:39|bayoyo|evan|nt|ro|high roll|pile
+2025-09-21 16:05:39|evan|bayoyo|bc|im|pure skill|multiple misplays
+2025-09-21 16:05:39|evan|bayoyo|if|sp|pure skill|multiple misplays
+2025-09-21 16:05:39|evan|bayoyo|zm|gk|pure skill|multiple misplays
+2025-09-22 18:16:56|coffee|hayri|ct|sm|mud|Unknown
+2025-09-22 18:16:56|hayri|coffee|gs|zm|pile|pile
+2025-09-22 18:16:56|hayri|coffee|sm|sf|pile|pile
+2025-09-22 18:22:41|alan|xera|bf|cc|1.61 unfreeze the cowboy|plant mop
+2025-09-22 18:22:41|alan|xera|rb|sf|bolt bolt|jp briar
+2025-09-22 18:22:41|xera|alan|hg|gs|telimps|1.61 pea patch propaganda
+2025-09-22 18:22:41|xera|alan|nc|sm|pair of a kind|1.61 mid heal
+2025-09-22 18:22:41|xera|alan|zm|nc|dozzamech|1.61 fig midrange
+2025-09-23 01:18:32|mono|slewer|gs|rb|birb|pogger mod
+2025-09-23 01:18:32|mono|slewer|im|cz|monostache|aportk
+2025-09-23 01:18:32|mono|slewer|rb|nc|bolt bolt|cycle
+2025-09-23 01:18:32|slewer|mono|eb|cc|flummox|speedway
+2025-09-23 01:18:32|slewer|mono|im|ro|portal gun|this hero sucks
+2025-09-25 15:36:36|cursed|keira|cz|eb|apotk|splash gargs
+2025-09-25 15:36:36|cursed|keira|if|gk|spacestars|control
+2025-09-25 15:36:36|cursed|keira|sf|hg|salt pile|pile
+2025-09-25 15:36:36|keira|cursed|gs|pb|fry bpl|trickstache
+2025-09-25 15:36:36|keira|cursed|if|sp|ducky carried|dinoroots
+2025-09-25 17:05:00|boyca|tornillo|bc|im|control|whatever
+2025-09-25 17:05:00|boyca|tornillo|cc|sm|goodstuff aggro|whatever
+2025-09-25 17:05:00|boyca|tornillo|gs|eb|boggy volcano|whatever
+2025-09-25 17:05:00|boyca|tornillo|im|bc|waxster|whatever
+2025-09-25 17:05:00|boyca|tornillo|nc|pb|control|whatever
+2025-09-25 17:05:00|boyca|tornillo|pb|sf|trickstache|whatever
+2025-09-25 17:05:00|boyca|tornillo|rb|wk|bolt bolt|whatever
+2025-09-25 17:05:00|boyca|tornillo|sf|rb|maker modded latam tempo|whatever
+2025-09-25 17:05:00|boyca|tornillo|sm|sp|gaggle of gargs #3|whatever
+2025-09-25 17:05:00|boyca|tornillo|sp|nt|control|whatever
+2025-09-25 17:05:00|boyca|tornillo|zm|nc|lawnmower|whatever
+2025-09-25 17:05:00|tornillo|boyca|cc|nt|whatever|warlord mug
+2025-09-25 17:05:00|tornillo|boyca|cz|if|whatever|no hokai stars
+2025-09-25 17:05:00|tornillo|boyca|hg|gk|whatever|get
+2025-09-25 17:05:00|tornillo|boyca|if|wk|whatever|chemo
+2025-09-25 22:14:53|mono|ocean man|bf|cc|better pile|reflourished
+2025-09-25 22:14:53|mono|ocean man|cc|hg|modded speedway|teleimps
+2025-09-25 22:14:53|mono|ocean man|ro|bf|pile|lock the bathroom
+2025-09-26 17:23:30|bakes|first hero|gk|sm|espresso aggro|kfc
+2025-09-26 17:23:30|first hero|bakes|bc|nt|sucker puncher|muglord
+2025-09-26 17:23:30|first hero|bakes|nc|eb|cyoungermartinburn|seacret
+2025-09-26 17:23:30|first hero|bakes|zm|gs|lawnmower|boggy volcano
+2025-09-26 22:38:57|alan|tornillo|eb|sp|1.61 explosive area|roots control
+2025-09-26 22:38:57|alan|tornillo|gs|nt|1.61 pile|piportnillo
+2025-09-26 22:38:57|alan|tornillo|sb|gk|1.61 aggro pile|green supremacy
+2025-09-26 22:38:57|tornillo|alan|im|nc|environment trouble|1.61 fig midrange
+2025-09-26 22:38:57|tornillo|alan|sf|bf|micheal tempo|1.61 unfreeze the cowboy
+2025-09-27 16:51:56|keira|stingray|im|gk|blobtish|redundancy
+2025-09-27 16:51:56|keira|stingray|rb|wk|poggerazzi|chemotherapy
+2025-09-27 16:51:56|keira|stingray|sf|rb|aggro|igma blob chum
+2025-09-27 18:02:35|tqm|walter|bc|eb|sham control|ddj
+2025-09-27 18:02:35|tqm|walter|cz|nt|apotk|slugged
+2025-09-27 18:02:35|tqm|walter|zm|nc|lawnmower|toyota controlla
+2025-09-27 18:02:35|walter|tqm|nc|bf|toyota controlla|lock boris out
+2025-09-27 20:28:54|slewer|xera|cz|eb|aportk|piano man
+2025-09-27 20:28:54|slewer|xera|eb|ro|flummox|violet midrose
+2025-09-27 20:28:54|slewer|xera|im|ro|portal gun|violet midrose
+2025-09-27 20:28:54|slewer|xera|sp|hg|dinoroots|telimps
+2025-09-27 20:28:54|xera|slewer|ct|rb|kendrick limear|pogger
+2025-09-27 23:33:10|tcc|boyca|cz|zm|first hero coffmoss apotk v7|chimera
+2025-09-27 23:33:10|tcc|boyca|ro|rb|mono watchdog v4|voof uncrackabolt
+2025-09-27 23:33:10|tcc|boyca|zm|ro|mono vortice starmech v17|temprose
+2025-09-28 06:14:25|mono|hai|hg|wk|dues ex machina|:3ggro
+2025-09-28 06:14:25|mono|hai|im|sf|monostache|heal burn
+2025-09-28 06:14:25|mono|hai|wk|pb|rampmeister|qb stached
+2025-09-28 14:53:14|alan|first hero|hg|gk|highlander|huyn vietaggro
+2025-09-28 14:53:14|alan|first hero|zm|gs|1.61 flamecho|d4c love train
+2025-09-28 14:53:14|first hero|alan|hg|sf|ykm|1.61 rng control
+2025-09-28 14:53:14|first hero|alan|if|ct|glizzy control|1.61 tronmpo
+2025-09-28 14:53:14|first hero|alan|wk|bf|unlosaknight|1.61 unfreeze the cowboy
+2025-09-28 16:35:48|boyca|huyn|bf|bc|winstealer made this vcrayzo|ctrl
+2025-09-28 16:35:48|boyca|huyn|cz|eb|modded valuezilla|fh's list
+2025-09-28 16:35:48|boyca|huyn|eb|gk|splash gargs|rootpack
+2025-09-28 16:35:48|boyca|huyn|im|cz|waxster|sunshroom
+2025-09-28 16:35:48|huyn|boyca|bf|sf|vampy|maker modded latam tempo
+2025-09-28 16:35:48|huyn|boyca|im|ct|vietstaches|amphibggro beans
+2025-09-28 16:35:48|huyn|boyca|sm|gs|pablo's wall|boggy volcano
+2025-09-28 18:42:32|cursed|tqm|cz|sm|Unknown|Unknown
+2025-09-28 18:42:32|cursed|tqm|rb|cc|Unknown|Unknown
+2025-09-28 18:42:32|tqm|cursed|bc|im|Unknown|Unknown
+2025-09-28 18:42:32|tqm|cursed|bf|sf|Unknown|Unknown
+2025-09-28 18:42:32|tqm|cursed|gk|zm|Unknown|Unknown
+2025-09-28 18:42:32|tqm|cursed|zm|gs|Unknown|Unknown
+2025-09-28 19:26:45|boyca|cursed|gk|rb|get|poggerazzi
+2025-09-28 19:26:45|boyca|cursed|nc|zm|turles|lawnmower
+2025-09-28 19:26:45|boyca|cursed|sm|sp|gaggle of gargs #3|root control
+2025-09-28 19:26:45|cursed|boyca|ro|sb|rmr|teleimps
+2025-09-28 23:42:04|cursed|tcc|gk|zm|salt espresso aggro|mono vortice star mech v17
+2025-09-28 23:42:04|cursed|tcc|if|sp|mono 1.6 no-hokai|xera 1.61 dinoroots v6
+2025-09-28 23:42:04|cursed|tcc|im|cz|otk trickster|tcc 1.61 mergezilla v59
+2025-09-28 23:42:04|cursed|tcc|nc|sb|?|sushi 1.6 teleimps v2.13
+2025-09-28 23:42:04|cursed|tcc|pb|gk|yoyo 1.6 trickstache|salt espresso aggro
+2025-09-28 23:42:04|cursed|tcc|sf|bf|jp flare|boris 1.6 lock the bathroom v14
+2025-09-28 23:42:04|tcc|cursed|cc|rb|tcc 1.61 commonia v14|1.6 poggerrazzi
+2025-09-28 23:42:04|tcc|cursed|eb|cz|mono 1.6 ingea v10|apotk
+2025-09-28 23:42:04|tcc|cursed|gs|bf|pillowy 1.61 cartas mejores v16|midrange
+2025-09-28 23:42:04|tcc|cursed|if|bc|tcc 1.6 星之崩壞 v12|roots control
+2025-09-28 23:42:04|tcc|cursed|im|cc|slew portal gun v10|other
+2025-09-28 23:42:04|tcc|cursed|pb|gs|yoyo trickstache v26|leafy
+2025-09-28 23:42:04|tcc|cursed|rb|sp|tryhard boris 1.6 boltbolt v26|roots
+2025-09-28 23:42:04|tcc|cursed|ro|zm|mono watchdog v4|aggro
+2025-09-28 23:42:04|tcc|cursed|sf|sm|voof 1.61 jp grand v105|midgargs
+2025-09-28 23:42:04|tcc|cursed|sm|wk|creeper furmade 1.6 pepegargs v16|salt chemo modded
+2025-09-28 23:42:04|tcc|cursed|wk|nt|tcc 1.61 flower my fruity life v15|midrange
+2025-09-29 19:41:28|slewer|tqm|cz|im|aportk|kaleidoscope
+2025-09-29 19:41:28|slewer|tqm|eb|sf|flummox|fig lottery
+2025-09-29 19:41:28|slewer|tqm|im|gk|portal gun|amongustherapy
+2025-09-29 19:41:28|tqm|slewer|bf|ro|lock boris out|hmr
+2025-09-29 19:41:28|tqm|slewer|gs|zm|peabound|five finger discount
+2025-09-29 19:41:28|tqm|slewer|ro|sb|heal midrose|sb is the worst hero in this whole game
+2025-09-29 19:41:28|tqm|slewer|sm|nc|midgargs|cycle
