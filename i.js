@@ -189,8 +189,7 @@ async function createSpreadsheet() {
           );
 
           if (response.ok) {
-            const data = await response.json();
-            const content = atob(data.content);
+            const content = await response.text();
             const lines = content
               .split("\n")
               .filter((line) => line.trim() !== "");
