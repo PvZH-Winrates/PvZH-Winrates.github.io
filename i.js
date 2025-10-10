@@ -6,7 +6,7 @@ async function fetchPatchesFromGit() {
     );
 
     //console.log("Raw response:", await response.text());
-    const data = await response.text();
+    const data = await response.json();
 
     // Filter only directories (patches)
     const patches = data.filter((item) => item.type === "dir");
