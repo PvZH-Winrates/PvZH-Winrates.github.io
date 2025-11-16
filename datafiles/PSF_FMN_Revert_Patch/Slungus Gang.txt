@@ -148,3 +148,27 @@
 2025-09-14 15:01:13|fluke|hai|gs|if|broth gang|lowrolling
 2025-09-14 15:01:13|fluke|hai|zm|bc|buff zm|control
 2025-09-14 15:01:13|hai|fluke|sp|nt|dinoroots|mid
+2025-09-30 19:23:42|bakes|xera|bc|rb|neurotherapy|bolt bolt
+2025-09-30 19:23:42|bakes|xera|rb|gk|bolt bolt|@dericop
+2025-09-30 19:23:42|bakes|xera|sp|bf|radiotherapy|léger de main
+2025-09-30 19:23:42|xera|bakes|ro|if|neo hmr|no hokai stars
+2025-10-12 21:02:31|fluke|bakes|bf|bc|shinkiro|neurotherapy
+2025-10-12 21:02:31|fluke|bakes|if|bc|potentialstars|neurotherapy
+2025-10-12 21:02:31|fluke|bakes|nc|nt|cyburn|muglord
+2025-10-12 22:26:08|boyca|fluke|eb|sf|splash gargs|inertia
+2025-10-12 22:26:08|boyca|fluke|sf|im|maker modded latam tempo|test 11
+2025-10-12 22:26:08|fluke|boyca|ct|hg|decapath|jdmustache
+2025-10-12 22:26:08|fluke|boyca|gk|if|pea patch|no hokai stars
+2025-10-12 22:26:08|fluke|boyca|if|gs|potentialstars|boggy volcano
+2025-10-20 00:31:55|alan|fluke|cz|im|1.61 apollination|test 12
+2025-10-20 00:31:55|alan|fluke|if|cc|1.61 deadly splash pile|stats gang
+2025-10-20 00:31:55|alan|fluke|rb|sf|modded bolt bolt|inertia
+2025-10-20 00:31:55|fluke|alan|bf|sp|potentialfreeze|1.61 fig roots
+2025-10-20 00:31:55|fluke|alan|cz|zm|pile|1.61 flamecho
+2025-10-20 00:31:55|fluke|alan|gk|sm|pea patch|1.61 mid-heal
+2025-10-20 00:31:55|fluke|alan|rb|ct|cardsbolt|1.61 ~~tronmpo~~
+2025-10-20 01:41:19|alan|fluke|gk|bf|1.61 trying to tempo|wrong deck
+2025-10-20 01:41:19|alan|fluke|nt|ro|1.61 gravest sport|hmr
+2025-10-20 01:41:19|alan|fluke|sm|gs|1.61 mid-heal|abeans
+2025-10-20 01:41:19|alan|fluke|sp|rb|1.61 fig roots|cardsbolt
+2025-10-20 01:41:19|fluke|alan|hg|cc|pile|1.61 hate nibble

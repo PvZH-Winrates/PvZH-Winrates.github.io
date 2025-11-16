@@ -4,6 +4,7 @@ a_person
 adil
 akmn
 alan
+alan-vn
 aldogael
 alphamale
 amazatoad
@@ -28,6 +29,7 @@ cascade
 caustix
 chenchips
 cigamaltt
+codename
 coffee
 corredera
 crafty
@@ -64,6 +66,7 @@ general-vn
 gerby
 hai
 hases
+hausoftoes
 hayri
 hexada
 hung
@@ -88,6 +91,7 @@ kingfish
 lalemmm
 lang
 lanzhang
+lizchan
 ljtheone
 lnvanhh
 lobgesang
@@ -101,6 +105,7 @@ may
 michael
 miho
 mono
+mososaurus
 mr.m
 natz
 neewuk
@@ -134,9 +139,12 @@ solar-chan
 sonnnzz
 steel
 stingray
+stumped
+suneosan
 tbone
 tcc
 thatonestar
+the_1st_beholder
 themasteru
 tnguyen
 toby

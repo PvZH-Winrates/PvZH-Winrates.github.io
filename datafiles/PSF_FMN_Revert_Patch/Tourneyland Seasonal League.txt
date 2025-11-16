@@ -173,3 +173,180 @@
 2025-09-29 17:35:41|zzyzx|tcc|eb|sp|prodigal|xera 1.61 dinoroots v6
 2025-09-29 17:35:41|zzyzx|tcc|if|sf|hokai no stars|voof 1.61 jpgrand v106
 2025-09-29 17:35:41|zzyzx|tcc|ro|if|flower ramp|tcc 1.6 星之崩壞 v12
+2025-10-08 19:45:49|j.s|maker|im|gk|science-staches|peace and tranquility
+2025-10-08 19:45:49|maker|j.s|bc|zm|wound up windmill|pyraggro
+2025-10-08 19:45:49|maker|j.s|hg|nc|gravestache|turles mod
+2025-10-08 19:45:49|maker|j.s|nt|cz|1.61 piport|new apotk
+2025-10-08 19:45:49|maker|j.s|zm|cc|clocktowers beneath the sea|no pain, no gain
+2025-10-10 01:53:45|alan|tcc|cc|zm|1.61 hate nibble|mono vortice starmech v18
+2025-10-10 01:53:45|tcc|alan|cc|zm|tcc 1.61 commonia v14|1.61 flamecho
+2025-10-10 01:53:45|tcc|alan|cz|sm|first hero coffmoss apotk v7|1.61 mid-heal
+2025-10-10 01:53:45|tcc|alan|sf|eb|voof 1.61 jp grand v113|1.61 explosive area ~~pile~~
+2025-10-10 01:53:45|tcc|alan|sm|gk|creeper furmade 1.6 pepegargs v22|1.61 trying to tempo
+2025-10-10 20:03:00|hexada|slewer|hg|ro|diego teleimps|bean counter finish for me
+2025-10-10 20:03:00|hexada|slewer|if|sf|deadly instict|shrooms
+2025-10-10 20:03:00|hexada|slewer|ro|bf|ramp to your death|conjure
+2025-10-10 20:03:00|hexada|slewer|sf|im|hex latam tempo|portal gun
+2025-10-11 02:47:08|jackmartin|tornillo|eb|gk|bunnary22|green supremacy
+2025-10-11 02:47:08|jackmartin|tornillo|zm|sf|lawnmower|micheal tempo
+2025-10-11 02:47:08|tornillo|jackmartin|bc|if|él tio sam|maker deadly tempo
+2025-10-11 02:47:08|tornillo|jackmartin|if|sf|lapidary secrets|freight
+2025-10-11 02:47:08|tornillo|jackmartin|im|cz|environment trouble|cheap trick
+2025-10-11 02:47:08|tornillo|jackmartin|sm|gk|soltice|pile
+2025-10-12 18:44:38|valencia|zzyzx|cz|im|apotken|staches
+2025-10-12 18:44:38|valencia|zzyzx|rb|bc|masterbolt|sham control
+2025-10-12 18:44:38|valencia|zzyzx|sf|bf|sunny gang|great white north
+2025-10-12 18:44:38|zzyzx|valencia|gs|hg|cartas buenas|gravestache
+2025-10-12 18:44:38|zzyzx|valencia|sf|nt|cosinus|brick
+2025-10-12 18:44:38|zzyzx|valencia|sm|sp|mono midgargs|double
+2025-10-12 18:44:38|zzyzx|valencia|sp|if|rose-filled pączki|instinct
+2025-10-13 13:24:12|div|xera|cz|im|ramp pile|tempo leap
+2025-10-13 13:24:12|div|xera|eb|cz|aggro|cyclezilla
+2025-10-13 13:24:12|div|xera|ro|zm|flower hmr|dozzamech
+2025-10-13 13:24:12|div|xera|sm|cc|midgargs|devil in a new dress
+2025-10-13 13:24:12|xera|div|rb|gs|valuebolt|bpl
+2025-10-13 13:24:12|xera|div|sf|if|funnier flare|spacestars
+2025-10-17 20:08:26|tcc|valencia|cc|sm|tcc commonia v14|Unknown
+2025-10-17 20:08:26|tcc|valencia|cz|hg|first hero coffmoss apotk v7|why pick this hero
+2025-10-17 20:08:26|tcc|valencia|eb|sf|first hero garg maker v8|sun shroom pile
+2025-10-17 20:08:26|tcc|valencia|rb|cz|tcc telesterrazzi v45|sun shroom pile
+2025-10-17 20:08:26|valencia|tcc|ct|sm|bc control|creeper furmade 1.6 pepegargs v22
+2025-10-17 20:08:26|valencia|tcc|nt|nc|modded piport|1.61 cyclecap v26
+2025-10-18 01:06:20|jackmartin|mono|bc|im|midrange|monostache
+2025-10-18 01:06:20|jackmartin|mono|eb|gk|bunnary22|omose mod
+2025-10-18 01:06:20|jackmartin|mono|gk|eb|grass knuckles #1|ignea
+2025-10-18 01:06:20|jackmartin|mono|sb|gs|limerence|birdless
+2025-10-18 01:06:20|mono|jackmartin|bc|zm|watertina|lawnmower
+2025-10-18 01:06:20|mono|jackmartin|if|sf|hokaistars|freight
+2025-10-19 18:07:07|hexada|zzyzx|gk|zm|dinoroots|composite
+2025-10-19 18:07:07|hexada|zzyzx|hg|ct|teleimps|wettron modded
+2025-10-19 18:07:07|hexada|zzyzx|ro|im|ramp to your death|otk trickster
+2025-10-19 18:07:07|hexada|zzyzx|zm|cc|pyrostars|log bait
+2025-10-19 18:07:07|zzyzx|hexada|eb|sp|splash gargs|bartin
+2025-10-19 18:07:07|zzyzx|hexada|gs|if|cartas buenas|deadly instict
+2025-10-19 18:07:07|zzyzx|hexada|sf|rb|cosinus|bolt bolt
+2025-10-20 02:24:27|alan|tornillo|bf|bc|1.61 unfreeze the cowboy|él tio sam
+2025-10-20 02:24:27|tornillo|alan|cc|hg|logabate|highlander
+2025-10-20 02:24:27|tornillo|alan|cz|zm|ctmzilla 1.61|1.61 flamecho
+2025-10-20 02:24:27|tornillo|alan|eb|nc|healgargs22|1.61 fig midrange
+2025-10-20 02:24:27|tornillo|alan|rb|sf|poggerazi|1.61 rng control
+2025-10-23 18:41:09|slewer|div|cc|eb|temspresso|aggro
+2025-10-23 18:41:09|slewer|div|cz|zm|aportk|old chimera
+2025-10-23 18:41:09|slewer|div|eb|gk|flummox|leafy
+2025-10-23 18:41:09|slewer|div|im|sp|portal gun|dino roots
+2025-10-26 19:57:50|slewer|mono|cz|hg|aportk|Unknown
+2025-10-26 19:57:50|slewer|mono|eb|gk|flummox|Unknown
+2025-10-26 19:57:50|slewer|mono|im|nc|portal gun|Unknown
+2025-10-26 19:57:50|slewer|mono|nc|eb|cycle|Unknown
+2025-10-26 20:03:01|alan|valencia|cc|nt|1.61 hate nibble|Unknown
+2025-10-26 20:03:01|alan|valencia|cz|zm|1.61 apollination|Unknown
+2025-10-26 20:03:01|alan|valencia|eb|cc|1.61 explosive area|Unknown
+2025-10-26 20:03:01|alan|valencia|rb|sf|modded bolt bolt|Unknown
+2025-10-26 20:24:15|j.s|jackmartin|ct|sb|amphitron|limerence
+2025-10-26 20:24:15|j.s|jackmartin|rb|nc|boltbolt|cycle
+2025-10-26 20:24:15|jackmartin|j.s|bc|eb|midrange/control/idk|flummox
+2025-10-26 20:24:15|jackmartin|j.s|eb|cc|bunnary22|no pain, no gain
+2025-10-26 20:24:15|jackmartin|j.s|sf|if|freight|deadly splash
+2025-10-26 20:24:15|jackmartin|j.s|zm|cz|lawnmower|new apotk
+2025-10-27 04:23:22|hexada|tcc|gk|rb|Unknown|tcc telesterrazzi v45
+2025-10-27 04:23:22|hexada|tcc|zm|cz|Unknown|first hero coffmoss apotk v9
+2025-10-27 04:23:22|tcc|hexada|cc|eb|tcc commonia v14|Unknown
+2025-10-27 04:23:22|tcc|hexada|ct|hg|creeper 1.6 watertron v9|Unknown
+2025-10-27 04:23:22|tcc|hexada|eb|sf|first hero garg maker v8|Unknown
+2025-10-27 04:23:22|tcc|hexada|zm|ro|mono vortice starmech v18|Unknown
+2025-10-29 17:08:55|tornillo|zzyzx|cz|nt|sun gang|pro swarm
+2025-10-29 17:08:55|tornillo|zzyzx|nc|bf|controlla|great white north
+2025-10-29 17:08:55|tornillo|zzyzx|rb|sp|lolo poggerazi|rose filled pączki
+2025-10-29 17:08:55|tornillo|zzyzx|sm|gs|soltice|boggy volcano
+2025-10-29 17:08:55|zzyzx|tornillo|cz|hg|flower power|jdmustache
+2025-10-29 17:08:55|zzyzx|tornillo|eb|gk|prodigal|green supremacy
+2025-10-29 17:08:55|zzyzx|tornillo|ro|if|flower ramp|lapidary secrets
+2025-10-30 03:27:00|tornillo|valencia|cc|eb|Unknown|Unknown
+2025-10-30 03:27:00|tornillo|valencia|gk|zm|Unknown|Unknown
+2025-10-30 03:27:00|tornillo|valencia|if|cz|Unknown|Unknown
+2025-10-30 03:27:00|tornillo|valencia|ro|sm|Unknown|Unknown
+2025-10-30 03:27:00|valencia|tornillo|cc|im|Unknown|Unknown
+2025-10-30 15:06:13|jackmartin|tcc|bf|cc|alchemic|tcc 1.61 commonia v15
+2025-10-30 15:06:13|tcc|jackmartin|bf|sf|bora blackjack 2 v0|freight
+2025-10-30 15:06:13|tcc|jackmartin|im|bc|tcc pogonology v10|midrange
+2025-10-30 15:06:13|tcc|jackmartin|rb|nc|tcc telesterrazzi v45|cycle
+2025-10-30 15:06:13|tcc|jackmartin|ro|eb|tcc mixed midrose v3|bunnary22
+2025-10-31 21:24:13|alan|autony|cz|zm|1.61 apollination|blizzard mod
+2025-10-31 21:24:13|alan|autony|nt|cz|1.61 gravest sport|apotk
+2025-10-31 21:24:13|autony|alan|eb|sp|hostage|1.61 fig roots
+2025-10-31 21:24:13|autony|alan|gk|sm|roots|1.61 mid-heal
+2025-10-31 21:24:13|autony|alan|nc|bf|kalenana|1.61 unfreeze the cowboy
+2025-10-31 21:24:13|autony|alan|rb|gk|cardsbolt|1.61 trying to tempo
+2025-11-02 18:59:47|slewer|zzyzx|bf|ro|control|flower power
+2025-11-02 18:59:47|slewer|zzyzx|eb|sf|flummox|flower midflare
+2025-11-02 18:59:47|slewer|zzyzx|gs|eb|frempo|prodigal
+2025-11-02 18:59:47|slewer|zzyzx|nc|rb|cycle|proggerazzi
+2025-11-02 18:59:47|zzyzx|slewer|bc|rb|sham control|poggerazzi
+2025-11-02 18:59:47|zzyzx|slewer|sp|if|rose filled pączki|imp burn
+2025-11-02 18:59:47|zzyzx|slewer|zm|sf|composite|midflare
+2025-11-03 16:03:03|mono|xera|cz|eb|narentines|field control
+2025-11-03 16:03:03|mono|xera|im|cz|monostache|:3zilla
+2025-11-03 16:03:03|mono|xera|sf|rb|bonicus fig|dev1cebolt
+2025-11-03 16:03:03|mono|xera|zm|gs|chimera|midshadow
+2025-11-03 16:09:28|div|j.s|zm|ct|pile|pile
+2025-11-03 16:09:28|j.s|div|eb|sf|flummox|pile
+2025-11-03 16:09:28|j.s|div|nt|gs|pile|pile
+2025-11-03 16:09:28|j.s|div|rb|nc|pogger|pile
+2025-11-03 16:09:28|j.s|div|sf|sm|sunny gang|pile
+2025-11-03 22:37:16|alan|jackmartin|bc|eb|1.61 trolltina|bunnary22
+2025-11-03 22:37:16|alan|jackmartin|cc|zm|1.61 hate nibble|lawnmower
+2025-11-03 22:37:16|alan|jackmartin|gs|if|1.61 pile|maker deadly pile
+2025-11-03 22:37:16|alan|jackmartin|nt|nc|1.61 gravest sport|cycle
+2025-11-03 22:37:16|jackmartin|alan|cz|rb|cheap trick|modded bolt bolt
+2025-11-03 22:37:16|jackmartin|alan|sf|zm|freight|1.61 flamecho
+2025-11-04 20:23:38|maker|walter|nc|im|knabbs 1.5 cyburn|portal gun
+2025-11-04 20:23:38|maker|walter|rb|ct|controlster|mud
+2025-11-04 20:23:38|maker|walter|ro|hg|modded hmr|telimps
+2025-11-04 20:23:38|maker|walter|sf|bf|on little cat feet|tomb raiser mid
+2025-11-04 20:23:38|walter|maker|ro|zm|hmr|clocktowers beneath the sea
+2025-11-08 15:14:27|mono|zzyzx|cz|rb|narentines|proggerazzi
+2025-11-08 15:14:27|mono|zzyzx|if|ro|hokaistars|flower ramp
+2025-11-08 15:14:27|mono|zzyzx|nt|cz|merge2na|venice
+2025-11-08 15:14:27|mono|zzyzx|sp|eb|dino roots|splash gargs
+2025-11-08 19:38:47|autony|tornillo|eb|sf|hostage|michael tempo
+2025-11-08 19:38:47|autony|tornillo|gs|im|peas|environment trouble
+2025-11-08 19:38:47|autony|tornillo|nc|sm|bloodhunter|solstice
+2025-11-08 19:38:47|autony|tornillo|nt|bc|basics|él tio sam
+2025-11-08 19:38:47|tornillo|autony|gk|zm|omose|garg burn
+2025-11-08 19:38:47|tornillo|autony|hg|cc|jdmustache v2|neo-comboss
+2025-11-09 19:11:34|slewer|tcc|cc|sm|tempo|creeper furmade 1.6 pepegargs v26
+2025-11-09 19:11:34|slewer|tcc|gs|zm|freeze tempo|mono vortice starmech v19
+2025-11-09 19:11:34|slewer|tcc|zm|sf|midrange|voof 1.61 jp grand v115
+2025-11-09 19:11:34|tcc|slewer|cc|nt|tcc 1.61 commonia v21|midtuna
+2025-11-09 19:11:34|tcc|slewer|eb|sf|first hero gargmaker v8|midflare
+2025-11-09 19:11:34|tcc|slewer|rb|cz|tcc telesterrazzi v45|aportk
+2025-11-09 19:11:34|tcc|slewer|sp|eb|xera 1.61 dinoroots v41|flummox
+2025-11-10 18:14:22|div|valencia|cz|rb|Unknown|masterbolt
+2025-11-10 18:14:22|div|valencia|if|gk|Unknown|party
+2025-11-10 18:14:22|div|valencia|sp|nt|Unknown|dark
+2025-11-10 18:14:22|valencia|div|bc|rb|amphibian|Unknown
+2025-11-10 18:14:22|valencia|div|cc|zm|speed|Unknown
+2025-11-10 18:14:22|valencia|div|cz|hg|apo|otk blob
+2025-11-10 18:14:22|valencia|div|im|ct|hybrid|Unknown
+2025-11-11 18:23:52|bayoyo|walter|cc|rb|blastphemy|bolt bolt
+2025-11-11 18:23:52|bayoyo|walter|hg|ro|conjure leap|hyperion
+2025-11-11 18:23:52|bayoyo|walter|im|cz|portal gun|thousandrings
+2025-11-11 18:23:52|bayoyo|walter|sf|zm|trans form|chimera
+2025-11-11 18:23:52|walter|bayoyo|eb|gk|inega|otk starch lord
+2025-11-13 21:21:16|maker|slewer|bc|bf|wound up windmill|control
+2025-11-13 21:21:16|maker|slewer|gs|zm|collapsing rift|tempo
+2025-11-13 21:21:16|maker|slewer|hg|sf|gravestache|midflare
+2025-11-13 21:21:16|slewer|maker|cc|im|tempspresso|mustache gauntlet
+2025-11-13 21:21:16|slewer|maker|gs|eb|tempo freeze|apos
+2025-11-13 21:21:16|slewer|maker|im|nc|control|knabbs 1.5 cyburn
+2025-11-13 21:21:16|slewer|maker|nt|ro|4x4 tempo|midladder menace
+2025-11-15 10:34:14|div|huyn|cz|im|apotk|scopemod
+2025-11-15 10:34:14|div|huyn|zm|gs|nerfzm|vcltechbeans
+2025-11-15 10:34:14|huyn|div|cc|im|aggressive|scope
+2025-11-15 10:34:14|huyn|div|eb|sp|padbel|radiotherapy
+2025-11-15 10:34:14|huyn|div|if|bc|potentialgliz|control
+2025-11-15 10:34:14|huyn|div|nc|if|dancin|potentialif
+2025-11-15 18:53:51|jackmartin|valencia|sf|sm|freight|pile
+2025-11-15 18:53:51|valencia|jackmartin|bf|sp|cryogenesis|reliakale 2
+2025-11-15 18:53:51|valencia|jackmartin|eb|bc|flummox|midrange slop
+2025-11-15 18:53:51|valencia|jackmartin|gk|zm|party|lawnmower

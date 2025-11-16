@@ -82,3 +82,71 @@
 2025-09-28 18:31:36|autony|jackmartin|sf|zm|snowstorm mod|lawnmower
 2025-09-28 18:31:36|jackmartin|autony|pb|gk|shortstache|pea tempo
 2025-09-28 18:31:36|jackmartin|autony|wk|nt|modded chemo|basics
+2025-10-03 23:50:50|jaytrap|slewer|bc|im|watertina|portal gun
+2025-10-03 23:50:50|slewer|jaytrap|eb|sf|apos|go beyond mod
+2025-10-03 23:50:50|slewer|jaytrap|nc|if|cycle|disconaut
+2025-10-03 23:50:50|slewer|jaytrap|ro|zm|hmr|lawnmower
+2025-10-04 21:41:41|alan|boyca|gk|hg|1.61 trying to tempo|jgmustache
+2025-10-04 21:41:41|alan|boyca|rb|sf|modded bolt bolt|maker modded latam tempo
+2025-10-04 21:41:41|alan|boyca|sm|gs|1.61 mid-heal|boggy volcano
+2025-10-04 21:41:41|boyca|alan|bc|nt|control|1.61 gravest sport
+2025-10-04 21:41:41|boyca|alan|eb|cc|splash gargs|1.61 hate nibble
+2025-10-05 14:54:13|tqm|autony|cz|hg|jerry|concede
+2025-10-05 14:54:13|tqm|autony|gs|zm|jerrapy|blizzard mod
+2025-10-05 14:54:13|tqm|autony|rb|cz|king leap|mopzilla
+2025-10-10 23:38:11|alan|tqm|bc|zm|1.61 trolltina|lawnmower
+2025-10-10 23:38:11|alan|tqm|nt|gs|1.61 gravest sport|jerrapy
+2025-10-10 23:38:11|alan|tqm|rb|cz|modded bolt bolt|apotk
+2025-10-10 23:38:11|tqm|alan|sm|nc|midgargs|1.61 fig midrange
+2025-10-15 13:39:21|mono|slewer|eb|cc|ingea|aggro
+2025-10-15 13:39:21|mono|slewer|gk|if|omose mod|spacestars
+2025-10-15 13:39:21|mono|slewer|ro|eb|bass ramp|flummox
+2025-10-15 13:39:21|slewer|mono|cz|eb|aportk|ingea
+2025-10-16 20:28:32|jaytrap|jackmartin|cz|eb|venice|bunnary22
+2025-10-16 20:28:32|jaytrap|jackmartin|rb|sf|salt's poggers|freight
+2025-10-16 20:28:32|jaytrap|jackmartin|zm|gk|lawnmower|pile
+2025-10-17 21:13:43|autony|boyca|eb|sp|hostage|control
+2025-10-17 21:13:43|boyca|autony|eb|gk|splash gargs|tree aggro
+2025-10-17 21:13:43|boyca|autony|gs|im|boggy volcano|tempo catgirl
+2025-10-17 21:13:43|boyca|autony|pb|cc|trickstache|neo comboss
+2025-10-18 02:03:51|boyca|slewer|sp|im|control|portal gun
+2025-10-18 02:03:51|slewer|boyca|cz|if|aportk|no hokai stars
+2025-10-18 02:03:51|slewer|boyca|eb|bc|flummox|control
+2025-10-18 02:03:51|slewer|boyca|nc|eb|cycle|splash gargs
+2025-10-19 00:51:15|jackmartin|walter|bc|im|midrange|Unknown
+2025-10-19 00:51:15|jackmartin|walter|gk|if|grass knuckles #1|Unknown
+2025-10-19 00:51:15|jackmartin|walter|sb|cz|limerence|Unknown
+2025-10-19 00:51:15|walter|jackmartin|ro|eb|Unknown|bunnary22
+2025-10-19 01:01:02|alan|mono|gs|sm|1.61 pile|midgargs
+2025-10-19 01:01:02|alan|mono|if|cz|1.61 deadly splash pile|emperor
+2025-10-19 01:01:02|alan|mono|nt|ro|1.61 gravest sport|pile
+2025-10-19 01:01:02|mono|alan|zm|ct|chimera|1.61 ~~tronmpo~~ pile
+2025-10-26 18:19:10|autony|xera|im|ct|blobstache|kendrick limear
+2025-10-26 18:19:10|autony|xera|wk|pb|forcefield control|ken martin reference
+2025-10-26 18:19:10|xera|autony|cz|nt|cyclezilla|basics
+2025-10-26 18:19:10|xera|autony|wk|bf|the story of adidon|lock the bathroom
+2025-10-26 18:19:10|xera|autony|zm|cc|bomb imp mech|mopscle
+2025-10-30 17:31:15|div|jackmartin|cc|zm|aggro|lawnmower
+2025-10-30 17:31:15|div|jackmartin|im|bc|teles cope|roots
+2025-10-30 17:31:15|div|jackmartin|ro|eb|hmr mod|apos
+2025-10-30 17:31:15|jackmartin|div|nc|bf|cyburn|ltb
+2025-10-30 17:31:15|jackmartin|div|sf|eb|mossflare|aggro
+2025-11-01 21:08:02|boyca|xera|nt|sf|warlord mug, boyca edition|t6 reference
+2025-11-01 21:08:02|boyca|xera|ro|rb|midded modrose|king leap
+2025-11-01 21:08:02|xera|boyca|bf|sp|pet aggro|slumber party panic
+2025-11-01 21:08:02|xera|boyca|cc|if|inferno|no-hokai stars
+2025-11-01 21:08:02|xera|boyca|cz|zm|cyclezilla v4|lawnmower
+2025-11-03 22:11:56|jaytrap|tqm|cz|im|mag expresso|kaleidoscope
+2025-11-03 22:11:56|jaytrap|tqm|nc|im|fig cyclecap|kaleidoscope
+2025-11-03 22:11:56|tqm|jaytrap|bc|im|sham control|maximum zombot
+2025-11-03 22:11:56|tqm|jaytrap|cz|rb|apotk|poggers
+2025-11-03 22:11:56|tqm|jaytrap|eb|gk|biofuel|osmose
+2025-11-04 21:13:14|slewer|tqm|cz|eb|aportk|biofuel
+2025-11-04 21:13:14|slewer|tqm|eb|bc|flummox|sham control
+2025-11-04 21:13:14|slewer|tqm|im|sp|portal gun|radiotherapy
+2025-11-04 21:13:14|tqm|slewer|im|nc|kaleidoscope|cycle
+2025-11-04 21:13:14|tqm|slewer|sf|bf|fig lottery|control
+2025-11-14 01:35:46|mono|slewer|bc|if|control|no-hokai stars
+2025-11-14 01:35:46|mono|slewer|if|nc|hokaistars|cycle
+2025-11-14 01:35:46|mono|slewer|sp|eb|dinoroots|flummox
+2025-11-14 01:35:46|slewer|mono|cz|sm|aportk|midgargs
