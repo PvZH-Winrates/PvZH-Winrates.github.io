@@ -80,3 +80,82 @@
 2025-09-07 20:09:32|michael|fluke|ro|bf|ramp|handfixer modded
 2025-09-07 20:09:32|michael|fluke|sf|if|thanos|spacestars
 2025-09-07 20:09:32|michael|fluke|wk|hg|package|blobfish wrappers
+2025-12-28 21:36:48|valencia|maker|gk|rb|party|telesterazzi
+2025-12-28 21:36:48|valencia|maker|im|gk|hybrid|peace and tranquility
+2025-12-28 21:36:48|valencia|maker|zm|sp|chimera|dino roots
+2025-12-28 23:31:30|voof|slewer|bc|im|water aggro|portal gun
+2025-12-28 23:31:30|voof|slewer|im|sf|mustache aggro|high on life
+2025-12-28 23:31:30|voof|slewer|rb|cz|telesterazzi|pass simulator
+2025-12-30 20:42:21|valencia|voof|ct|if|megamphitrión|tcc hokai
+2025-12-30 20:42:21|valencia|voof|hg|bc|gravest|control
+2025-12-30 20:42:21|valencia|voof|rb|sp|masterbolt|control
+2025-12-30 20:42:21|voof|valencia|zm|ro|midrange|bruh
+2026-01-11 18:37:41|michael|zzyzx|hg|gk|telimps|espresso aggro
+2026-01-11 18:37:41|michael|zzyzx|if|bc|clocks up|sham control
+2026-01-11 18:37:41|michael|zzyzx|ro|rb|hmr|modded bolt bolt
+2026-01-11 18:37:41|zzyzx|michael|bf|sp|great white north|starch control
+2026-01-12 01:48:33|fluke|valencia|bc|rb|prioritization|masterbolt
+2026-01-12 01:48:33|fluke|valencia|eb|gs|bhp|league
+2026-01-12 01:48:33|fluke|valencia|zm|gk|ballsmech|party
+2026-01-12 02:59:57|huyn|hystorian|eb|gs|padbel|bean pea leafy
+2026-01-12 02:59:57|huyn|hystorian|gk|nt|midknuck8|slugged
+2026-01-12 02:59:57|huyn|hystorian|zm|cz|huynd|cc
+2026-01-12 02:59:57|hystorian|huyn|nc|hg|toyota controlla|tradesector
+2026-01-12 02:59:57|hystorian|huyn|rb|gs|tricksterazzi|vcl techbeans
+2026-01-15 03:43:50|valencia|huyn|gk|eb|party|lowroll
+2026-01-15 03:43:50|valencia|huyn|gs|rb|league|lowroll
+2026-01-15 03:43:50|valencia|huyn|hg|ct|gravest|lowroll
+2026-01-15 20:28:12|hystorian|michael|ro|im|aggro|otkster
+2026-01-15 20:28:12|michael|hystorian|ct|eb|tempo|burn dancing
+2026-01-15 20:28:12|michael|hystorian|gk|nt|omose|slugged
+2026-01-15 20:28:12|michael|hystorian|zm|nc|lawnmower|toyota controlla
+2026-01-16 13:33:21|fluke|zzyzx|cz|if|aportk|clocks up
+2026-01-16 13:33:21|fluke|zzyzx|gk|nt|fryspresso|slugged
+2026-01-16 13:33:21|fluke|zzyzx|sf|eb|inertia|prodigal
+2026-01-16 13:33:21|zzyzx|fluke|cc|nt|speed|gargolith bait
+2026-01-16 13:33:21|zzyzx|fluke|gk|rb|shotgun|modded applied science
+2026-01-19 01:34:18|fluke|huyn|gs|sm|abeans|"kms"
+2026-01-19 01:34:18|fluke|huyn|hg|sp|otkb|"kms"
+2026-01-19 01:34:18|fluke|huyn|sp|if|kfcontrol|"kms"
+2026-01-20 17:35:25|michael|valencia|bc|im|moso|Unknown
+2026-01-20 17:35:25|michael|valencia|cc|hg|reflourished|Unknown
+2026-01-20 17:35:25|michael|valencia|eb|gs|flummox|Unknown
+2026-01-21 04:50:44|hystorian|valencia|ct|if|amphibious|moso
+2026-01-21 04:50:44|hystorian|valencia|cz|hg|venice|gravestache
+2026-01-21 04:50:44|hystorian|valencia|hg|nc|teleimps|moso
+2026-01-21 04:50:44|valencia|hystorian|bc|eb|moso|burn dancing
+2026-01-21 04:50:44|valencia|hystorian|zm|gs|chimera|bean pea leafy
+2026-01-21 21:55:31|fluke|michael|zm|bc|ballsmech|moso
+2026-01-21 21:55:31|michael|fluke|eb|bc|flummox|prioritization
+2026-01-21 21:55:31|michael|fluke|hg|cz|ykm|rings
+2026-01-21 21:55:31|michael|fluke|sf|hg|freight|otkb
+2026-01-23 11:05:12|huyn|zzyzx|gk|eb|Unknown|flummox
+2026-01-23 11:05:12|zzyzx|huyn|cc|eb|speed|Unknown
+2026-01-23 11:05:12|zzyzx|huyn|cz|zm|artemis ring|Unknown
+2026-01-23 11:05:12|zzyzx|huyn|im|cc|bestached|Unknown
+2026-01-24 14:02:04|huyn|michael|im|sp|vietstaches|radiopile
+2026-01-24 14:02:04|huyn|michael|nc|rb|getrektv7|blobster
+2026-01-24 14:02:04|huyn|michael|sb|ro|dstrike|ramp
+2026-01-24 17:38:55|valencia|zzyzx|eb|bc|flummox|sham control
+2026-01-24 17:38:55|valencia|zzyzx|gk|hg|magnuts|racing flame
+2026-01-24 17:38:55|valencia|zzyzx|if|sp|instinct|reflect buster
+2026-01-24 17:38:55|zzyzx|valencia|cz|hg|venice|gravest
+2026-01-24 17:38:55|zzyzx|valencia|nt|nc|slugged|control cap
+2026-01-26 03:24:36|fluke|hystorian|bc|hg|phytoplankton|telimps
+2026-01-26 03:24:36|fluke|hystorian|eb|ct|bhp|fry amphibious
+2026-01-26 03:24:36|fluke|hystorian|if|bc|semi-maxed potential|control
+2026-02-15 19:43:11|valencia|zzyzx|bf|cc|execution|speed
+2026-02-15 19:43:11|valencia|zzyzx|cc|im|speedway|staches
+2026-02-15 19:43:11|valencia|zzyzx|cz|pb|sweety|trickstache
+2026-02-15 19:43:11|valencia|zzyzx|eb|cz|flummox|venice
+2026-02-15 19:43:11|valencia|zzyzx|gk|sm|podpatch|mono midgargs
+2026-02-15 19:43:11|valencia|zzyzx|nc|nt|bounty|slugged
+2026-02-15 19:43:11|valencia|zzyzx|pb|wk|quarterly|flower control
+2026-02-15 19:43:11|valencia|zzyzx|rb|ct|tele or treater|mud
+2026-02-15 19:43:11|valencia|zzyzx|sm|ro|gargabot|flower ramp
+2026-02-15 19:43:11|valencia|zzyzx|sp|eb|resistance|prodigal
+2026-02-15 19:43:11|valencia|zzyzx|zm|gk|chimera|shotgun
+2026-02-15 19:43:11|zzyzx|valencia|hg|gs|ykm|cartas decentes
+2026-02-15 19:43:11|zzyzx|valencia|nc|im|white hurricane|scimmort
+2026-02-15 19:43:11|zzyzx|valencia|sp|nt|radiotherapy|darkest
+2026-02-15 19:43:11|zzyzx|valencia|zm|ro|composite|bruh

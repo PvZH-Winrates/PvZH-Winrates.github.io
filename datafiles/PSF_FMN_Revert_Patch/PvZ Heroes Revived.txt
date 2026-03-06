@@ -150,3 +150,38 @@
 2025-11-14 01:35:46|mono|slewer|if|nc|hokaistars|cycle
 2025-11-14 01:35:46|mono|slewer|sp|eb|dinoroots|flummox
 2025-11-14 01:35:46|slewer|mono|cz|sm|aportk|midgargs
+2025-11-24 06:33:45|alan|mono|bc|im|1.61 trolltina|creeperblade
+2025-11-24 06:33:45|alan|mono|if|sf|1.61 deadly splash pile|honeybreaker
+2025-11-24 06:33:45|mono|alan|hg|gk|teleimps|1.61 trying to tempo
+2025-11-24 06:33:45|mono|alan|nc|rb|turles|modded bolt bolt
+2025-11-24 06:33:45|mono|alan|nt|cc|slugged mod|1.61 hate nibble
+2025-11-25 20:56:32|jaytrap|tqm|ct|hg|#amp|telimps
+2025-11-25 20:56:32|jaytrap|tqm|im|ro|agent science|heal midrose
+2025-11-25 20:56:32|tqm|jaytrap|bc|eb|sham control|control ish
+2025-11-25 20:56:32|tqm|jaytrap|im|gs|otk trickster|#gs
+2025-11-25 20:56:32|tqm|jaytrap|nt|cz|thingy|ringzilla
+2025-12-04 05:49:05|alan|mono|bc|sm|1.61 trolltina|midgargs
+2025-12-04 05:49:05|alan|mono|cc|nt|1.61 hate nibble|modded slugged
+2025-12-04 05:49:05|alan|mono|rb|gk|tcc's telesterrazzi|kusarigama
+2025-12-04 05:49:05|mono|alan|if|cz|no-hokai stars|1.61 apollination
+2025-12-04 05:49:05|mono|alan|sf|sm|honeybreaker|1.61 mid-heal
+2025-12-06 00:32:34|tqm|slewer|if|bc|crimps|control
+2025-12-06 00:32:34|tqm|slewer|ro|hg|heal midrose|telimps
+2025-12-06 00:32:34|tqm|slewer|sf|nt|fig lottery|control
+2025-12-06 02:37:48|mono|tqm|bc|if|hydro aggro|crimps
+2025-12-06 02:37:48|mono|tqm|hg|ro|teleimps|heal midrose
+2025-12-06 02:37:48|mono|tqm|im|nc|modded waxster|toyota controlla
+2025-12-12 04:00:28|alan|mono|bc|hg|1.61 trolltina|teleimps
+2025-12-12 04:00:28|alan|mono|rb|nc|tcc's telesterrazzi|turles
+2025-12-12 04:00:28|alan|mono|zm|bc|1.61 flamecho|control
+2025-12-12 04:00:28|mono|alan|if|gk|hokaistars|1.61 trying to tempo
+2025-12-12 04:00:28|mono|alan|rb|nc|cardsbolt|1.61 fig midrange
+2025-12-12 04:00:28|mono|alan|sf|sm|honeybreaker|1.61 mid-heal
+2025-12-12 04:00:28|mono|alan|sm|cc|midgargs|1.61 hate nibble
+2025-12-15 06:55:28|alan|mono|bc|hg|1.61 trolltina|teleimps
+2025-12-15 06:55:28|alan|mono|cc|if|1.61 hate nibble|hokaistars
+2025-12-15 06:55:28|alan|mono|rb|sf|tcc's telesterrazzi|honeybreaker
+2025-12-15 06:55:28|mono|alan|cc|bf|stardust|pile
+2025-12-15 06:55:28|mono|alan|gs|eb|steriods|1.61 explosive area
+2025-12-15 06:55:28|mono|alan|rb|gk|cardsbolt|1.61 trying to tempo
+2025-12-15 06:55:28|mono|alan|zm|cz|chimera|1.61 apollination

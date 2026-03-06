@@ -239,3 +239,8 @@
 2025-11-15 19:02:55|autony|alan|bc|sm|roots|1.61 mid-heal
 2025-11-15 19:02:55|autony|alan|eb|cz|hostage|1.61 apollination
 2025-11-15 19:02:55|autony|alan|gs|eb|neo-abeans|1.61 explosive area
+2025-11-20 07:08:50|alan|vector|bf|ro|1.61 unfreeze the cowboy|hiiiggro
+2025-11-20 07:08:50|alan|vector|cc|rb|1.61 hate nibble|cardsbolt
+2025-11-20 07:08:50|alan|vector|cz|eb|1.61 apollination|gargmaker
+2025-11-20 07:08:50|alan|vector|gk|sm|1.61 trying to tempo|modgargs
+2025-11-20 07:08:50|vector|alan|sf|sm|go beyond|1.61 mid-heal

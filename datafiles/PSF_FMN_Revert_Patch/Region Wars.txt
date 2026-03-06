@@ -417,3 +417,329 @@
 2025-09-26 20:18:56|div|valencia|zm|gs|Unknown|groweafy
 2025-09-26 20:18:56|valencia|div|eb|cc|gargs22|Unknown
 2025-09-26 20:18:56|valencia|div|zm|cz|pyrostars|Unknown
+2026-02-11 01:51:50|huyn|ocean man|bf|cz|mondo good for tanking gatling|random pile
+2026-02-11 01:51:50|huyn|ocean man|eb|gk|hai's least favorite garg|cabbage espresso
+2026-02-11 01:51:50|huyn|ocean man|nc|zm|highlander|buff zm
+2026-02-11 01:51:50|huyn|ocean man|ro|rb|ramp pile|uncrackabolt
+2026-02-11 01:51:50|ocean man|huyn|hg|sf|telimpster|pray rng
+2026-02-11 01:51:50|ocean man|huyn|sp|sm|huyn misplayed|huyn misplayed
+2026-02-11 13:06:40|michael|zzyzx|cz|rb|Unknown|tcc telesterazzi
+2026-02-11 13:06:40|michael|zzyzx|gk|rb|aggro peas|tcc telesterazzi
+2026-02-11 13:06:40|michael|zzyzx|hg|cc|teleimps|speed
+2026-02-11 13:06:40|zzyzx|michael|cc|eb|speed|flummox
+2026-02-11 13:06:40|zzyzx|michael|gk|if|shotgun|spacestars
+2026-02-11 13:06:40|zzyzx|michael|hg|ro|ykm|ramp
+2026-02-11 13:06:40|zzyzx|michael|sp|eb|reflect buster|flummox
+2026-02-11 18:27:45|diego|pipo|zm|cz|tempo|busted ramp
+2026-02-11 18:27:45|pipo|diego|bc|if|control|diegonity
+2026-02-11 18:27:45|pipo|diego|gk|im|control|aggro no aggro
+2026-02-11 18:27:45|pipo|diego|if|sp|tempo|salad
+2026-02-11 18:27:45|pipo|diego|sb|gk|mid range|mid
+2026-02-11 21:46:23|maker|alan|gk|eb|pea tempo|1.61 explosive area
+2026-02-11 21:46:23|maker|alan|nc|zm|mergecap v10|1.61 flamecho
+2026-02-11 21:46:23|maker|alan|nt|cz|makers scattered and lost v48|1.61 apollination probably threw]
+2026-02-11 21:46:23|maker|alan|sm|cc|pepegargs v13|1.61 hate nibble
+2026-02-12 08:13:57|hai|slewer|if|ct|technostars|mud
+2026-02-12 08:13:57|hai|slewer|nt|nc|black box|cycle
+2026-02-12 08:13:57|hai|slewer|ro|hg|haimr|telimps
+2026-02-12 08:13:57|hai|slewer|sp|nt|dinoroots feat. poppy|starkist
+2026-02-12 08:13:57|slewer|hai|gs|zm|otk cryo yeti|plan 8 leggendaria
+2026-02-12 08:13:57|slewer|hai|im|gk|kaleidoscope|xera durga schmidt
+2026-02-12 16:01:13|coffee|j.s|cz|eb|aportk v43 4 water balloons tech|flummox
+2026-02-12 16:01:13|coffee|j.s|zm|cc|xommulf|no pain, no gain
+2026-02-12 16:01:13|j.s|coffee|cz|rb|highroll apotk|tcc telesterazzi v81 3 rocket tech
+2026-02-12 16:01:13|j.s|coffee|gk|nt|magnuts|nuthin i can do is wrng
+2026-02-12 16:01:13|j.s|coffee|if|nc|clocker|4 ppea 2 cool bean cycle
+2026-02-12 16:01:13|j.s|coffee|im|cz|science-staches|aportk v43 4 water balloons tech
+2026-02-12 23:41:55|bonicus|tqm|rb|bc|telesterazzi|sham control
+2026-02-12 23:41:55|bonicus|tqm|ro|zm|midrange|gargmech
+2026-02-12 23:41:55|bonicus|tqm|sf|im|midrange|otk trickster
+2026-02-12 23:41:55|tqm|bonicus|gs|nt|peabound|temptomba
+2026-02-12 23:41:55|tqm|bonicus|rb|cz|poggerazzi|midrange
+2026-02-12 23:41:55|tqm|bonicus|sf|im|mushroom cloud|waxster
+2026-02-12 23:41:55|tqm|bonicus|sm|ct|midgargs|epictron
+2026-02-13 02:18:43|jackmartin|mono|ro|zm|tfrfhtciam|methmech
+2026-02-13 02:18:43|mono|jackmartin|bf|bc|kanji|tilting at windmills
+2026-02-13 02:18:43|mono|jackmartin|gk|if|kusarigama|maker deadly not pile
+2026-02-13 02:18:43|mono|jackmartin|rb|sp|heart of the cards|reliakale 2
+2026-02-13 02:18:43|mono|jackmartin|ro|hg|tcc modded|ykm
+2026-02-13 15:25:13|bhb|padboy|eb|ct|omani|root
+2026-02-13 15:25:13|padboy|bhb|gs|sm|not techbean|heal midgargs
+2026-02-13 15:25:13|padboy|bhb|hg|sf|telimps|loteria
+2026-02-13 15:25:13|padboy|bhb|im|sp|snowball|reliakale
+2026-02-13 15:25:13|padboy|bhb|sp|bf|not radiotherapy|hogbait
+2026-02-13 16:31:44|first hero|hystorian|cc|sm|skullknight|pablo yeezys
+2026-02-13 16:31:44|first hero|hystorian|eb|nc|slewerflummoxdeluxe|toyota controlla
+2026-02-13 16:31:44|first hero|hystorian|im|cc|michaelotktrickster|leaf the war
+2026-02-13 16:31:44|first hero|hystorian|zm|cz|jmlawnmower|venice
+2026-02-13 16:31:44|hystorian|first hero|nt|ro|slugged|borahmr
+2026-02-13 16:31:44|hystorian|first hero|rb|cz|tricksterazzi|cheap trick
+2026-02-13 18:25:04|autony|tornillo|bc|nt|roots|piportnillo
+2026-02-13 18:25:04|autony|tornillo|cc|hg|astroshroom aggro|jdmustachev2
+2026-02-13 18:25:04|autony|tornillo|rb|gk|cardsbolt|magnuts carlseed
+2026-02-13 18:25:04|autony|tornillo|sb|sp|lba blob|roots control
+2026-02-13 18:25:04|tornillo|autony|cz|eb|sun gang|hostage
+2026-02-13 18:25:04|tornillo|autony|if|cc|potential secrets|astroshroom aggro
+2026-02-13 18:25:04|tornillo|autony|im|gs|dexter wax|neo-abeans
+2026-02-13 19:32:00|aldogael|div|cz|rb|apotk|modded telesterazzi
+2026-02-13 19:32:00|aldogael|div|eb|ro|gargstars 22|amr
+2026-02-13 19:32:00|aldogael|div|nc|im|<@878820429580623892> mazo|waxer
+2026-02-13 19:32:00|aldogael|div|sf|eb|latam gang|apos
+2026-02-13 19:32:00|div|aldogael|cz|bf|stats gang|lock the 1.6.2
+2026-02-14 03:17:32|fluke|sheep|gk|if|lichen|stardust
+2026-02-14 03:17:32|fluke|sheep|hg|bc|telimpster|agroots
+2026-02-14 03:17:32|fluke|sheep|nt|sp|gargolith bait|root-therapy
+2026-02-14 03:17:32|fluke|sheep|ro|if|pile|stardust
+2026-02-14 03:17:32|sheep|fluke|hg|cz|conjurestache|rings
+2026-02-14 06:04:28|kingfish|truong|rb|bc|telesterazzi|pile
+2026-02-14 06:04:28|truong|kingfish|cz|zm|dadennha|hyboreal
+2026-02-14 06:04:28|truong|kingfish|eb|gk|pile|martial law
+2026-02-14 06:04:28|truong|kingfish|if|ro|pile|shitmr
+2026-02-14 20:17:22|cursed|jhonson|gk|nt|health nut otk|zombiditos
+2026-02-14 20:17:22|cursed|jhonson|nt|ro|graves midrange|perf
+2026-02-14 20:17:22|cursed|jhonson|ro|if|aloe midrose|letal
+2026-02-14 20:17:22|cursed|jhonson|sm|sp|smash or pass v7.1|transf
+2026-02-14 21:22:07|valencia|xera|eb|nc|gargstars|chamonix v1
+2026-02-14 21:22:07|valencia|xera|nc|rb|bounty|pog
+2026-02-14 21:22:07|valencia|xera|sm|cz|gargabot|apotk
+2026-02-14 21:22:07|valencia|xera|zm|cc|chimera|speed
+2026-02-14 21:22:07|xera|valencia|nt|gs|hardmull bh|sportling
+2026-02-14 21:22:07|xera|valencia|sp|hg|\n34 combo|gravest
+2026-02-14 21:22:07|xera|valencia|zm|bc|zmoss|pile
+2026-02-14 23:30:09|tcc|voof|hg|cc|ken martin tryhard first hero 1.6 young ken martin w/ 3 nebula 1 lba|badorni plant mop
+2026-02-14 23:30:09|tcc|voof|nt|bc|tcc 1.6 mergetuna v54|water aggro
+2026-02-14 23:30:09|tcc|voof|ro|nt|michael bruh rose v34|tcc 1.6 mergetuna v54
+2026-02-14 23:30:09|tcc|voof|sf|zm|tcc 1.61 mergeflare v18|midrange
+2026-02-14 23:30:09|voof|tcc|hg|gk|sushi telimps|durga 海賊 v8
+2026-02-14 23:30:09|voof|tcc|sp|sm|pinenut|tcc gargport v10
+2026-02-15 17:38:51|binaclepinnacle|durga|hg|ro|modded telimpster|tcc rose
+2026-02-15 17:38:51|binaclepinnacle|durga|im|gk|bioking|peas
+2026-02-15 17:38:51|binaclepinnacle|durga|ro|hg|xpol mid|grave pirates
+2026-02-15 17:38:51|binaclepinnacle|durga|zm|sf|lawnmower|tcc rampclones
+2026-02-15 17:38:51|durga|binaclepinnacle|cz|nt|valuezilla|fishbone
+2026-02-15 17:38:51|durga|binaclepinnacle|eb|sp|syncretism|midroots
+2026-02-15 17:38:51|durga|binaclepinnacle|zm|sp|elipsis|midroots please stop giving me gti heroes
+2026-02-15 22:07:11|jackmartin|maker|hg|cc|ykm|the shooting star v18
+2026-02-15 22:07:11|jackmartin|maker|rb|ro|telesterazzi w/o tot|makers hmr v32
+2026-02-15 22:07:11|jackmartin|maker|ro|eb|tfrfhtciam|cursed eggnea
+2026-02-15 22:07:11|maker|jackmartin|hg|cz|flowerman otk blob v12|hunger v43
+2026-02-15 22:07:11|maker|jackmartin|nt|sf|makers scattered and lost v48|gurt
+2026-02-15 22:07:11|maker|jackmartin|sf|nt|valueflare mod|gorgonzola
+2026-02-15 22:07:11|maker|jackmartin|sp|eb|salty roots|sacred
+2026-02-15 22:58:22|bhb|pipo|eb|bc|omani|control
+2026-02-15 22:58:22|pipo|bhb|im|sp|control|reliakale
+2026-02-15 22:58:22|pipo|bhb|sb|cz|mid range|leafy strike
+2026-02-15 22:58:22|pipo|bhb|sf|bf|ramp|hogbait
+2026-02-15 22:58:22|pipo|bhb|sp|im|control|tricksaur
+2026-02-16 20:49:13|first hero|ocean man|cc|sm|skull knight|yaoi
+2026-02-16 20:49:13|first hero|ocean man|if|sp|glizzy control|radiotherapy
+2026-02-16 20:49:13|first hero|ocean man|im|cz|michael otktrickster|leafy strike
+2026-02-16 20:49:13|first hero|ocean man|rb|gk|telesterazzi without tot|august 14th
+2026-02-16 20:49:13|ocean man|first hero|im|ro|bestached|borahmr
+2026-02-16 20:49:13|ocean man|first hero|rb|sf|poggerazi|soft&wet gobeyond
+2026-02-17 02:18:07|huyn|tornillo|bf|cz|Unknown|Unknown
+2026-02-17 02:18:07|huyn|tornillo|cz|bf|Unknown|Unknown
+2026-02-17 02:18:07|huyn|tornillo|sb|sp|Unknown|Unknown
+2026-02-17 02:18:07|tornillo|huyn|cc|eb|Unknown|Unknown
+2026-02-17 02:18:07|tornillo|huyn|gk|zm|Unknown|Unknown
+2026-02-17 02:18:07|tornillo|huyn|hg|gk|Unknown|Unknown
+2026-02-17 02:18:07|tornillo|huyn|rb|nc|Unknown|Unknown
+2026-02-17 16:36:33|j.s|padboy|eb|sf|gargs 22|cursed jp
+2026-02-17 16:36:33|padboy|j.s|bf|cc|lunchboy|no pain no gain
+2026-02-17 16:36:33|padboy|j.s|cz|rb|goat plant|pogger
+2026-02-17 16:36:33|padboy|j.s|nt|nc|obf refference|pile
+2026-02-17 16:36:33|padboy|j.s|ro|hg|ramp|mustaches
+2026-02-20 15:06:20|autony|tqm|rb|bc|cardsbolt|sham control
+2026-02-20 15:06:20|tqm|autony|hg|bc|telimps|root package
+2026-02-20 15:06:20|tqm|autony|if|bc|crimps|root package
+2026-02-20 15:06:20|tqm|autony|sp|sm|radiotherapy|midgargs
+2026-02-20 15:06:20|tqm|autony|zm|gs|lawnmower|neo-abeans
+2026-02-20 18:36:52|binaclepinnacle|cursed|if|sf|convergent spacestars|salt's bad list <:broken:1421355116157730867>
+2026-02-20 18:36:52|binaclepinnacle|cursed|ro|sm|xpol pile|smash or pass v7.1
+2026-02-20 18:36:52|cursed|binaclepinnacle|cz|hg|modded apotk|teleimps
+2026-02-20 18:36:52|cursed|binaclepinnacle|nt|gk|graves midrange|shambolicism
+2026-02-20 18:36:52|cursed|binaclepinnacle|rb|cc|telesterazzi or treater|imi
+2026-02-20 18:36:52|cursed|binaclepinnacle|ro|im|aloe midrose|bioking
+2026-02-20 19:51:11|aldogael|bonicus|cz|im|apotk|Unknown
+2026-02-20 19:51:11|aldogael|bonicus|eb|sf|gargstars 22|pine clone ramp <:jerrywhat:1374771719008419861>
+2026-02-20 19:51:11|aldogael|bonicus|hg|sf|jdeck|pine clone ramp again <:hyperjerry:1374771762960531517>
+2026-02-20 19:51:11|aldogael|bonicus|zm|ro|garg mech|Unknown
+2026-02-20 19:51:11|bonicus|aldogael|nt|gk|Unknown|ahhhhgro
+2026-02-20 19:51:11|bonicus|aldogael|rb|cc|Unknown|sucks
+2026-02-21 03:14:31|mono|valencia|gk|im|kusarigama v256|combo
+2026-02-21 03:14:31|mono|valencia|nc|eb|turles|flummox
+2026-02-21 03:14:31|mono|valencia|nt|sp|mergetuna v4|control
+2026-02-21 03:14:31|mono|valencia|sf|if|honeybreaker v82|lba mid
+2026-02-21 03:14:31|valencia|mono|gk|zm|fert exhaust|tcc sahcem
+2026-02-22 01:27:25|michael|tcc|if|sp|spacestars|tcc xera bora radio dinoroots v44
+2026-02-22 01:27:25|michael|tcc|sp|eb|control|bora ecleggtic boogaloo 2.7: syncretism
+2026-02-22 01:27:25|tcc|michael|hg|ct|tryhard first hero 1.6 young ken martin v4|watertron
+2026-02-22 01:27:25|tcc|michael|im|gs|tcc sciknabbs/pogonology v12|star
+2026-02-22 01:27:25|tcc|michael|ro|hg|michael bruh rose v34|telimps
+2026-02-22 01:27:25|tcc|michael|sf|im|tcc 1.61 mergeflare v172|pile
+2026-02-22 03:21:16|alan|sheep|cc|nt|1.61 hate nibble|makertuna
+2026-02-22 03:21:16|alan|sheep|cz|bf|1.61 apollination|ddt
+2026-02-22 03:21:16|alan|sheep|gk|rb|1.61 trying to tempo|telesterrazzi
+2026-02-22 03:21:16|alan|sheep|if|gk|1.61 deadly splash pile|erotomania
+2026-02-22 03:21:16|sheep|alan|bc|im|amphiroot aggro|1.61 unsynchronized
+2026-02-22 03:21:16|sheep|alan|hg|sf|conjurestache|1.61 rng control
+2026-02-22 03:21:16|sheep|alan|ro|eb|michael rose|1.61 explosive area
+2026-02-22 04:41:47|hai|hystorian|cc|sm|outburst|pablos yeezys
+2026-02-22 04:41:47|hai|hystorian|if|sf|technostars|fig op
+2026-02-22 04:41:47|hystorian|hai|ct|im|amphibious|otk trickster
+2026-02-22 04:41:47|hystorian|hai|hg|cz|competitive mustaches|merged apotk
+2026-02-22 04:41:47|hystorian|hai|nt|ro|slugged|steamrose
+2026-02-22 04:41:47|hystorian|hai|sf|eb|fig op|cursed
+2026-02-22 18:27:50|voof|zzyzx|hg|gk|telimps|shotgun
+2026-02-22 18:27:50|voof|zzyzx|if|cc|gti spacestars|speed
+2026-02-22 18:27:50|voof|zzyzx|ro|hg|tcc pile|racing flame
+2026-02-22 18:27:50|zzyzx|voof|cc|nt|speed|merge
+2026-02-22 18:27:50|zzyzx|voof|ct|rb|mud|treater telesterazzi
+2026-02-22 18:27:50|zzyzx|voof|nt|sp|slugged|bartin roots
+2026-02-22 18:27:50|zzyzx|voof|sm|cz|mono midgargs|apotk
+2026-02-23 05:24:52|diego|truong|gk|eb|Unknown|Unknown
+2026-02-23 05:24:52|diego|truong|rb|ro|Unknown|Unknown
+2026-02-23 05:24:52|truong|diego|bc|hg|Unknown|Unknown
+2026-02-23 05:24:52|truong|diego|cz|bf|Unknown|Unknown
+2026-02-23 05:24:52|truong|diego|if|nc|Unknown|Unknown
+2026-02-23 05:24:52|truong|diego|nt|sf|Unknown|Unknown
+2026-02-23 12:32:46|maker|sheep|cc|rb|the shooting star v18|telesterazzi
+2026-02-23 12:32:46|maker|sheep|hg|bc|flowerman otk blob v12|amphirootaggro
+2026-02-23 12:32:46|maker|sheep|if|bc|deadly tempo|amphirootaggro ft. 4 gravebuster
+2026-02-23 12:32:46|sheep|maker|cz|sm|bass apohealmid|makers midgargs
+2026-02-23 12:32:46|sheep|maker|hg|gk|conjurestache|pea tempo
+2026-02-23 12:32:46|sheep|maker|im|sf|shortbow trickstache|valueflare mod
+2026-02-23 12:32:46|sheep|maker|nt|gk|makertuna|pea tempo ft. 4 blockbuster
+2026-02-23 17:54:00|aldogael|ocean man|bc|im|michaeltina|bestached
+2026-02-23 17:54:00|aldogael|ocean man|if|cz|paintrol|leafystrike
+2026-02-23 17:54:00|aldogael|ocean man|im|cc|waxter|logbait
+2026-02-23 17:54:00|aldogael|ocean man|sf|rb|latam gang|poggerazi
+2026-02-23 17:54:00|ocean man|aldogael|gk|eb|august 14th|gargstar22
+2026-02-23 17:54:00|ocean man|aldogael|sb|sp|limerence|jim root
+2026-02-23 21:19:02|fluke|xera|bf|cc|blackjack but there are so many mods that it's barely even the same deck|neo-comboss
+2026-02-23 21:19:02|fluke|xera|hg|sp|their barbaric otkb|voofggro
+2026-02-23 21:19:02|fluke|xera|rb|nc|applied science mod|chamonix v2
+2026-02-23 21:19:02|fluke|xera|ro|sb|pile|limerence
+2026-02-23 21:19:02|xera|fluke|eb|gs|egggea v10|michael cartas + buenas
+2026-02-23 22:09:46|div|slewer|if|gs|modded lba mid|otk cryo yeti
+2026-02-23 22:09:46|div|slewer|rb|cz|modded telesterazzi|passing simulator
+2026-02-23 22:09:46|div|slewer|sp|im|divga roots|kaleidoscope
+2026-02-23 22:09:46|div|slewer|zm|ct|modded lawnmower|mud
+2026-02-23 22:09:46|slewer|div|eb|cc|flummox|ishowspeed
+2026-02-23 22:09:46|slewer|div|nt|ro|starkist|ramp pile
+2026-02-24 02:01:33|tornillo|tqm|hg|bc|Unknown|sham control
+2026-02-24 02:01:33|tqm|tornillo|cz|im|apotk|Unknown
+2026-02-24 02:01:33|tqm|tornillo|if|gk|crimps|Unknown
+2026-02-24 02:01:33|tqm|tornillo|rb|ct|poggerazzi|Unknown
+2026-02-24 02:01:33|tqm|tornillo|zm|cc|lawnmower|Unknown
+2026-02-24 15:16:09|cursed|padboy|cc|bf|fertilize my pea patch|lunchboy
+2026-02-24 15:16:09|cursed|padboy|cz|if|modded apotk|spacestars
+2026-02-24 15:16:09|cursed|padboy|gk|hg|aggro|teleimps
+2026-02-24 15:16:09|cursed|padboy|rb|nc|telesterazzi or treater|"fukc u huyn"
+2026-02-24 15:16:09|padboy|cursed|gk|nt|roots midrange|graves midrange
+2026-02-24 15:16:09|padboy|cursed|sp|hg|fig lottery|firsthero ykm
+2026-02-26 21:01:16|hexada|kingfish|cz|sb|time is running out|waxster
+2026-02-26 21:01:16|hexada|kingfish|gk|eb|fruity aggro|flumbot
+2026-02-26 21:01:16|hexada|kingfish|hg|sp|teleimps|ginoroots
+2026-02-26 21:01:16|hexada|kingfish|if|ro|deadly instinct v7|hmshit
+2026-02-26 21:01:16|kingfish|hexada|gs|eb|garbanzo|ultraaggro
+2026-02-27 02:40:11|michael|voof|if|sf|clocks up|loteria-like
+2026-02-27 02:40:11|michael|voof|im|sp|comboticia|control
+2026-02-27 02:40:11|michael|voof|nt|ro|pooport|tcc hmr
+2026-02-27 02:40:11|michael|voof|ro|nt|tcc|mergetuna mod
+2026-02-27 02:40:11|voof|michael|hg|ro|fh ykm|tcc
+2026-02-27 02:40:11|voof|michael|zm|ro|trickmech|tcc
+2026-02-27 02:47:47|bonicus|first hero|if|gs|clocks up lookin|the deck saved wrong
+2026-02-27 02:47:47|bonicus|first hero|rb|gk|telseterazzi no tot|firstylyzer exhaust
+2026-02-27 02:47:47|first hero|bonicus|cz|nt|cheap trick|graves
+2026-02-27 02:47:47|first hero|bonicus|eb|ct|slewer flummox deluxe|1.5 epictron
+2026-02-27 02:47:47|first hero|bonicus|hg|sf|ykm|kale clones
+2026-02-27 02:47:47|first hero|bonicus|im|sf|michael otktrickster|kale clones
+2026-02-28 11:08:28|autony|huyn|cc|if|astroshroom aggro|modclock
+2026-02-28 11:08:28|autony|huyn|gs|im|abeans|vietstaches
+2026-02-28 11:08:28|autony|huyn|rb|ct|cardsbolt|freezectrl:jerrywhat:
+2026-02-28 11:08:28|huyn|autony|cz|sm|artist|momentum gargs
+2026-02-28 11:08:28|huyn|autony|eb|gs|padbel|abeans
+2026-02-28 11:08:28|huyn|autony|ro|sm|anti-momentum|momentum gargs
+2026-02-28 11:08:28|huyn|autony|sb|sp|blobstrike|radiotherapy
+2026-02-28 14:54:40|div|hai|cc|rb|ishowspeed|telesterazzi
+2026-02-28 14:54:40|div|hai|eb|nc|kerosene|control
+2026-02-28 14:54:40|div|hai|sp|rb|divga roots|telesterazzi
+2026-02-28 14:54:40|div|hai|zm|cc|modded lawnmower|aggro
+2026-02-28 14:54:40|hai|div|if|sf|lba mid|ramp pile
+2026-02-28 20:11:18|fluke|valencia|sf|rb|Unknown|Unknown
+2026-02-28 20:11:18|fluke|valencia|zm|bc|Unknown|Unknown
+2026-02-28 20:11:18|valencia|fluke|eb|sf|Unknown|Unknown
+2026-02-28 20:11:18|valencia|fluke|nc|zm|Unknown|Unknown
+2026-02-28 20:11:18|valencia|fluke|sf|zm|Unknown|Unknown
+2026-02-28 20:11:18|valencia|fluke|zm|cc|Unknown|Unknown
+2026-02-28 23:53:51|coffee|kingfish|cz|im|hunger v44|absordal
+2026-02-28 23:53:51|coffee|kingfish|gk|if|moose|cryo chamber
+2026-02-28 23:53:51|coffee|kingfish|nc|nt|cycle v20|tight grimps
+2026-02-28 23:53:51|kingfish|coffee|cc|eb|bongrip|flummox v33
+2026-02-28 23:53:51|kingfish|coffee|ct|rb|wateroot|tcc slop
+2026-02-28 23:53:51|kingfish|coffee|cz|nt|apotk|nuthing i can ever do is wrng
+2026-02-28 23:53:51|kingfish|coffee|gk|sm|fert father|mmg
+2026-03-01 14:57:40|mono|xera|im|sp|staches|voofggro
+2026-03-01 14:57:40|mono|xera|ro|hg|ramp|telimps
+2026-03-01 14:57:40|mono|xera|sf|im|honeybreaker|bestached
+2026-03-01 14:57:40|mono|xera|sm|nc|Unknown|cycle
+2026-03-01 14:57:40|xera|mono|if|gk|barrel-hokai stars|kusarigama
+2026-03-01 14:57:40|xera|mono|sf|zm|valueflare v16|egg gargs
+2026-03-01 19:28:54|tcc|zzyzx|if|gk|tcc 1.6 星之崩壞 v31|zodiac
+2026-03-01 19:28:54|tcc|zzyzx|rb|sf|tcc voof bora telepzt-or-razzi v 109|cosinus
+2026-03-01 19:28:54|tcc|zzyzx|ro|nt|michael bruh rose v34|shadow ray
+2026-03-01 19:28:54|zzyzx|tcc|bf|cz|claymore|tcc 1.61 mergezilla v70
+2026-03-01 19:28:54|zzyzx|tcc|ct|hg|mud|tryhard first hero 1.6 young ken martin v9
+2026-03-01 19:28:54|zzyzx|tcc|cz|nt|cross viper|tcc 1.6 mergetuna v56
+2026-03-01 19:28:54|zzyzx|tcc|hg|sp|ykm|tcc xera bora 1.6 radio dinoroots v44
+2026-03-01 21:45:32|binaclepinnacle|j.s|ro|hg|xpol pile|mustaches
+2026-03-01 21:45:32|j.s|binaclepinnacle|bc|rb|amphibius|telesterazzi ft. accidental gentleman
+2026-03-01 21:45:32|j.s|binaclepinnacle|eb|cz|gargs 22|briar
+2026-03-01 21:45:32|j.s|binaclepinnacle|gk|nt|magnuts|fishbone
+2026-03-01 21:45:32|j.s|binaclepinnacle|im|cc|science-staches|imifather
+2026-03-02 17:02:38|alan|jackmartin|nc|rb|1.61 fig midrange|telesterazzi w/o tot
+2026-03-02 17:02:38|alan|jackmartin|nt|sf|1.61 gravest sport|freight
+2026-03-02 17:02:38|alan|jackmartin|sf|if|1.61 rng control|old clocks up
+2026-03-02 17:02:38|alan|jackmartin|sp|sm|1.61 fig roots|bloodlust
+2026-03-02 17:02:38|jackmartin|alan|cz|if|hunger v43|1.61 deadly splash pile
+2026-03-03 05:03:20|hystorian|slewer|hg|cz|latam trickstache|tcc’s mergezilla
+2026-03-03 05:03:20|hystorian|slewer|rb|ct|1.5 bolt bolt|tcc’s modded mud
+2026-03-03 05:03:20|hystorian|slewer|ro|eb|buff ro|tcc and bora ecleggtic boogaloo
+2026-03-03 05:03:20|hystorian|slewer|zm|gs|garg mech|tcc’s modded gs list
+2026-03-03 05:03:20|slewer|hystorian|im|ct|tcc’s mergeticia|happy shroom pile
+2026-03-03 05:03:20|slewer|hystorian|nt|nc|modded piport|toyota controlla
+2026-03-04 09:59:07|durga|pipo|gs|if|star|tempo
+2026-03-04 09:59:07|pipo|durga|bc|sm|control|control
+2026-03-04 09:59:07|pipo|durga|im|gk|control|schmidt
+2026-03-04 09:59:07|pipo|durga|sf|im|ramp|tcc merge
+2026-03-04 09:59:07|pipo|durga|sp|im|control|comboticia
+2026-03-04 22:19:33|maker|michael|cc|im|the shooting star v18|comboticia
+2026-03-04 22:19:33|maker|michael|gk|im|reach for the summit|comboticia
+2026-03-04 22:19:33|maker|michael|hg|ct|flowerman otk blob v12|tempo
+2026-03-04 22:19:33|maker|michael|nt|gk|makers scattered and lost v48|kusarigama
+2026-03-04 22:19:33|michael|maker|cc|im|log bait|tcc merge v13
+2026-03-04 22:19:33|michael|maker|hg|gk|telimps|reach for the summit
+2026-03-05 04:47:50|tcc|tqm|cz|zm|tcc 1.61 mergezilla v71|lawnmower
+2026-03-05 04:47:50|tcc|tqm|eb|nc|bora ecleggtic boogaloo 2.10: syncretism|toyota controlla
+2026-03-05 04:47:50|tcc|tqm|hg|nc|tryhard first hero 1.6 young ken martin v15|fungi
+2026-03-05 04:47:50|tcc|tqm|sf|if|tcc 1.61 mergeflare v175|crimps
+2026-03-05 04:47:50|tqm|tcc|cz|nt|apotk|tcc 1.6 mergetuna v57
+2026-03-05 04:47:50|tqm|tcc|hg|sf|sushi 1.6 teleimps|first hero rainbow
+2026-03-05 15:25:48|truong|ocean man|bc|if|Unknown|Unknown
+2026-03-05 15:25:48|truong|ocean man|eb|gk|Unknown|Unknown
+2026-03-05 15:25:48|truong|ocean man|nt|sp|Unknown|Unknown
+2026-03-05 15:25:48|truong|ocean man|ro|zm|Unknown|Unknown
+2026-03-06 18:30:22|autony|j.s|bc|if|watertina|deadly instinct
+2026-03-06 18:30:22|autony|j.s|cc|hg|astroshroom aggro|mustaches
+2026-03-06 18:30:22|autony|j.s|eb|ct|hostage|wetron
+2026-03-06 18:30:22|autony|j.s|rb|gk|cardsbolt|magnuts
+2026-03-06 18:30:22|j.s|autony|im|bc|comboticia mod|root aggro
+2026-03-06 18:30:22|j.s|autony|nc|sb|moso deck|lba blob
+2026-03-06 19:33:45|hystorian|pipo|eb|sf|burn dancing|ramp
+2026-03-06 19:33:45|hystorian|pipo|ro|im|aggro|control
+2026-03-06 19:33:45|hystorian|pipo|sf|sb|fig op|mid range
+2026-03-06 19:33:45|hystorian|pipo|zm|gk|garg mech|control
+2026-03-06 19:33:45|pipo|hystorian|bc|rb|control|tricksterazzi
+2026-03-06 19:33:45|pipo|hystorian|cz|nt|ramp|slugged
+2026-03-06 19:33:45|pipo|hystorian|if|ct|tempo|amphibious
